@@ -1,7 +1,17 @@
 {
   "files": [
     "history/pyq/2015.json",
+    "history/pyq/2016.json",
+    "history/pyq/2017.json",
+    "history/pyq/2018.json",
+    "history/pyq/2019.json",
     "history/pyq/2020.json",
+    "history/pyq/2021.json",
+    "history/pyq/2022.json",
+    "history/pyq/2023.json",
+    "history/pyq/2024.json",
+    "history/pyq/2025.json",
+    "history/pyq/2026.json",
     "history/mock.json",
     "geography/pyq/2019.json"
   ]
