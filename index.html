@@ -6,41 +6,28 @@
 <meta name="theme-color" content="#f4efe6">
 <title>Durga | Self Test</title>
 <style>
-  :root {
-    --bg:#f4efe6; --surface:#fffdf8; --text:#2b2620; --muted:#7d7266; --accent:#b5532b;
-    --accent-soft:#f3e1d6; --ok:#2f7d4f; --bad:#b03a2e; --border:#e6dccd;
-    --shadow:0 4px 18px rgba(60,40,20,.08); --radius:16px; color-scheme:light;
-  }
-  [data-theme="dark"] {
-    --bg:#17140f; --surface:#221e17; --text:#f1eadc; --muted:#9c927f; --accent:#e08a5c;
-    --accent-soft:#3a2d22; --ok:#5fbf85; --bad:#e0766a; --border:#3a332a;
-    --shadow:0 4px 18px rgba(0,0,0,.35); color-scheme:dark;
-  }
+  :root{--bg:#f4efe6;--surface:#fffdf8;--text:#2b2620;--muted:#7d7266;--accent:#b5532b;--accent-soft:#f3e1d6;--ok:#2f7d4f;--bad:#b03a2e;--border:#e6dccd;--shadow:0 4px 18px rgba(60,40,20,.08);--radius:16px;color-scheme:light}
+  [data-theme="dark"]{--bg:#17140f;--surface:#221e17;--text:#f1eadc;--muted:#9c927f;--accent:#e08a5c;--accent-soft:#3a2d22;--ok:#5fbf85;--bad:#e0766a;--border:#3a332a;--shadow:0 4px 18px rgba(0,0,0,.35);color-scheme:dark}
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html,body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
   body{min-height:100vh;padding-bottom:78px}
-  h1,h2,h3{margin:0}
-  .svg-i{width:20px;height:20px;flex:0 0 auto}
-  header.top{position:sticky;top:0;z-index:5;display:flex;align-items:center;justify-content:space-between;
-    padding:14px 16px;padding-top:calc(14px + env(safe-area-inset-top,0px));background:var(--bg)}
-  .brand{display:flex;align-items:center;gap:10px;font-weight:700;letter-spacing:.3px}
+  h2{font-size:22px;margin:8px 0 4px}
+  h3{font-size:16px;margin:0 0 10px}
+  .muted{color:var(--muted);font-size:13px}
+  svg.i{width:20px;height:20px;flex:0 0 auto}
+  header.top{position:sticky;top:0;z-index:5;display:flex;align-items:center;justify-content:space-between;padding:14px 16px;padding-top:calc(14px + env(safe-area-inset-top,0px));background:var(--bg)}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:700}
   .avatar{width:34px;height:34px;border-radius:50%;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center;font-weight:700}
   .icon-btn{width:40px;height:40px;border-radius:50%;border:1px solid var(--border);background:var(--surface);color:var(--text);display:grid;place-items:center;cursor:pointer}
   main{max-width:640px;margin:0 auto;padding:4px 16px 24px}
   .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow);margin-bottom:14px}
-  .muted{color:var(--muted);font-size:13px}
-  h2{font-size:22px;margin:8px 0 4px}
-  h3{font-size:16px;margin-bottom:10px}
   .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-  .subj{cursor:pointer;text-align:left;border:1px solid var(--border);background:var(--surface);color:var(--text);
-    border-radius:var(--radius);padding:16px 14px;box-shadow:var(--shadow);font:inherit;transition:transform .15s}
-  .subj:active{transform:scale(.97)}
+  .subj{cursor:pointer;text-align:left;border:1px solid var(--border);background:var(--surface);color:var(--text);border-radius:var(--radius);padding:16px 14px;box-shadow:var(--shadow);font:inherit}
   .subj .ic{width:38px;height:38px;border-radius:12px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center;margin-bottom:10px}
   .subj .nm{font-weight:600}
   .btn{display:block;width:100%;border:none;background:var(--accent);color:#fff;padding:14px;border-radius:12px;font:inherit;font-weight:600;cursor:pointer;margin-top:10px}
   .btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
   .btn.sm{display:inline-flex;align-items:center;gap:6px;width:auto;padding:8px 14px;margin-top:0;font-size:14px}
-  .btn:disabled{opacity:.4}
   .row{display:flex;gap:10px}.row>*{flex:1}
   .tabs{display:flex;gap:8px;margin:12px 0;overflow-x:auto}
   .tab{flex:0 0 auto;padding:8px 14px;border-radius:999px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-size:14px;cursor:pointer}
@@ -74,31 +61,29 @@
   .bar-fill{height:100%;border-radius:999px;transition:width .6s}
   .expl{margin-top:8px;padding:10px 12px;border-radius:10px;background:var(--accent-soft);font-size:14px}
   .insight{display:flex;gap:10px;align-items:flex-start;font-size:14px;margin:8px 0}
-  .insight .svg-i{color:var(--accent);margin-top:2px}
-  .bottom{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--surface);border-top:1px solid var(--border);
-    padding-bottom:env(safe-area-inset-bottom,0px);z-index:6}
+  .insight svg{color:var(--accent);margin-top:2px}
+  .error{border-color:var(--bad)}
+  .error code{font-size:12px;word-break:break-all}
+  .bottom{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--surface);border-top:1px solid var(--border);padding-bottom:env(safe-area-inset-bottom,0px);z-index:6}
   .bottom button{flex:1;border:none;background:none;color:var(--muted);padding:10px 4px 8px;font:inherit;font-size:12px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:4px}
   .bottom button.on{color:var(--accent);font-weight:600}
   .splash{position:fixed;inset:0;z-index:50;background:var(--bg);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;transition:opacity .4s,visibility .4s}
   .splash.hide{opacity:0;visibility:hidden}
-  .splash .photo{width:150px;height:150px;border-radius:50%;object-fit:cover;border:3px solid var(--accent);box-shadow:var(--shadow);
-    animation:pop .9s cubic-bezier(.2,.8,.2,1) both}
-  .splash .photo.fallback{display:grid;place-items:center;background:var(--accent-soft);color:var(--accent);font-size:56px;font-weight:700}
-  .splash h1{font-size:30px;opacity:0;animation:up .8s .5s forwards}
-  .splash p{opacity:0;color:var(--muted);margin:0;animation:up .8s 1s forwards}
+  .splash .photo{width:150px;height:150px;border-radius:50%;object-fit:cover;border:3px solid var(--accent);box-shadow:var(--shadow);animation:pop .9s cubic-bezier(.2,.8,.2,1) both}
+  .splash .fallback{display:grid;place-items:center;background:var(--accent-soft);color:var(--accent);font-size:56px;font-weight:700}
+  .splash h1{font-size:30px;margin:0;opacity:0;animation:up .8s .5s forwards}
+  .splash p{margin:0;color:var(--muted);opacity:0;animation:up .8s 1s forwards}
   @keyframes pop{from{transform:scale(.6);opacity:0}to{transform:scale(1);opacity:1}}
   @keyframes up{from{transform:translateY(12px);opacity:0}to{transform:none;opacity:1}}
-  .fade-in{animation:up .45s both}
+  .fade{animation:up .45s both}
   .toast{position:fixed;left:50%;bottom:92px;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;opacity:0;transition:opacity .3s;pointer-events:none;z-index:9}
   .toast.show{opacity:1}
-  table{width:100%;border-collapse:collapse;font-size:14px}
-  td,th{padding:8px 4px;border-bottom:1px solid var(--border);text-align:left}
 </style>
 </head>
 <body>
 
 <div class="splash" id="splash">
-  <img class="photo" id="photo" src="assets/durga.jpg" alt="Durga" onerror="this.outerHTML='<div class=\'photo fallback\'>D</div>'">
+  <div id="photoBox"></div>
   <h1>Hi, Durga</h1>
   <p>Let's practise today</p>
 </div>
@@ -111,14 +96,14 @@
 <main id="app"></main>
 
 <nav class="bottom">
-  <button data-nav="home"><span data-i="home"></span>Home</button>
-  <button data-nav="results"><span data-i="chart"></span>Results</button>
+  <button data-nav="home"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/></svg>Home</button>
+  <button data-nav="results"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Results</button>
 </nav>
 <div class="toast" id="toast"></div>
 
 <script>
-/* ================= ICONS (SVG, no emoji) ================= */
-const ICONS = {
+/* ---------- ICONS ---------- */
+const PATHS = {
   home:'<path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/>',
   chart:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
   landmark:'<path d="M3 22h18M5 22V10M9 22V10M15 22V10M19 22V10M2 10l10-7 10 7"/>',
@@ -130,78 +115,116 @@ const ICONS = {
   moon:'<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/>',
   clock:'<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
   check:'<path d="M20 6L9 17l-5-5"/>',
-  bookmark:'<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2Z"/>',
   left:'<path d="M15 18l-6-6 6-6"/>',
   right:'<path d="M9 18l6-6-6-6"/>',
-  target:'<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
-  alert:'<path d="M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/><path d="M12 9v4M12 17h.01"/>'
+  bookmark:'<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2Z"/>',
+  alert:'<path d="M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/><path d="M12 9v4M12 17h.01"/>',
+  target:'<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>'
 };
-const icon = (n, s = 20) => `<svg class="svg-i" width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[n]||""}</svg>`;
-document.querySelectorAll("[data-i]").forEach(el => el.innerHTML = icon(el.dataset.i));
+const icon = (n, s = 20) => `<svg class="i" width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${PATHS[n] || ""}</svg>`;
 
-/* ================= CONFIG ================= */
+/* ---------- CONFIG ---------- */
 const SUBJECTS = [
-  { key:"history", name:"History", icon:"landmark" },
-  { key:"geography", name:"Geography", icon:"globe" },
-  { key:"home-science", name:"Home Science", icon:"leaf" },
-  { key:"hindi", name:"Hindi", icon:"pen" },
-  { key:"english", name:"English", icon:"type" }
+  { key: "history",      name: "History",      icon: "landmark" },
+  { key: "geography",    name: "Geography",    icon: "globe" },
+  { key: "home-science", name: "Home Science", icon: "leaf" },
+  { key: "hindi",        name: "Hindi",        icon: "pen" },
+  { key: "english",      name: "English",      icon: "type" }
 ];
-const LETTERS = ["A","B","C","D","E","F"];
+const LETTERS = ["A", "B", "C", "D", "E", "F"];
 const NEG = 0.25;
 
-/* ================= HELPERS ================= */
+/* ---------- HELPERS ---------- */
 const $ = s => document.querySelector(s);
 const app = $("#app");
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const fmt = s => `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
 const store = {
-  get(k,d){ try{ const v=localStorage.getItem(k); return v?JSON.parse(v):d; }catch{ return d; } },
-  set(k,v){ try{ localStorage.setItem(k,JSON.stringify(v)); }catch{} }
+  get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
 };
-const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const fmt = s => `${String(Math.floor(s/60)).padStart(2,"0")}:${String(s%60).padStart(2,"0")}`;
-const shuffle = a => { a=[...a]; for(let i=a.length-1;i>0;i--){ const j=Math.random()*(i+1)|0; [a[i],a[j]]=[a[j],a[i]]; } return a; };
-let bank = [];
 let toastT;
-function toast(m){ const t=$("#toast"); t.textContent=m; t.classList.add("show"); clearTimeout(toastT); toastT=setTimeout(()=>t.classList.remove("show"),1800); }
+function toast(msg) {
+  const t = $("#toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove("show"), 1800);
+}
 
-/* ================= THEME ================= */
-function setTheme(t){
+/* ---------- THEME ---------- */
+function setTheme(t) {
   document.documentElement.setAttribute("data-theme", t);
-  $("#themeBtn").innerHTML = icon(t==="dark"?"sun":"moon");
+  $("#themeBtn").innerHTML = icon(t === "dark" ? "sun" : "moon");
   store.set("durga_theme", t);
 }
-$("#themeBtn").onclick = () => setTheme(document.documentElement.dataset.theme==="dark"?"light":"dark");
-setTheme(store.get("durga_theme", matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"));
+$("#themeBtn").onclick = () => setTheme(document.documentElement.dataset.theme === "dark" ? "light" : "dark");
+setTheme(store.get("durga_theme", matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"));
 
-/* ================= NAV ================= */
-document.querySelectorAll("[data-nav]").forEach(b => b.onclick = () => b.dataset.nav==="home" ? showHome() : showResults());
-function setNav(n){ document.querySelectorAll("[data-nav]").forEach(b=>b.classList.toggle("on", b.dataset.nav===n)); }
+/* ---------- SPLASH PHOTO ---------- */
+(function setPhoto() {
+  const box = $("#photoBox");
+  const img = new Image();
+  img.className = "photo";
+  img.alt = "Durga";
+  img.onload = () => box.appendChild(img);
+  img.onerror = () => {
+    const d = document.createElement("div");
+    d.className = "photo fallback";
+    d.style.width = d.style.height = "150px";
+    d.style.borderRadius = "50%";
+    d.textContent = "D";
+    box.appendChild(d);
+  };
+  img.src = "assets/durga.jpg";
+})();
 
-/* ================= LOAD PRELOADED QUESTIONS ================= */
-async function loadBank(){
-  const res = await fetch("questions/manifest.json");
-  if(!res.ok) throw new Error("manifest");
-  const { files } = await res.json();
-  bank = await Promise.all(files.map(p =>
-    fetch("questions/"+p).then(r=>{ if(!r.ok) throw new Error(p); return r.json(); })
-      .then(d => ({ ...d, __p: p }))
-  ));
+/* ---------- NAV ---------- */
+document.querySelectorAll("[data-nav]").forEach(b => b.onclick = () => b.dataset.nav === "home" ? showHome() : showResults());
+function setNav(n) { document.querySelectorAll("[data-nav]").forEach(b => b.classList.toggle("on", b.dataset.nav === n)); }
+
+/* ---------- LOAD QUESTIONS ---------- */
+let bank = [];
+let loadErrors = [];
+
+async function loadBank() {
+  // 1. manifest
+  const res = await fetch("questions/manifest.json", { cache: "no-store" });
+  if (!res.ok) throw new Error(`questions/manifest.json nahi mila (HTTP ${res.status})`);
+  const manifest = await res.json();
+  const files = manifest.files || [];
+
+  // 2. each JSON file; a missing one is skipped, not fatal
+  const results = await Promise.allSettled(files.map(async p => {
+    const r = await fetch("questions/" + p, { cache: "no-store" });
+    if (!r.ok) throw new Error(`${p} (HTTP ${r.status})`);
+    const data = await r.json();
+    return { ...data, __p: p };
+  }));
+
+  bank = results.filter(r => r.status === "fulfilled").map(r => r.value);
+  loadErrors = results.filter(r => r.status === "rejected").map(r => r.reason.message);
+  if (loadErrors.length) console.warn("Skipped:", loadErrors);
 }
+
 const filesFor = key => bank.filter(f => f.subject === key);
-const qCount = key => filesFor(key).reduce((n,f)=>n+f.questions.length,0);
+const qCount = key => filesFor(key).reduce((n, f) => n + f.questions.length, 0);
 const byPath = p => bank.find(f => f.__p === p);
 
-/* ================= HOME ================= */
-function showHome(){
+/* ---------- HOME ---------- */
+function showHome() {
   setNav("home");
+  let errorHtml = "";
+  if (loadErrors.length) {
+    errorHtml = `<div class="card error"><h3>Kuch files load nahi hui</h3>
+      ${loadErrors.map(e => `<div class="muted"><code>${esc(e)}</code></div>`).join("")}</div>`;
+  }
   app.innerHTML = `
-    <div class="fade-in">
+    <div class="fade">
       <h2>Hi, Durga</h2>
-      <p class="muted">Choose a subject to start practising.</p>
+      <p class="muted">Subject chuniye aur practice shuru kariye.</p>
+      ${errorHtml}
       <div class="grid2">
         ${SUBJECTS.map(s => `
           <button class="subj" data-subj="${s.key}">
-            <div class="ic">${icon(s.icon,20)}</div>
+            <div class="ic">${icon(s.icon)}</div>
             <div class="nm">${s.name}</div>
             <div class="muted">${qCount(s.key)} questions</div>
           </button>`).join("")}
@@ -210,93 +233,89 @@ function showHome(){
   app.querySelectorAll("[data-subj]").forEach(b => b.onclick = () => showSubject(b.dataset.subj));
 }
 
-/* ================= SUBJECT ================= */
-function showSubject(key, tab="pyq"){
+/* ---------- SUBJECT ---------- */
+function showSubject(key, tab = "pyq") {
   setNav("home");
-  const s = SUBJECTS.find(x=>x.key===key);
+  const s = SUBJECTS.find(x => x.key === key);
   const files = filesFor(key);
   let body = "";
-  if(tab==="pyq"){
-    const pyq = files.filter(f=>f.type==="pyq").sort((a,b)=>b.year-a.year);
-    body = pyq.length ? pyq.map(f=>`
-      <div class="li" data-start="pyq" data-path="${esc(f.__p)}">
-        <div><b>${f.year}</b><div class="muted">${esc(f.chapter||"")}</div></div>
-        <span class="pill">${f.questions.length} Q</span></div>`).join("")
-      : `<p class="muted">No PYQ papers added yet.</p>`;
-  } else if(tab==="chapter"){
-    const map = {};
-    files.filter(f=>f.type!=="mock").forEach(f=>{ (map[f.chapter]??=[]).push(f); });
-    body = Object.keys(map).length ? Object.entries(map).map(([ch,fs])=>`
-      <div class="li" data-start="chapter" data-ch="${esc(ch)}">
-        <div><b>${esc(ch)}</b></div>
-        <span class="pill">${fs.reduce((n,f)=>n+f.questions.length,0)} Q</span></div>`).join("")
-      : `<p class="muted">No chapter-wise questions yet.</p>`;
+
+  if (tab === "pyq") {
+    const pyq = files.filter(f => f.type === "pyq").sort((a, b) => b.year - a.year);
+    body = pyq.length
+      ? pyq.map(f => `
+        <div class="li" data-start="pyq" data-path="${esc(f.__p)}">
+          <div><b>${f.year}</b><div class="muted">${esc(f.chapter || "")}</div></div>
+          <span class="pill">${f.questions.length} Q</span>
+        </div>`).join("")
+      : `<p class="muted">Is subject ke PYQ abhi add nahi hue hain.</p>`;
+  } else if (tab === "chapter") {
+    body = `<p class="muted">Chapter-wise abhi add nahi hua hai.</p>`;
   } else {
-    const mocks = files.filter(f=>f.type==="mock");
-    body = mocks.length ? mocks.map(f=>`
-      <div class="li" data-start="mock" data-path="${esc(f.__p)}">
-        <div><b>Full-length Mock</b><div class="muted">${f.questions.length} questions · negative marking ${NEG}</div></div>
-        <span class="pill">Start</span></div>`).join("")
-      : `<p class="muted">No full-length mock added yet.</p>`;
+    body = `<p class="muted">Full mock abhi add nahi hua hai.</p>`;
   }
+
   app.innerHTML = `
-    <div class="fade-in">
-      <button class="btn ghost sm" id="back">${icon("left",16)} Back</button>
+    <div class="fade">
+      <button class="btn ghost sm" id="back">${icon("left", 16)} Back</button>
       <h2 style="margin-top:12px">${s.name}</h2>
       <div class="tabs">
-        ${[["pyq","PYQ by Year"],["chapter","Chapter-wise"],["mock","Full Mock"]].map(([k,l])=>`<button class="tab ${tab===k?"on":""}" data-tab="${k}">${l}</button>`).join("")}
+        ${[["pyq", "PYQ by Year"], ["chapter", "Chapter-wise"], ["mock", "Full Mock"]]
+          .map(([k, l]) => `<button class="tab ${tab === k ? "on" : ""}" data-tab="${k}">${l}</button>`).join("")}
       </div>
       <div class="card" style="padding:4px 14px">${body}</div>
     </div>`;
+
   $("#back").onclick = showHome;
-  app.querySelectorAll("[data-tab]").forEach(b=>b.onclick=()=>showSubject(key,b.dataset.tab));
-  app.querySelectorAll("[data-start]").forEach(el=>el.onclick=()=>{
-    const m = el.dataset.start;
-    if(m==="pyq"){
-      const f = byPath(el.dataset.path);
-      startTest(f.questions.map(q=>({...q,subject:key,chapter:f.chapter,year:f.year})), `${s.name} · ${f.year}`, false);
-    } else if(m==="chapter"){
-      const qs = files.filter(f=>f.chapter===el.dataset.ch && f.type!=="mock")
-        .flatMap(f=>f.questions.map(q=>({...q,subject:key,chapter:f.chapter,year:f.year})));
-      startTest(shuffle(qs), `${s.name} · ${el.dataset.ch}`, false);
-    } else {
-      const f = byPath(el.dataset.path);
-      startTest(f.questions.map(q=>({...q,subject:key,chapter:q.chapter||"Mock"})), `${s.name} · Full Mock`, true);
-    }
+  app.querySelectorAll("[data-tab]").forEach(b => b.onclick = () => showSubject(key, b.dataset.tab));
+  app.querySelectorAll("[data-start='pyq']").forEach(el => el.onclick = () => {
+    const f = byPath(el.dataset.path);
+    startTest(
+      f.questions.map(q => ({ ...q, subject: key, chapter: q.chapter || f.chapter, year: f.year })),
+      `${s.name} · ${f.year}`,
+      false
+    );
   });
 }
 
-/* ================= TEST ENGINE ================= */
-let T=null, timer=null;
-function startTest(qs,title,negative){
-  if(!qs.length) return toast("No questions in this set");
-  const perQ = negative ? 60 : 45;
-  T = { qs,title,negative,idx:0,answers:{},marked:{},started:Date.now(),left:qs.length*perQ };
+/* ---------- TEST ENGINE ---------- */
+let T = null, timer = null;
+
+function startTest(qs, title, negative) {
+  if (!qs.length) return toast("Is set me questions nahi hain");
+  T = { qs, title, negative, idx: 0, answers: {}, marked: {}, started: Date.now(), left: qs.length * 45 };
   setNav("home");
   renderTest();
   clearInterval(timer);
-  timer = setInterval(()=>{
+  timer = setInterval(() => {
     T.left--;
-    const c=$("#clock"); if(c) c.textContent=fmt(T.left);
-    if(T.left<=0){ clearInterval(timer); finish(true); }
-  },1000);
+    const c = $("#clock"); if (c) c.textContent = fmt(T.left);
+    if (T.left <= 0) { clearInterval(timer); finish(true); }
+  }, 1000);
 }
-function renderTest(){
-  const q=T.qs[T.idx], done=Object.keys(T.answers).length;
+
+function renderTest() {
+  const q = T.qs[T.idx];
+  const done = Object.keys(T.answers).length;
+  const last = T.idx === T.qs.length - 1;
   app.innerHTML = `
-    <div class="fade-in">
-      <div class="topbar"><span class="muted">${esc(T.title)}</span>
-        <span class="timer">${icon("clock",16)}<span id="clock">${fmt(T.left)}</span></span></div>
-      <div class="progress"><div style="width:${done/T.qs.length*100}%"></div></div>
+    <div class="fade">
+      <div class="topbar">
+        <span class="muted">${esc(T.title)}</span>
+        <span class="timer">${icon("clock", 16)}<span id="clock">${fmt(T.left)}</span></span>
+      </div>
+      <div class="progress"><div style="width:${done / T.qs.length * 100}%"></div></div>
       <div class="card">
-        <div class="muted">Question ${T.idx+1} of ${T.qs.length} ${q.chapter?"· "+esc(q.chapter):""}</div>
+        <div class="muted">Question ${T.idx + 1} of ${T.qs.length}${q.chapter ? " · " + esc(q.chapter) : ""}</div>
         <div class="qtext">${esc(q.question)}</div>
-        ${q.options.map((o,i)=>`<div class="opt ${T.answers[T.idx]===i?"sel":""}" data-opt="${i}">
-          <span class="letter">${LETTERS[i]}</span><span>${esc(o)}</span></div>`).join("")}
+        ${q.options.map((o, i) => `
+          <div class="opt ${T.answers[T.idx] === i ? "sel" : ""}" data-opt="${i}">
+            <span class="letter">${LETTERS[i]}</span><span>${esc(o)}</span>
+          </div>`).join("")}
         <div class="row" style="margin-top:10px">
-          <button class="btn ghost" id="prev" ${T.idx===0?"disabled":""}>${icon("left",16)} Prev</button>
-          <button class="btn ghost" id="mark">${icon("bookmark",16)} ${T.marked[T.idx]?"Marked":"Mark"}</button>
-          <button class="btn" id="next">${T.idx===T.qs.length-1?"End":"Next"} ${T.idx===T.qs.length-1?"":icon("right",16)}</button>
+          <button class="btn ghost" id="prev" ${T.idx === 0 ? "disabled" : ""}>${icon("left", 16)} Prev</button>
+          <button class="btn ghost" id="mark">${icon("bookmark", 16)} ${T.marked[T.idx] ? "Marked" : "Mark"}</button>
+          <button class="btn" id="next">${last ? "End" : "Next"}</button>
         </div>
         <div class="row" style="margin-top:4px">
           <button class="btn ghost" id="clear">Clear answer</button>
@@ -305,181 +324,220 @@ function renderTest(){
       </div>
       <div class="card">
         <div class="muted">Question palette</div>
-        <div class="palette">${T.qs.map((_,i)=>`<button class="pal ${T.answers[i]!==undefined?"done":""} ${i===T.idx?"cur":""}" data-go="${i}">${i+1}</button>`).join("")}</div>
+        <div class="palette">
+          ${T.qs.map((_, i) => `<button class="pal ${T.answers[i] !== undefined ? "done" : ""} ${i === T.idx ? "cur" : ""}" data-go="${i}">${i + 1}</button>`).join("")}
+        </div>
       </div>
     </div>`;
-  app.querySelectorAll("[data-opt]").forEach(el=>el.onclick=()=>{ T.answers[T.idx]=+el.dataset.opt; renderTest(); });
-  app.querySelectorAll("[data-go]").forEach(el=>el.onclick=()=>{ T.idx=+el.dataset.go; renderTest(); });
-  $("#prev").onclick=()=>{ if(T.idx>0){ T.idx--; renderTest(); } };
-  $("#next").onclick=()=>{ if(T.idx<T.qs.length-1){ T.idx++; renderTest(); } else toast("Last question. Submit when ready."); };
-  $("#mark").onclick=()=>{ T.marked[T.idx]=!T.marked[T.idx]; renderTest(); };
-  $("#clear").onclick=()=>{ delete T.answers[T.idx]; renderTest(); };
-  $("#submit").onclick=()=>{
-    const left=T.qs.length-Object.keys(T.answers).length;
-    if(left>0 && !confirm(`${left} questions unanswered. Submit anyway?`)) return;
+
+  app.querySelectorAll("[data-opt]").forEach(el => el.onclick = () => { T.answers[T.idx] = +el.dataset.opt; renderTest(); });
+  app.querySelectorAll("[data-go]").forEach(el => el.onclick = () => { T.idx = +el.dataset.go; renderTest(); });
+  $("#prev").onclick = () => { if (T.idx > 0) { T.idx--; renderTest(); } };
+  $("#next").onclick = () => { if (!last) { T.idx++; renderTest(); } else toast("Last question. Submit karein."); };
+  $("#mark").onclick = () => { T.marked[T.idx] = !T.marked[T.idx]; renderTest(); };
+  $("#clear").onclick = () => { delete T.answers[T.idx]; renderTest(); };
+  $("#submit").onclick = () => {
+    const left = T.qs.length - Object.keys(T.answers).length;
+    if (left > 0 && !confirm(`${left} questions ka answer nahi diya. Phir bhi submit karein?`)) return;
     finish(false);
   };
 }
-function finish(auto){
+
+function finish(auto) {
   clearInterval(timer);
-  let score=0,correct=0,wrong=0,skipped=0;
-  const byChapter={};
-  T.qs.forEach((q,i)=>{
-    const ch=q.chapter||"General";
-    (byChapter[ch] ??= {total:0,correct:0,wrong:0}).total++;
-    const a=T.answers[i];
-    if(a===undefined){ skipped++; return; }
-    if(a===q.answer){ correct++; score+=q.marks??1; byChapter[ch].correct++; }
-    else { wrong++; byChapter[ch].wrong++; if(T.negative) score-=NEG; }
+  let score = 0, correct = 0, wrong = 0, skipped = 0;
+  const byChapter = {};
+  T.qs.forEach((q, i) => {
+    const ch = q.chapter || "General";
+    (byChapter[ch] ??= { total: 0, correct: 0 }).total++;
+    const a = T.answers[i];
+    if (a === undefined) { skipped++; return; }
+    if (a === q.answer) { correct++; byChapter[ch].correct++; score += q.marks ?? 1; }
+    else { wrong++; if (T.negative) score -= NEG; }
   });
-  const r={
-    id:Date.now(), title:T.title, date:new Date().toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"}),
-    subject:T.qs[0]?.subject, total:T.qs.length, correct, wrong, skipped,
-    score:Math.round(score*100)/100, time:Math.round((Date.now()-T.started)/1000), auto, byChapter,
-    review:T.qs.map((q,i)=>({q:q.question,options:q.options,answer:q.answer,given:T.answers[i],explanation:q.explanation||""}))
+  const result = {
+    title: T.title,
+    date: new Date().toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" }),
+    subject: T.qs[0]?.subject,
+    total: T.qs.length, correct, wrong, skipped,
+    score: Math.round(score * 100) / 100,
+    time: Math.round((Date.now() - T.started) / 1000),
+    auto, byChapter,
+    review: T.qs.map((q, i) => ({ q: q.question, options: q.options, answer: q.answer, given: T.answers[i], explanation: q.explanation || "" }))
   };
-  const all=store.get("durga_results",[]); all.unshift(r); store.set("durga_results",all.slice(0,200));
-  showResult(r);
+  const all = store.get("durga_results", []);
+  all.unshift(result);
+  store.set("durga_results", all.slice(0, 200));
+  showResult(result);
 }
 
-/* ================= CHARTS (pure SVG) ================= */
-function donut(parts){
-  const total=parts.reduce((n,p)=>n+p.value,0)||1; let acc=0; const R=54, C=2*Math.PI*R;
-  const arcs=parts.map(p=>{
-    const len=p.value/total*C;
-    const el=`<circle r="${R}" cx="70" cy="70" fill="none" stroke="${p.color}" stroke-width="18"
-      stroke-dasharray="${len} ${C-len}" stroke-dashoffset="${-acc}" transform="rotate(-90 70 70)"/>`;
-    acc+=len; return el;
+/* ---------- SVG CHARTS ---------- */
+function donut(parts) {
+  const total = parts.reduce((n, p) => n + p.value, 0) || 1;
+  const R = 54, C = 2 * Math.PI * R;
+  let acc = 0;
+  const arcs = parts.map(p => {
+    const len = p.value / total * C;
+    const el = `<circle r="${R}" cx="70" cy="70" fill="none" stroke="${p.color}" stroke-width="18"
+      stroke-dasharray="${len} ${C - len}" stroke-dashoffset="${-acc}" transform="rotate(-90 70 70)"/>`;
+    acc += len;
+    return el;
   }).join("");
-  const pct = Math.round((parts[0].value/total)*100);
+  const pct = Math.round(parts[0].value / total * 100);
   return `<svg viewBox="0 0 140 140" width="140" height="140" role="img" aria-label="Answer split">
     <circle r="${R}" cx="70" cy="70" fill="none" stroke="var(--border)" stroke-width="18"/>${arcs}
     <text x="70" y="76" text-anchor="middle" font-size="20" font-weight="700" fill="var(--text)">${pct}%</text></svg>`;
 }
-function barChart(rows){
-  return rows.map(x=>{
-    const color = x.acc>=75?"var(--ok)":x.acc>=50?"var(--accent)":"var(--bad)";
-    return `<div class="bar-row"><span>${esc(x.ch)}</span>
+
+function barChart(rows) {
+  return rows.map(x => {
+    const color = x.acc >= 75 ? "var(--ok)" : x.acc >= 50 ? "var(--accent)" : "var(--bad)";
+    return `<div class="bar-row">
+      <span>${esc(x.ch)}</span>
       <div class="bar-track"><div class="bar-fill" style="width:${x.acc}%;background:${color}"></div></div>
       <span style="text-align:right">${x.acc}%</span></div>`;
   }).join("");
 }
-function trendChart(points){
-  if(points.length<2) return `<p class="muted">Take at least two tests to see your trend.</p>`;
-  const W=320,H=130,P=22;
-  const xs=points.map((_,i)=>P+i*(W-2*P)/(points.length-1));
-  const ys=points.map(p=>H-P-(p/100)*(H-2*P));
-  const path=xs.map((x,i)=>`${i?"L":"M"}${x.toFixed(1)},${ys[i].toFixed(1)}`).join(" ");
-  const grid=[0,50,100].map(v=>{ const y=H-P-(v/100)*(H-2*P);
-    return `<line x1="${P}" x2="${W-P}" y1="${y}" y2="${y}" stroke="var(--border)"/><text x="2" y="${y+4}" font-size="10" fill="var(--muted)">${v}</text>`; }).join("");
+
+function trendChart(points) {
+  if (points.length < 2) return `<p class="muted">Trend ke liye kam se kam 2 tests dein.</p>`;
+  const W = 320, H = 130, P = 22;
+  const xs = points.map((_, i) => P + i * (W - 2 * P) / (points.length - 1));
+  const ys = points.map(p => H - P - (p / 100) * (H - 2 * P));
+  const path = xs.map((x, i) => `${i ? "L" : "M"}${x.toFixed(1)},${ys[i].toFixed(1)}`).join(" ");
+  const grid = [0, 50, 100].map(v => {
+    const y = H - P - (v / 100) * (H - 2 * P);
+    return `<line x1="${P}" x2="${W - P}" y1="${y}" y2="${y}" stroke="var(--border)"/>
+            <text x="2" y="${y + 4}" font-size="10" fill="var(--muted)">${v}</text>`;
+  }).join("");
   return `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Accuracy trend">
     ${grid}<path d="${path}" fill="none" stroke="var(--accent)" stroke-width="2.5"/>
-    ${xs.map((x,i)=>`<circle cx="${x}" cy="${ys[i]}" r="4" fill="var(--accent)"/>`).join("")}</svg>`;
+    ${xs.map((x, i) => `<circle cx="${x}" cy="${ys[i]}" r="4" fill="var(--accent)"/>`).join("")}</svg>`;
 }
 
-/* ================= ANALYSIS ================= */
-function analyze(r){
-  const rows=Object.entries(r.byChapter).map(([ch,v])=>({ch,acc:Math.round(v.correct/v.total*100),...v}));
-  const weak=rows.filter(x=>x.acc<50).sort((a,b)=>a.acc-b.acc);
-  const strong=rows.filter(x=>x.acc>=75);
-  const accuracy=(r.correct+r.wrong)?Math.round(r.correct/(r.correct+r.wrong)*100):0;
-  const tips=[];
-  if(weak.length) tips.push({t:"alert",m:`Revise: ${weak.map(w=>w.ch).join(", ")}. Solve their PYQs again.`});
-  if(strong.length) tips.push({t:"check",m:`Strong in: ${strong.map(s=>s.ch).join(", ")}. Keep these warm with quick revision.`});
-  if(r.wrong>r.correct) tips.push({t:"target",m:"More wrong than right. Skip the questions you truly don't know."});
-  if(r.skipped>r.total/3) tips.push({t:"clock",m:"Many questions were skipped. Practise pacing at about 45 seconds per question."});
-  if(!tips.length) tips.push({t:"check",m:"Solid performance. Focus on speed next."});
-  return {rows,accuracy,tips,avg:Math.round(r.time/Math.max(1,r.total))};
+/* ---------- ANALYSIS ---------- */
+function analyze(r) {
+  const rows = Object.entries(r.byChapter).map(([ch, v]) => ({ ch, acc: Math.round(v.correct / v.total * 100), ...v }));
+  const weak = rows.filter(x => x.acc < 50);
+  const strong = rows.filter(x => x.acc >= 75);
+  const accuracy = (r.correct + r.wrong) ? Math.round(r.correct / (r.correct + r.wrong) * 100) : 0;
+  const tips = [];
+  if (weak.length) tips.push({ icon: "alert", text: `Revise karein: ${weak.map(w => w.ch).join(", ")}` });
+  if (strong.length) tips.push({ icon: "check", text: `Strong chapters: ${strong.map(s => s.ch).join(", ")}` });
+  if (r.wrong > r.correct) tips.push({ icon: "target", text: "Galat jawab zyada hain. Jo nahi aata wahan andaza mat lagaiye." });
+  if (r.skipped > r.total / 3) tips.push({ icon: "clock", text: "Bahut sawal chhode gaye. Har sawal ke liye 45 second ka target rakhiye." });
+  if (!tips.length) tips.push({ icon: "check", text: "Achha performance. Ab speed par kaam kariye." });
+  return { rows, accuracy, tips, avg: Math.round(r.time / Math.max(1, r.total)) };
 }
 
-/* ================= RESULT ================= */
-function showResult(r){
+/* ---------- RESULT ---------- */
+function showResult(r) {
   setNav("results");
-  const a=analyze(r);
-  app.innerHTML=`
-  <div class="fade-in">
-    <button class="btn ghost sm" id="home">${icon("left",16)} Home</button>
-    <h2 style="margin-top:12px">Test result</h2>
-    <p class="muted">${esc(r.title)} · ${esc(r.date)}${r.auto?" · Time over":""}</p>
-    <div class="card">
-      <div class="stats">
-        <div><div class="big">${r.score}</div><div class="muted">Score / ${r.total}</div></div>
-        <div><div class="big">${a.accuracy}%</div><div class="muted">Accuracy</div></div>
-        <div><div class="big">${a.avg}s</div><div class="muted">Per question</div></div>
-      </div>
-    </div>
-    <div class="card">
-      <h3>Answer split</h3>
-      <div class="chart-wrap">
-        ${donut([{value:r.correct,color:"var(--ok)"},{value:r.wrong,color:"var(--bad)"},{value:r.skipped,color:"var(--border)"}])}
-        <div class="legend">
-          <span><i class="dot" style="background:var(--ok)"></i>Correct · ${r.correct}</span>
-          <span><i class="dot" style="background:var(--bad)"></i>Wrong · ${r.wrong}</span>
-          <span><i class="dot" style="background:var(--border)"></i>Skipped · ${r.skipped}</span>
+  const a = analyze(r);
+  app.innerHTML = `
+    <div class="fade">
+      <button class="btn ghost sm" id="home">${icon("left", 16)} Home</button>
+      <h2 style="margin-top:12px">Result</h2>
+      <p class="muted">${esc(r.title)} · ${esc(r.date)}${r.auto ? " · time khatam" : ""}</p>
+
+      <div class="card">
+        <div class="stats">
+          <div><div class="big">${r.score}</div><div class="muted">Score / ${r.total}</div></div>
+          <div><div class="big">${a.accuracy}%</div><div class="muted">Accuracy</div></div>
+          <div><div class="big">${a.avg}s</div><div class="muted">Per question</div></div>
         </div>
       </div>
-    </div>
-    ${a.rows.length?`<div class="card"><h3>Chapter-wise accuracy</h3>${barChart(a.rows)}</div>`:""}
-    <div class="card"><h3>Insights</h3>
-      ${a.tips.map(t=>`<div class="insight">${icon(t.t,18)}<span>${esc(t.m)}</span></div>`).join("")}
-    </div>
-    <div class="card"><h3>Review</h3>
-      ${r.review.map((q,i)=>`
-        <div style="margin-bottom:16px">
-          <div style="font-weight:600;margin-bottom:8px">${i+1}. ${esc(q.q)}</div>
-          ${q.options.map((o,j)=>`<div class="opt ${j===q.answer?"good":(j===q.given?"bad":"")}" style="padding:9px 12px">
-            <span class="letter">${LETTERS[j]}</span><span>${esc(o)}</span></div>`).join("")}
-          ${q.explanation?`<div class="expl">${esc(q.explanation)}</div>`:""}
-        </div>`).join("")}
-    </div>
-  </div>`;
-  $("#home").onclick=showHome;
+
+      <div class="card">
+        <h3>Answer split</h3>
+        <div class="chart-wrap">
+          ${donut([
+            { value: r.correct, color: "var(--ok)" },
+            { value: r.wrong, color: "var(--bad)" },
+            { value: r.skipped, color: "var(--border)" }
+          ])}
+          <div class="legend">
+            <span><i class="dot" style="background:var(--ok)"></i>Correct · ${r.correct}</span>
+            <span><i class="dot" style="background:var(--bad)"></i>Wrong · ${r.wrong}</span>
+            <span><i class="dot" style="background:var(--border)"></i>Skipped · ${r.skipped}</span>
+          </div>
+        </div>
+      </div>
+
+      ${a.rows.length ? `<div class="card"><h3>Chapter-wise accuracy</h3>${barChart(a.rows)}</div>` : ""}
+
+      <div class="card">
+        <h3>Insights</h3>
+        ${a.tips.map(t => `<div class="insight">${icon(t.icon, 18)}<span>${esc(t.text)}</span></div>`).join("")}
+      </div>
+
+      <div class="card">
+        <h3>Review</h3>
+        ${r.review.map((q, i) => `
+          <div style="margin-bottom:16px">
+            <div style="font-weight:600;margin-bottom:8px">${i + 1}. ${esc(q.q)}</div>
+            ${q.options.map((o, j) => `
+              <div class="opt ${j === q.answer ? "good" : (j === q.given ? "bad" : "")}" style="padding:9px 12px">
+                <span class="letter">${LETTERS[j]}</span><span>${esc(o)}</span>
+              </div>`).join("")}
+            ${q.explanation ? `<div class="expl">${esc(q.explanation)}</div>` : ""}
+          </div>`).join("")}
+      </div>
+    </div>`;
+  $("#home").onclick = showHome;
 }
 
-/* ================= RESULTS HISTORY ================= */
-function showResults(){
+/* ---------- RESULTS HISTORY ---------- */
+function showResults() {
   setNav("results");
-  const all=store.get("durga_results",[]);
-  if(!all.length){ app.innerHTML=`<div class="fade-in"><h2>Results</h2><p class="muted">No tests taken yet. Start a test from Home.</p></div>`; return; }
-  const acc=all.map(r=>Math.round(r.correct/(r.total||1)*100));
-  const avg=Math.round(acc.reduce((a,b)=>a+b,0)/acc.length);
-  const bySubj={};
-  all.forEach((r,i)=>{ const k=r.subject||"other"; (bySubj[k] ??= []).push(acc[i]); });
-  const subjRows=Object.entries(bySubj).map(([k,v])=>({ch:SUBJECTS.find(s=>s.key===k)?.name||k,acc:Math.round(v.reduce((a,b)=>a+b,0)/v.length)}));
-  app.innerHTML=`
-  <div class="fade-in">
-    <h2>Results</h2>
-    <p class="muted">Saved on this device</p>
-    <div class="card"><div class="stats">
-      <div><div class="big">${all.length}</div><div class="muted">Tests</div></div>
-      <div><div class="big">${avg}%</div><div class="muted">Avg accuracy</div></div>
-      <div><div class="big">${Math.max(...acc)}%</div><div class="muted">Best</div></div>
-    </div></div>
-    <div class="card"><h3>Accuracy trend</h3>${trendChart([...acc].reverse())}</div>
-    <div class="card"><h3>Subject-wise average</h3>${barChart(subjRows)}</div>
-    <div class="card" style="padding:4px 14px">
-      ${all.map((r,i)=>`<div class="li" data-res="${i}">
-        <div><b>${esc(r.title)}</b><div class="muted">${esc(r.date)}</div></div>
-        <span class="pill">${r.score}/${r.total}</span></div>`).join("")}
-    </div>
-    <button class="btn ghost" id="clr">Clear all results</button>
-  </div>`;
-  app.querySelectorAll("[data-res]").forEach(el=>el.onclick=()=>showResult(all[+el.dataset.res]));
-  $("#clr").onclick=()=>{ if(confirm("Delete all saved results?")){ store.set("durga_results",[]); showResults(); } };
+  const all = store.get("durga_results", []);
+  if (!all.length) {
+    app.innerHTML = `<div class="fade"><h2>Results</h2><p class="muted">Abhi koi test nahi diya gaya. Home se test shuru kariye.</p></div>`;
+    return;
+  }
+  const acc = all.map(r => Math.round(r.correct / (r.total || 1) * 100));
+  const avg = Math.round(acc.reduce((a, b) => a + b, 0) / acc.length);
+  const bySubj = {};
+  all.forEach((r, i) => { (bySubj[r.subject || "other"] ??= []).push(acc[i]); });
+  const subjRows = Object.entries(bySubj).map(([k, v]) => ({
+    ch: SUBJECTS.find(s => s.key === k)?.name || k,
+    acc: Math.round(v.reduce((a, b) => a + b, 0) / v.length)
+  }));
+
+  app.innerHTML = `
+    <div class="fade">
+      <h2>Results</h2>
+      <p class="muted">Is device par save hain</p>
+      <div class="card"><div class="stats">
+        <div><div class="big">${all.length}</div><div class="muted">Tests</div></div>
+        <div><div class="big">${avg}%</div><div class="muted">Avg accuracy</div></div>
+        <div><div class="big">${Math.max(...acc)}%</div><div class="muted">Best</div></div>
+      </div></div>
+      <div class="card"><h3>Accuracy trend</h3>${trendChart([...acc].reverse())}</div>
+      <div class="card"><h3>Subject-wise average</h3>${barChart(subjRows)}</div>
+      <div class="card" style="padding:4px 14px">
+        ${all.map((r, i) => `
+          <div class="li" data-res="${i}">
+            <div><b>${esc(r.title)}</b><div class="muted">${esc(r.date)}</div></div>
+            <span class="pill">${r.score}/${r.total}</span>
+          </div>`).join("")}
+      </div>
+      <button class="btn ghost" id="clr">Saare results delete karein</button>
+    </div>`;
+  app.querySelectorAll("[data-res]").forEach(el => el.onclick = () => showResult(all[+el.dataset.res]));
+  $("#clr").onclick = () => { if (confirm("Saare results delete karein?")) { store.set("durga_results", []); showResults(); } };
 }
 
-/* ================= BOOT ================= */
-const splashDone = new Promise(r=>setTimeout(r,2500));
-(async()=>{
-  try{
+/* ---------- BOOT ---------- */
+const splashDone = new Promise(r => setTimeout(r, 2500));
+(async () => {
+  try {
     await loadBank();
-    await splashDone;
-    showHome();
-  }catch(e){
-    await splashDone;
-    app.innerHTML=`<div class="card"><h3>Could not load questions</h3>
-      <p class="muted">Open this app through GitHub Pages or a local server. Browsers block loading JSON when the file is opened directly from disk.</p></div>`;
+  } catch (e) {
+    loadErrors.push(e.message);
   }
+  await splashDone;
+  showHome();
   $("#splash").classList.add("hide");
 })();
 </script>
