@@ -249,6 +249,12 @@ function showHome() {
 /* ---------- SUBJECT ---------- */
 let chapterGroups = {};
 
+function kindOf(f) {
+  const t = String(f.type || "").toLowerCase();
+  if (t.includes("mock") || f.__p.includes("/mock/")) return "mock";
+  if (t.includes("pyq") || f.__p.includes("/pyq/")) return "pyq";
+  return "chapter";
+}  
 function showSubject(key, tab = "pyq") {
   setNav("home");
   const s = SUBJECTS.find(x => x.key === key);
@@ -266,7 +272,7 @@ function showSubject(key, tab = "pyq") {
 
   if (tab === "chapter") {
     chapterGroups = {};
-    files.filter(f => f.type !== "mock").forEach(f => {
+    files.filter(f => kindOf(f) !== "mock").forEach(f => {
       f.questions.forEach(q => {
         const ch = q.chapter || f.chapter || "General";
         (chapterGroups[ch] ??= []).push({ ...q, subject: key, year: f.year });
@@ -281,7 +287,7 @@ function showSubject(key, tab = "pyq") {
   }
 
   if (tab === "mock") {
-    const mocks = files.filter(f => f.type === "mock");
+    const mocks = files.filter(f => kindOf(f) === "mock");
     body = mocks.length ? mocks.map(f => `
       <div class="li" data-start="mock" data-path="${esc(f.__p)}">
         <div><b>${esc(f.title || "Full-length Mock")}</b>
