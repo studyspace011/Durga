@@ -25,9 +25,10 @@
   .subj{cursor:pointer;text-align:left;border:1px solid var(--border);background:var(--surface);color:var(--text);border-radius:var(--radius);padding:16px 14px;box-shadow:var(--shadow);font:inherit}
   .subj .ic{width:38px;height:38px;border-radius:12px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center;margin-bottom:10px}
   .subj .nm{font-weight:600}
-  .btn{display:block;width:100%;border:none;background:var(--accent);color:#fff;padding:14px;border-radius:12px;font:inherit;font-weight:600;cursor:pointer;margin-top:10px}
+  .btn{display:flex;width:100%;border:none;background:var(--accent);color:#fff;padding:14px;border-radius:12px;font:inherit;font-weight:600;cursor:pointer;margin-top:10px;align-items:center;justify-content:center;gap:6px}
   .btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
-  .btn.sm{display:inline-flex;align-items:center;gap:6px;width:auto;padding:8px 14px;margin-top:0;font-size:14px}
+  .btn.sm{width:auto;display:inline-flex;padding:8px 14px;margin-top:0;font-size:14px}
+  .btn:disabled{opacity:.4;cursor:default}
   .row{display:flex;gap:10px}.row>*{flex:1}
   .tabs{display:flex;gap:8px;margin:12px 0;overflow-x:auto}
   .tab{flex:0 0 auto;padding:8px 14px;border-radius:999px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-size:14px;cursor:pointer}
@@ -75,7 +76,7 @@
   .splash p{margin:0;color:var(--muted);opacity:0;animation:up .8s 1s forwards}
   @keyframes pop{from{transform:scale(.6);opacity:0}to{transform:scale(1);opacity:1}}
   @keyframes up{from{transform:translateY(12px);opacity:0}to{transform:none;opacity:1}}
-  .fade{animation:up .45s both}
+  .fade{animation:up .35s both}
   .toast{position:fixed;left:50%;bottom:92px;transform:translateX(-50%);background:var(--text);color:var(--bg);padding:10px 16px;border-radius:10px;font-size:14px;opacity:0;transition:opacity .3s;pointer-events:none;z-index:9}
   .toast.show{opacity:1}
 </style>
@@ -84,7 +85,7 @@
 
 <div class="splash" id="splash">
   <div id="photoBox"></div>
-  <h1>Hlww, Durga</h1>
+  <h1>Hi, Durga</h1>
   <p>Let's practise today</p>
 </div>
 
@@ -104,21 +105,19 @@
 <script>
 /* ---------- ICONS ---------- */
 const PATHS = {
-  home:'<path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/>',
-  chart:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+  leaf:'<path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2 2 4.2 2 8 0 5.5-4.8 10-10 10Z"/><path d="M2 21c0-3 1.9-5.4 5.1-6C9.5 14.5 12 13 13 12"/>',
   landmark:'<path d="M3 22h18M5 22V10M9 22V10M15 22V10M19 22V10M2 10l10-7 10 7"/>',
   globe:'<circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/>',
-  leaf:'<path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2 2 4.2 2 8 0 5.5-4.8 10-10 10Z"/><path d="M2 21c0-3 1.9-5.4 5.1-6C9.5 14.5 12 13 13 12"/>',
   pen:'<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/>',
   type:'<path d="M4 7V4h16v3M9 20h6M12 4v16"/>',
   sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>',
   moon:'<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/>',
   clock:'<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
-  check:'<path d="M20 6L9 17l-5-5"/>',
   left:'<path d="M15 18l-6-6 6-6"/>',
   right:'<path d="M9 18l6-6-6-6"/>',
   bookmark:'<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2Z"/>',
   alert:'<path d="M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/><path d="M12 9v4M12 17h.01"/>',
+  check:'<path d="M20 6L9 17l-5-5"/>',
   target:'<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>'
 };
 const icon = (n, s = 20) => `<svg class="i" width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${PATHS[n] || ""}</svg>`;
@@ -133,12 +132,14 @@ const SUBJECTS = [
 ];
 const LETTERS = ["A", "B", "C", "D", "E", "F"];
 const NEG = 0.25;
+const SECONDS_PER_Q = 45;
 
 /* ---------- HELPERS ---------- */
 const $ = s => document.querySelector(s);
 const app = $("#app");
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
 const fmt = s => `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
+const shuffle = a => { a = [...a]; for (let i = a.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [a[i], a[j]] = [a[j], a[i]]; } return a; };
 const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
@@ -173,7 +174,7 @@ setTheme(store.get("durga_theme", matchMedia("(prefers-color-scheme: dark)").mat
     d.textContent = "D";
     box.appendChild(d);
   };
-  img.src = "assets/durga.png";
+  img.src = "assets/durga.jpg";
 })();
 
 /* ---------- NAV ---------- */
@@ -185,13 +186,11 @@ let bank = [];
 let loadErrors = [];
 
 async function loadBank() {
-  // 1. manifest
   const res = await fetch("questions/manifest.json", { cache: "no-store" });
   if (!res.ok) throw new Error(`questions/manifest.json nahi mila (HTTP ${res.status})`);
   const manifest = await res.json();
   const files = manifest.files || [];
 
-  // 2. each JSON file; a missing one is skipped, not fatal
   const results = await Promise.allSettled(files.map(async p => {
     const r = await fetch("questions/" + p, { cache: "no-store" });
     if (!r.ok) throw new Error(`${p} (HTTP ${r.status})`);
@@ -201,21 +200,18 @@ async function loadBank() {
 
   bank = results.filter(r => r.status === "fulfilled").map(r => r.value);
   loadErrors = results.filter(r => r.status === "rejected").map(r => r.reason.message);
-  if (loadErrors.length) console.warn("Skipped:", loadErrors);
 }
 
 const filesFor = key => bank.filter(f => f.subject === key);
-const qCount = key => filesFor(key).reduce((n, f) => n + f.questions.length, 0);
 const byPath = p => bank.find(f => f.__p === p);
+const qCount = key => filesFor(key).reduce((n, f) => n + f.questions.length, 0);
 
 /* ---------- HOME ---------- */
 function showHome() {
   setNav("home");
-  let errorHtml = "";
-  if (loadErrors.length) {
-    errorHtml = `<div class="card error"><h3>Kuch files load nahi hui</h3>
-      ${loadErrors.map(e => `<div class="muted"><code>${esc(e)}</code></div>`).join("")}</div>`;
-  }
+  const errorHtml = loadErrors.length ? `
+    <div class="card error"><h3>Kuch files load nahi hui</h3>
+      ${loadErrors.map(e => `<div class="muted"><code>${esc(e)}</code></div>`).join("")}</div>` : "";
   app.innerHTML = `
     <div class="fade">
       <h2>Hi, Durga</h2>
@@ -234,6 +230,8 @@ function showHome() {
 }
 
 /* ---------- SUBJECT ---------- */
+let chapterGroups = {};
+
 function showSubject(key, tab = "pyq") {
   setNav("home");
   const s = SUBJECTS.find(x => x.key === key);
@@ -242,17 +240,37 @@ function showSubject(key, tab = "pyq") {
 
   if (tab === "pyq") {
     const pyq = files.filter(f => f.type === "pyq").sort((a, b) => b.year - a.year);
-    body = pyq.length
-      ? pyq.map(f => `
-        <div class="li" data-start="pyq" data-path="${esc(f.__p)}">
-          <div><b>${f.year}</b><div class="muted">${esc(f.chapter || "")}</div></div>
-          <span class="pill">${f.questions.length} Q</span>
-        </div>`).join("")
-      : `<p class="muted">Is subject ke PYQ abhi add nahi hue hain.</p>`;
-  } else if (tab === "chapter") {
-    body = `<p class="muted">Chapter-wise abhi add nahi hua hai.</p>`;
-  } else {
-    body = `<p class="muted">Full mock abhi add nahi hua hai.</p>`;
+    body = pyq.length ? pyq.map(f => `
+      <div class="li" data-start="pyq" data-path="${esc(f.__p)}">
+        <div><b>${f.year}</b><div class="muted">${f.questions.length} questions</div></div>
+        <span class="pill">Start</span>
+      </div>`).join("") : `<p class="muted">Is subject ke PYQ abhi add nahi hue hain.</p>`;
+  }
+
+  if (tab === "chapter") {
+    chapterGroups = {};
+    files.filter(f => f.type !== "mock").forEach(f => {
+      f.questions.forEach(q => {
+        const ch = q.chapter || f.chapter || "General";
+        (chapterGroups[ch] ??= []).push({ ...q, subject: key, year: f.year });
+      });
+    });
+    const names = Object.keys(chapterGroups);
+    body = names.length ? names.map(ch => `
+      <div class="li" data-start="chapter" data-ch="${esc(ch)}">
+        <div><b>${esc(ch)}</b><div class="muted">${chapterGroups[ch].length} questions</div></div>
+        <span class="pill">Start</span>
+      </div>`).join("") : `<p class="muted">Chapter-wise questions abhi add nahi hue hain.</p>`;
+  }
+
+  if (tab === "mock") {
+    const mocks = files.filter(f => f.type === "mock");
+    body = mocks.length ? mocks.map(f => `
+      <div class="li" data-start="mock" data-path="${esc(f.__p)}">
+        <div><b>${esc(f.title || "Full-length Mock")}</b>
+          <div class="muted">${f.questions.length} questions · ${f.time_minutes || f.questions.length} min · negative ${f.negative_marking ?? NEG}</div></div>
+        <span class="pill">Start</span>
+      </div>`).join("") : `<p class="muted">Full mock abhi add nahi hua hai.</p>`;
   }
 
   app.innerHTML = `
@@ -268,54 +286,69 @@ function showSubject(key, tab = "pyq") {
 
   $("#back").onclick = showHome;
   app.querySelectorAll("[data-tab]").forEach(b => b.onclick = () => showSubject(key, b.dataset.tab));
+
   app.querySelectorAll("[data-start='pyq']").forEach(el => el.onclick = () => {
     const f = byPath(el.dataset.path);
     startTest(
-      f.questions.map(q => ({ ...q, subject: key, chapter: q.chapter || f.chapter, year: f.year })),
-      `${s.name} · ${f.year}`,
-      false
+      f.questions.map(q => ({ ...q, subject: key, chapter: q.chapter || "", year: f.year })),
+      `${s.name} · ${f.year}`, false, null
+    );
+  });
+
+  app.querySelectorAll("[data-start='chapter']").forEach(el => el.onclick = () => {
+    startTest(shuffle(chapterGroups[el.dataset.ch] || []), `${s.name} · ${el.dataset.ch}`, false, null);
+  });
+
+  app.querySelectorAll("[data-start='mock']").forEach(el => el.onclick = () => {
+    const f = byPath(el.dataset.path);
+    startTest(
+      f.questions.map(q => ({ ...q, subject: key, chapter: q.chapter || "Mock" })),
+      `${s.name} · ${f.title || "Full Mock"}`,
+      true,
+      f.time_minutes ? f.time_minutes * 60 : null
     );
   });
 }
 
-/* ---------- TEST ENGINE ---------- */
+/* ---------- TEST ENGINE ----------
+   Test screen ek baar banta hai. Option click sirf question box aur palette
+   update karta hai, isliye screen blink nahi karti. */
 let T = null, timer = null;
 
-function startTest(qs, title, negative) {
+function startTest(qs, title, negative, totalSeconds) {
   if (!qs.length) return toast("Is set me questions nahi hain");
-  T = { qs, title, negative, idx: 0, answers: {}, marked: {}, started: Date.now(), left: qs.length * 45 };
+  T = {
+    qs, title, negative, idx: 0, answers: {}, marked: {},
+    started: Date.now(),
+    left: totalSeconds ?? qs.length * SECONDS_PER_Q
+  };
   setNav("home");
-  renderTest();
+  buildTestShell();
+  paintAll();
   clearInterval(timer);
   timer = setInterval(() => {
+    if (!T) return clearInterval(timer);
     T.left--;
-    const c = $("#clock"); if (c) c.textContent = fmt(T.left);
+    const c = $("#clock");
+    if (c) c.textContent = fmt(Math.max(T.left, 0));
     if (T.left <= 0) { clearInterval(timer); finish(true); }
   }, 1000);
 }
 
-function renderTest() {
-  const q = T.qs[T.idx];
-  const done = Object.keys(T.answers).length;
-  const last = T.idx === T.qs.length - 1;
+function buildTestShell() {
   app.innerHTML = `
-    <div class="fade">
+    <div>
       <div class="topbar">
-        <span class="muted">${esc(T.title)}</span>
-        <span class="timer">${icon("clock", 16)}<span id="clock">${fmt(T.left)}</span></span>
+        <span class="muted" id="ttl"></span>
+        <span class="timer">${icon("clock", 16)}<span id="clock"></span></span>
       </div>
-      <div class="progress"><div style="width:${done / T.qs.length * 100}%"></div></div>
+      <div class="progress"><div id="prog"></div></div>
       <div class="card">
-        <div class="muted">Question ${T.idx + 1} of ${T.qs.length}${q.chapter ? " · " + esc(q.chapter) : ""}</div>
-        <div class="qtext">${esc(q.question)}</div>
-        ${q.options.map((o, i) => `
-          <div class="opt ${T.answers[T.idx] === i ? "sel" : ""}" data-opt="${i}">
-            <span class="letter">${LETTERS[i]}</span><span>${esc(o)}</span>
-          </div>`).join("")}
+        <div id="qbox"></div>
         <div class="row" style="margin-top:10px">
-          <button class="btn ghost" id="prev" ${T.idx === 0 ? "disabled" : ""}>${icon("left", 16)} Prev</button>
-          <button class="btn ghost" id="mark">${icon("bookmark", 16)} ${T.marked[T.idx] ? "Marked" : "Mark"}</button>
-          <button class="btn" id="next">${last ? "End" : "Next"}</button>
+          <button class="btn ghost" id="prev">${icon("left", 16)} Prev</button>
+          <button class="btn ghost" id="mark"></button>
+          <button class="btn" id="next"></button>
         </div>
         <div class="row" style="margin-top:4px">
           <button class="btn ghost" id="clear">Clear answer</button>
@@ -324,23 +357,59 @@ function renderTest() {
       </div>
       <div class="card">
         <div class="muted">Question palette</div>
-        <div class="palette">
-          ${T.qs.map((_, i) => `<button class="pal ${T.answers[i] !== undefined ? "done" : ""} ${i === T.idx ? "cur" : ""}" data-go="${i}">${i + 1}</button>`).join("")}
-        </div>
+        <div class="palette" id="pal"></div>
       </div>
     </div>`;
 
-  app.querySelectorAll("[data-opt]").forEach(el => el.onclick = () => { T.answers[T.idx] = +el.dataset.opt; renderTest(); });
-  app.querySelectorAll("[data-go]").forEach(el => el.onclick = () => { T.idx = +el.dataset.go; renderTest(); });
-  $("#prev").onclick = () => { if (T.idx > 0) { T.idx--; renderTest(); } };
-  $("#next").onclick = () => { if (!last) { T.idx++; renderTest(); } else toast("Last question. Submit karein."); };
-  $("#mark").onclick = () => { T.marked[T.idx] = !T.marked[T.idx]; renderTest(); };
-  $("#clear").onclick = () => { delete T.answers[T.idx]; renderTest(); };
+  $("#prev").onclick = () => { if (T && T.idx > 0) { T.idx--; paintAll(); } };
+  $("#next").onclick = () => {
+    if (!T) return;
+    if (T.idx < T.qs.length - 1) { T.idx++; paintAll(); }
+    else toast("Last question hai. Submit karein.");
+  };
+  $("#mark").onclick = () => { T.marked[T.idx] = !T.marked[T.idx]; paintAll(); };
+  $("#clear").onclick = () => { delete T.answers[T.idx]; paintAll(); };
   $("#submit").onclick = () => {
     const left = T.qs.length - Object.keys(T.answers).length;
     if (left > 0 && !confirm(`${left} questions ka answer nahi diya. Phir bhi submit karein?`)) return;
     finish(false);
   };
+}
+
+/* Event delegation: ek hi listener option aur palette dono ke liye */
+app.addEventListener("click", e => {
+  if (!T) return;
+  const opt = e.target.closest("[data-opt]");
+  if (opt) { T.answers[T.idx] = +opt.dataset.opt; paintAll(); return; }
+  const go = e.target.closest("[data-go]");
+  if (go) { T.idx = +go.dataset.go; paintAll(); }
+});
+
+function paintAll() {
+  if (!T) return;
+  const q = T.qs[T.idx];
+  const last = T.idx === T.qs.length - 1;
+  const done = Object.keys(T.answers).length;
+
+  $("#ttl").textContent = T.title;
+  $("#clock").textContent = fmt(Math.max(T.left, 0));
+  $("#prog").style.width = (done / T.qs.length * 100) + "%";
+
+  $("#qbox").innerHTML = `
+    <div class="muted">Question ${T.idx + 1} of ${T.qs.length}${q.chapter ? " · " + esc(q.chapter) : ""}</div>
+    <div class="qtext">${esc(q.question)}</div>
+    ${q.options.map((o, i) => `
+      <div class="opt ${T.answers[T.idx] === i ? "sel" : ""}" data-opt="${i}">
+        <span class="letter">${LETTERS[i]}</span><span>${esc(o)}</span>
+      </div>`).join("")}`;
+
+  $("#prev").disabled = T.idx === 0;
+  $("#mark").innerHTML = `${icon("bookmark", 16)} ${T.marked[T.idx] ? "Marked" : "Mark"}`;
+  $("#next").innerHTML = last ? "End" : `Next ${icon("right", 16)}`;
+
+  $("#pal").innerHTML = T.qs.map((_, i) =>
+    `<button class="pal ${T.answers[i] !== undefined ? "done" : ""} ${i === T.idx ? "cur" : ""}" data-go="${i}">${i + 1}</button>`
+  ).join("");
 }
 
 function finish(auto) {
@@ -368,6 +437,7 @@ function finish(auto) {
   const all = store.get("durga_results", []);
   all.unshift(result);
   store.set("durga_results", all.slice(0, 200));
+  T = null;
   showResult(result);
 }
 
@@ -531,11 +601,8 @@ function showResults() {
 /* ---------- BOOT ---------- */
 const splashDone = new Promise(r => setTimeout(r, 2500));
 (async () => {
-  try {
-    await loadBank();
-  } catch (e) {
-    loadErrors.push(e.message);
-  }
+  try { await loadBank(); }
+  catch (e) { loadErrors.push(e.message); }
   await splashDone;
   showHome();
   $("#splash").classList.add("hide");
