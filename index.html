@@ -191,11 +191,19 @@ async function loadBank() {
   const manifest = await res.json();
   const files = manifest.files || [];
 
+  const norm = s => String(s || "").trim().toLowerCase().replace(/[\s_]+/g, "-");
+
   const results = await Promise.allSettled(files.map(async p => {
     const r = await fetch("questions/" + p, { cache: "no-store" });
     if (!r.ok) throw new Error(`${p} (HTTP ${r.status})`);
     const data = await r.json();
-    return { ...data, __p: p };
+    const parts = p.split("/");          // e.g. ["home-science", "pyq", "2015.json"]
+    return {
+      ...data,
+      subject: norm(data.subject || parts[0]),
+      type: norm(data.type || parts[1]),
+      __p: p
+    };
   }));
 
   bank = results.filter(r => r.status === "fulfilled").map(r => r.value);
@@ -212,6 +220,14 @@ function showHome() {
   const errorHtml = loadErrors.length ? `
     <div class="card error"><h3>Kuch files load nahi hui</h3>
       ${loadErrors.map(e => `<div class="muted"><code>${esc(e)}</code></div>`).join("")}</div>` : "";
+  const loadedHtml = `
+    <details class="card"><summary><b>Loaded files (${bank.length})</b></summary>
+      ${bank.length ? bank.map(f => `
+        <div class="muted" style="padding:4px 0">
+          ${esc(f.__p)} → subject: <b>${esc(f.subject)}</b>, type: <b>${esc(f.type)}</b>,
+          questions: ${f.questions?.length ?? 0}
+        </div>`).join("") : `<div class="muted">Koi file load nahi hui.</div>`}
+    </details>`;
   app.innerHTML = `
     <div class="fade">
       <h2>Hi, Durga</h2>
@@ -225,6 +241,7 @@ function showHome() {
             <div class="muted">${qCount(s.key)} questions</div>
           </button>`).join("")}
       </div>
+      ${loadedHtml}
     </div>`;
   app.querySelectorAll("[data-subj]").forEach(b => b.onclick = () => showSubject(b.dataset.subj));
 }
