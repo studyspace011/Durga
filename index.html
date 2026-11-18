@@ -157,6 +157,22 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
 };
+
+function randomiseSet(qs) {
+  const keepFixed = o => /all of the above|none of the above|both|उपरोक्त|इनमें से कोई नहीं|दोनों/i.test(o);
+  return shuffle(qs).map(q => {
+    const canShuffle = !q.options.some(keepFixed);
+    const order = canShuffle
+      ? shuffle(q.options.map((_, i) => i))
+      : q.options.map((_, i) => i);
+    return {
+      ...q,
+      options: order.map(i => q.options[i]),
+      answer: order.indexOf(q.answer)
+    };
+  });
+}
+  
 const norm = s => String(s || "").trim().toLowerCase().replace(/[\s_]+/g, "-");
 let toastT;
 function toast(msg) {
@@ -188,7 +204,7 @@ setTheme(store.get("durga_theme", matchMedia("(prefers-color-scheme: dark)").mat
     d.textContent = "D";
     box.appendChild(d);
   };
-  img.src = "assets/durga.jpg";
+  img.src = "assets/durga.png";
 })();
 
 /* ---------- NAV ---------- */
@@ -255,7 +271,7 @@ function kindOf(f) {
 function showHome() {
   setNav("home");
   const errorHtml = loadErrors.length ? `
-    <div class="card error"><h3>Kuch files load nahi hui</h3>
+    <div class="card error"><h3>A few files didn’t load.</h3>
       ${loadErrors.map(e => `<div class="muted"><code>${esc(e)}</code></div>`).join("")}</div>` : "";
   const loadedHtml = `
     <details class="card"><summary>Loaded files (${bank.length})</summary>
@@ -267,7 +283,7 @@ function showHome() {
   app.innerHTML = `
     <div class="fade">
       <h2>Hi, Durga</h2>
-      <p class="muted">Subject chuniye aur practice shuru kariye.</p>
+      <p class="muted">Pick a subject & start practicing.</p>
       ${errorHtml}
       <div class="grid2">
         ${SUBJECTS.map(s => `
@@ -397,6 +413,7 @@ function showSubject(key, tab = "pyq") {
 let T = null, timer = null;
 
 function startTest(qs, title, negative, totalSeconds) {
+  qs = randomiseSet(qs);
   if (!qs.length) return toast("Is set me questions nahi hain");
   T = {
     qs, title, negative, idx: 0, answers: {}, marked: {},
@@ -452,7 +469,7 @@ function buildTestShell() {
   $("#clear").onclick = () => { delete T.answers[T.idx]; paintAll(); };
   $("#submit").onclick = () => {
     const left = T.qs.length - Object.keys(T.answers).length;
-    if (left > 0 && !confirm(`${left} questions ka answer nahi diya. Phir bhi submit karein?`)) return;
+    if (left > 0 && !confirm(`${left} Unanswered questions left. Submit anyway?`)) return;
     finish(false);
   };
 }
@@ -572,7 +589,7 @@ function analyze(r) {
   const strong = rows.filter(x => x.acc >= 75);
   const accuracy = (r.correct + r.wrong) ? Math.round(r.correct / (r.correct + r.wrong) * 100) : 0;
   const tips = [];
-  if (weak.length) tips.push({ icon: "alert", text: `Revise karein: ${weak.map(w => w.ch).join(", ")}` });
+  if (weak.length) tips.push({ icon: "alert", text: `Review it. ${weak.map(w => w.ch).join(", ")}` });
   if (strong.length) tips.push({ icon: "check", text: `Strong chapters: ${strong.map(s => s.ch).join(", ")}` });
   if (r.wrong > r.correct) tips.push({ icon: "target", text: "Galat jawab zyada hain. Jo nahi aata wahan andaza mat lagaiye." });
   if (r.skipped > r.total / 3) tips.push({ icon: "clock", text: "Bahut sawal chhode gaye. Har sawal ke liye 45 second ka target rakhiye." });
