@@ -25,7 +25,7 @@
   .subj{cursor:pointer;text-align:left;border:1px solid var(--border);background:var(--surface);color:var(--text);border-radius:var(--radius);padding:16px 14px;box-shadow:var(--shadow);font:inherit}
   .subj .ic{width:38px;height:38px;border-radius:12px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center;margin-bottom:10px}
   .subj .nm{font-weight:600}
-  .btn{display:flex;width:100%;border:none;background:var(--accent);color:#fff;padding:14px;border-radius:12px;font:inherit;font-weight:600;cursor:pointer;margin-top:10px;align-items:center;justify-content:center;gap:6px}
+  .btn{display:flex;width:100%;border:none;background:var(--accent);color:#fff;padding:14px;border-radius:12px;font:inherit;font-weight:600;cursor:pointer;margin-top:10px;align-items:center;justify-content:center;gap:6px;text-decoration:none}
   .btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent)}
   .btn.sm{width:auto;display:inline-flex;padding:8px 14px;margin-top:0;font-size:14px}
   .btn:disabled{opacity:.4;cursor:default}
@@ -65,6 +65,12 @@
   .insight svg{color:var(--accent);margin-top:2px}
   .error{border-color:var(--bad)}
   .error code{font-size:12px;word-break:break-all}
+  details summary{cursor:pointer;font-weight:600;padding:4px 0}
+  .note{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:12px 4px;border-bottom:1px solid var(--border)}
+  .note:last-child{border-bottom:none}
+  .note .acts{display:flex;gap:8px;flex:0 0 auto}
+  .note .acts a{font-size:13px;padding:7px 12px;border-radius:10px;text-decoration:none;border:1px solid var(--accent);color:var(--accent);display:inline-flex;align-items:center;gap:4px}
+  .note .acts a.solid{background:var(--accent);color:#fff}
   .bottom{position:fixed;bottom:0;left:0;right:0;display:flex;background:var(--surface);border-top:1px solid var(--border);padding-bottom:env(safe-area-inset-bottom,0px);z-index:6}
   .bottom button{flex:1;border:none;background:none;color:var(--muted);padding:10px 4px 8px;font:inherit;font-size:12px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:4px}
   .bottom button.on{color:var(--accent);font-weight:600}
@@ -85,7 +91,7 @@
 
 <div class="splash" id="splash">
   <div id="photoBox"></div>
-  <h1>Hi, Durga</h1>
+  <h1>Hlww, Durga</h1>
   <p>Let's practise today</p>
 </div>
 
@@ -97,14 +103,20 @@
 <main id="app"></main>
 
 <nav class="bottom">
-  <button data-nav="home"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/></svg>Home</button>
-  <button data-nav="results"><svg class="i" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Results</button>
+  <button data-nav="home"><span data-ic="home"></span>Home</button>
+  <button data-nav="notes"><span data-ic="book"></span>Notes</button>
+  <button data-nav="results"><span data-ic="chart"></span>Results</button>
 </nav>
 <div class="toast" id="toast"></div>
 
 <script>
 /* ---------- ICONS ---------- */
 const PATHS = {
+  home:'<path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/>',
+  chart:'<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+  book:'<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20V3H6.5A2.5 2.5 0 0 0 4 5.5Z"/>',
+  download:'<path d="M12 3v12M7 10l5 5 5-5M5 21h14"/>',
+  eye:'<path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/>',
   leaf:'<path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2 2 4.2 2 8 0 5.5-4.8 10-10 10Z"/><path d="M2 21c0-3 1.9-5.4 5.1-6C9.5 14.5 12 13 13 12"/>',
   landmark:'<path d="M3 22h18M5 22V10M9 22V10M15 22V10M19 22V10M2 10l10-7 10 7"/>',
   globe:'<circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/>',
@@ -121,6 +133,7 @@ const PATHS = {
   target:'<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>'
 };
 const icon = (n, s = 20) => `<svg class="i" width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${PATHS[n] || ""}</svg>`;
+document.querySelectorAll("[data-ic]").forEach(el => el.innerHTML = icon(el.dataset.ic));
 
 /* ---------- CONFIG ---------- */
 const SUBJECTS = [
@@ -144,6 +157,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
 };
+const norm = s => String(s || "").trim().toLowerCase().replace(/[\s_]+/g, "-");
 let toastT;
 function toast(msg) {
   const t = $("#toast"); t.textContent = msg; t.classList.add("show");
@@ -178,12 +192,18 @@ setTheme(store.get("durga_theme", matchMedia("(prefers-color-scheme: dark)").mat
 })();
 
 /* ---------- NAV ---------- */
-document.querySelectorAll("[data-nav]").forEach(b => b.onclick = () => b.dataset.nav === "home" ? showHome() : showResults());
+document.querySelectorAll("[data-nav]").forEach(b => b.onclick = () => {
+  const n = b.dataset.nav;
+  if (n === "home") showHome();
+  else if (n === "notes") showNotes();
+  else showResults();
+});
 function setNav(n) { document.querySelectorAll("[data-nav]").forEach(b => b.classList.toggle("on", b.dataset.nav === n)); }
 
 /* ---------- LOAD QUESTIONS ---------- */
 let bank = [];
 let loadErrors = [];
+let notesBank = {};
 
 async function loadBank() {
   const res = await fetch("questions/manifest.json", { cache: "no-store" });
@@ -191,13 +211,16 @@ async function loadBank() {
   const manifest = await res.json();
   const files = manifest.files || [];
 
-  const norm = s => String(s || "").trim().toLowerCase().replace(/[\s_]+/g, "-");
-
   const results = await Promise.allSettled(files.map(async p => {
     const r = await fetch("questions/" + p, { cache: "no-store" });
     if (!r.ok) throw new Error(`${p} (HTTP ${r.status})`);
-    const data = await r.json();
-    const parts = p.split("/");          // e.g. ["home-science", "pyq", "2015.json"]
+    let data;
+    try {
+      data = await r.json();
+    } catch (err) {
+      throw new Error(`${p} : JSON galat hai (${err.message}). Hindi quotes ko \\" ya ' se likhiye.`);
+    }
+    const parts = p.split("/");
     return {
       ...data,
       subject: norm(data.subject || parts[0]),
@@ -210,9 +233,23 @@ async function loadBank() {
   loadErrors = results.filter(r => r.status === "rejected").map(r => r.reason.message);
 }
 
+async function loadNotes() {
+  try {
+    const r = await fetch("notes/notes.json", { cache: "no-store" });
+    if (r.ok) notesBank = await r.json();
+  } catch {}
+}
+
 const filesFor = key => bank.filter(f => f.subject === key);
 const byPath = p => bank.find(f => f.__p === p);
 const qCount = key => filesFor(key).reduce((n, f) => n + f.questions.length, 0);
+
+function kindOf(f) {
+  const t = String(f.type || "").toLowerCase();
+  if (t.includes("mock") || f.__p.includes("/mock/")) return "mock";
+  if (t.includes("pyq") || f.__p.includes("/pyq/")) return "pyq";
+  return "chapter";
+}
 
 /* ---------- HOME ---------- */
 function showHome() {
@@ -221,11 +258,10 @@ function showHome() {
     <div class="card error"><h3>Kuch files load nahi hui</h3>
       ${loadErrors.map(e => `<div class="muted"><code>${esc(e)}</code></div>`).join("")}</div>` : "";
   const loadedHtml = `
-    <details class="card"><summary><b>Loaded files (${bank.length})</b></summary>
+    <details class="card"><summary>Loaded files (${bank.length})</summary>
       ${bank.length ? bank.map(f => `
         <div class="muted" style="padding:4px 0">
-          ${esc(f.__p)} → subject: <b>${esc(f.subject)}</b>, type: <b>${esc(f.type)}</b>,
-          questions: ${f.questions?.length ?? 0}
+          ${esc(f.__p)} → subject: <b>${esc(f.subject)}</b>, type: <b>${esc(f.type)}</b>, questions: ${f.questions?.length ?? 0}
         </div>`).join("") : `<div class="muted">Koi file load nahi hui.</div>`}
     </details>`;
   app.innerHTML = `
@@ -246,15 +282,39 @@ function showHome() {
   app.querySelectorAll("[data-subj]").forEach(b => b.onclick = () => showSubject(b.dataset.subj));
 }
 
+/* ---------- NOTES ---------- */
+function showNotes() {
+  setNav("notes");
+  app.innerHTML = `
+    <div class="fade">
+      <h2>Notes</h2>
+      <p class="muted">Har subject ka complete PDF. View ya Download kariye.</p>
+      ${SUBJECTS.map(s => {
+        const file = notesBank[s.key];
+        return `
+        <div class="card">
+          <div style="display:flex;align-items:center;gap:12px;margin-bottom:${file ? "12px" : "0"}">
+            <div class="subj" style="width:auto;padding:8px;box-shadow:none">
+              <div class="ic" style="margin:0">${icon(s.icon)}</div>
+            </div>
+            <div>
+              <div style="font-weight:600">${s.name}</div>
+              <div class="muted">${file ? "Complete notes" : "Notes abhi upload nahi hue"}</div>
+            </div>
+          </div>
+          ${file ? `
+          <div class="acts-row" style="display:flex;gap:10px">
+            <a class="btn ghost sm" style="flex:1;justify-content:center" href="notes/${esc(file)}" target="_blank" rel="noopener">${icon("eye", 16)} View</a>
+            <a class="btn sm" style="flex:1;justify-content:center" href="notes/${esc(file)}" download>${icon("download", 16)} Download</a>
+          </div>` : ""}
+        </div>`;
+      }).join("")}
+    </div>`;
+}
+
 /* ---------- SUBJECT ---------- */
 let chapterGroups = {};
 
-function kindOf(f) {
-  const t = String(f.type || "").toLowerCase();
-  if (t.includes("mock") || f.__p.includes("/mock/")) return "mock";
-  if (t.includes("pyq") || f.__p.includes("/pyq/")) return "pyq";
-  return "chapter";
-}  
 function showSubject(key, tab = "pyq") {
   setNav("home");
   const s = SUBJECTS.find(x => x.key === key);
@@ -262,7 +322,7 @@ function showSubject(key, tab = "pyq") {
   let body = "";
 
   if (tab === "pyq") {
-    const pyq = files.filter(f => f.type === "pyq").sort((a, b) => b.year - a.year);
+    const pyq = files.filter(f => kindOf(f) === "pyq").sort((a, b) => b.year - a.year);
     body = pyq.length ? pyq.map(f => `
       <div class="li" data-start="pyq" data-path="${esc(f.__p)}">
         <div><b>${f.year}</b><div class="muted">${f.questions.length} questions</div></div>
@@ -333,9 +393,7 @@ function showSubject(key, tab = "pyq") {
   });
 }
 
-/* ---------- TEST ENGINE ----------
-   Test screen ek baar banta hai. Option click sirf question box aur palette
-   update karta hai, isliye screen blink nahi karti. */
+/* ---------- TEST ENGINE ---------- */
 let T = null, timer = null;
 
 function startTest(qs, title, negative, totalSeconds) {
@@ -399,7 +457,6 @@ function buildTestShell() {
   };
 }
 
-/* Event delegation: ek hi listener option aur palette dono ke liye */
 app.addEventListener("click", e => {
   if (!T) return;
   const opt = e.target.closest("[data-opt]");
@@ -626,6 +683,7 @@ const splashDone = new Promise(r => setTimeout(r, 2500));
 (async () => {
   try { await loadBank(); }
   catch (e) { loadErrors.push(e.message); }
+  await loadNotes();
   await splashDone;
   showHome();
   $("#splash").classList.add("hide");
