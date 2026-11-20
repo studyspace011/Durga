@@ -1,0 +1,1015 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "title": "Bihar Board Class-XII English 2020",
+  "time_minutes": 195,
+  "negative_marking": 0,
+  "questions": [
+    {
+      "id": "eng-2020-obj-001",
+      "chapter": "Modals / Auxiliary Verbs (Section-A Objective)",
+      "question": "She ________ be above forty. (Choose the correct verb)",
+      "options": [
+        "will",
+        "needs",
+        "used to",
+        "ought"
+      ],
+      "answer": 0,
+      "explanation": "'Will' can express probability or likelihood about age ('She will be above forty').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-002",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "Who is the person ________ this picture? (Choose the correct preposition)",
+      "options": [
+        "at",
+        "by",
+        "over",
+        "in"
+      ],
+      "answer": 3,
+      "explanation": "The preposition 'in' is used for someone appearing inside a picture or photograph.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-003",
+      "chapter": "Articles (Section-A Objective)",
+      "question": "Please give me ________ cake that is on the table. (Choose the correct article)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "Definite article 'the' is used because the specific cake ('that is on the table') is identified.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-004",
+      "chapter": "Correct Sentence (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I do not like coffee.",
+        "I no like coffee.",
+        "I had no like coffee.",
+        "I will no like coffee."
+      ],
+      "answer": 0,
+      "explanation": "'I do not like coffee.' is the grammatically correct negative present simple sentence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-005",
+      "chapter": "Tense (Section-A Objective)",
+      "question": "The teacher ________ the lesson yesterday. (Choose the correct option)",
+      "options": [
+        "teaches",
+        "taught",
+        "will teach",
+        "has taught"
+      ],
+      "answer": 1,
+      "explanation": "'Yesterday' indicates a completed past action, requiring past simple 'taught'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-006",
+      "chapter": "Combination of Sentences (Section-A Objective)",
+      "question": "It may rain. We will get wet. (Choose the correct combination)",
+      "options": [
+        "If it will rain, we get wet.",
+        "Had it rained, we get wet.",
+        "If it rains, we will get wet.",
+        "If it may rain, we get wet."
+      ],
+      "answer": 2,
+      "explanation": "First conditional uses simple present ('If it rains') in the if-clause and 'will + V1' ('we will get wet') in the main clause.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-007",
+      "chapter": "Tense (Section-A Objective)",
+      "question": "Please be quiet. I ________ my homework. (Choose the best option)",
+      "options": [
+        "is doing",
+        "will doing",
+        "am doing",
+        "are doing"
+      ],
+      "answer": 2,
+      "explanation": "Subject 'I' takes 'am doing' for an action happening at the moment of speaking.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-008",
+      "chapter": "Tense (Section-A Objective)",
+      "question": "Rita ________ to the radio. (Choose the correct option)",
+      "options": [
+        "is listening",
+        "has listening",
+        "am listening",
+        "had listening"
+      ],
+      "answer": 0,
+      "explanation": "Singular subject 'Rita' takes 'is listening'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-009",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "The cat is eating the fish. (Choose the correct Passive voice)",
+      "options": [
+        "The fish is being eaten by the cat.",
+        "The fish was eat by the cat.",
+        "The cat is ate by the fish.",
+        "The cat had eaten the fish."
+      ],
+      "answer": 0,
+      "explanation": "Present continuous active ('is eating') becomes 'is being eaten' in passive voice.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-010",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Vitamin",
+        "Vitimin",
+        "Vetamin",
+        "Vitemin"
+      ],
+      "answer": 0,
+      "explanation": "'Vitamin' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-011",
+      "chapter": "Tense / Subject-Verb Agreement (Section-A Objective)",
+      "question": "He ________ classical music for four hours everyday. (Choose the correct option)",
+      "options": [
+        "practises",
+        "practise",
+        "is practise",
+        "was practice"
+      ],
+      "answer": 0,
+      "explanation": "With 'everyday' and third-person singular 'He', the verb form is 'practises' (verb).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-012",
+      "chapter": "Participle / Verb Form (Section-A Objective)",
+      "question": "The mother sat in a corner ________ her son take his baby steps. (Choose the best option)",
+      "options": [
+        "watched",
+        "watching",
+        "watch",
+        "to watch"
+      ],
+      "answer": 1,
+      "explanation": "Present participle 'watching' describes what the mother was doing while sitting.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-013",
+      "chapter": "Correct Sentence (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Either of three men can do it.",
+        "Any of the three men can do it.",
+        "Either of the three men can do it.",
+        "Any of three men can do it."
+      ],
+      "answer": 1,
+      "explanation": "'Any of the three men' properly refers to one among a group of three with the definite article 'the'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-014",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "The windows have been cleaned. (Choose the correct Active voice)",
+      "options": [
+        "Someone may clean the windows.",
+        "Someone had cleaned the windows.",
+        "Someone has cleaned the windows.",
+        "Someone will clean the windows."
+      ],
+      "answer": 2,
+      "explanation": "Present perfect passive ('have been cleaned') corresponds to present perfect active ('Someone has cleaned the windows.').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-015",
+      "chapter": "Tense / Subject-Verb Agreement (Section-A Objective)",
+      "question": "You ________ the piano. (Choose the correct option)",
+      "options": [
+        "am playing",
+        "is playing",
+        "are playing",
+        "was playing"
+      ],
+      "answer": 2,
+      "explanation": "Subject 'You' pairs with 'are playing'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-016",
+      "chapter": "Tense (Section-A Objective)",
+      "question": "We ________ him yesterday. (Choose the correct option)",
+      "options": [
+        "were visiting",
+        "visited",
+        "have visited",
+        "will be visiting"
+      ],
+      "answer": 1,
+      "explanation": "'Yesterday' indicates a past event, so simple past 'visited' is used.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-017",
+      "chapter": "Tense (Section-A Objective)",
+      "question": "We ________ that you would succeed. (Choose the correct option)",
+      "options": [
+        "hoping",
+        "hoped",
+        "had hoped",
+        "will hope"
+      ],
+      "answer": 1,
+      "explanation": "Simple past 'hoped' aligns naturally with 'would succeed' in the following clause.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-018",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "There is a bridge ________ the river. (Choose the correct preposition)",
+      "options": [
+        "across",
+        "in",
+        "at",
+        "of"
+      ],
+      "answer": 0,
+      "explanation": "'Across' is used for a bridge spanning from one side of a river to the other.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-019",
+      "chapter": "Causative Verbs (Section-A Objective)",
+      "question": "Arti made me ________ my shoes before I went into her house. (Choose the correct option)",
+      "options": [
+        "to take off",
+        "took off",
+        "take off",
+        "taken off"
+      ],
+      "answer": 2,
+      "explanation": "Causative verb 'make + object' is followed by the bare infinitive ('take off'), without 'to'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-020",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "He said to me, \"Will you post this letter for me?\" (Choose the correct indirect narration)",
+      "options": [
+        "He asked me if I would post that letter for him.",
+        "He asked me if I would post this letter to him.",
+        "He asked me if I will post that letter to him.",
+        "He said to me if I would post that letter to him."
+      ],
+      "answer": 0,
+      "explanation": "'Will' becomes 'would', 'this' becomes 'that', and 'me' becomes 'him' in indirect speech.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-021",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "He is going ________ leave next week. (Choose the correct preposition)",
+      "options": [
+        "at",
+        "on",
+        "over",
+        "of"
+      ],
+      "answer": 1,
+      "explanation": "The standard expression is 'on leave'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-022",
+      "chapter": "Correct Sentence (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She want three egg.",
+        "She wants three egg.",
+        "She wanting three eggs.",
+        "She wants three eggs."
+      ],
+      "answer": 3,
+      "explanation": "Singular subject 'She' takes 'wants', and 'three' requires plural 'eggs'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-023",
+      "chapter": "Auxiliary Verbs / Tense (Section-A Objective)",
+      "question": "________ he drive to work? (Choose the best option)",
+      "options": [
+        "Has",
+        "Don't",
+        "Do",
+        "Does"
+      ],
+      "answer": 3,
+      "explanation": "Third-person singular 'he' with base verb 'drive' takes 'Does'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-024",
+      "chapter": "Tense (Section-A Objective)",
+      "question": "Yesterday, I ________ to buy bread. (Choose the correct option)",
+      "options": [
+        "go",
+        "going",
+        "to go",
+        "went"
+      ],
+      "answer": 3,
+      "explanation": "'Yesterday' requires the past tense form 'went'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-025",
+      "chapter": "Verb Usage (Section-A Objective)",
+      "question": "The teacher ________ about the weather. (Choose the correct option)",
+      "options": [
+        "said",
+        "spoke",
+        "talked",
+        "told"
+      ],
+      "answer": 2,
+      "explanation": "'Talked about' is naturally used for discussing a topic like the weather.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-026",
+      "chapter": "Correct Sentence (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He will never speak lie.",
+        "He will never tell lie.",
+        "He will never say a lie.",
+        "He will never tell a lie."
+      ],
+      "answer": 3,
+      "explanation": "The standard idiom is 'tell a lie'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-027",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "She is pleased ________ me. (Choose the correct option)",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "from"
+      ],
+      "answer": 2,
+      "explanation": "'Pleased with' is used when referring to a person.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-028",
+      "chapter": "Tense / Modals (Section-A Objective)",
+      "question": "You ________ get a new dress tomorrow. (Choose the correct option)",
+      "options": [
+        "will",
+        "do",
+        "didn't",
+        "hadn't"
+      ],
+      "answer": 0,
+      "explanation": "'Tomorrow' indicates future time, so 'will' is appropriate.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-029",
+      "chapter": "Modals / Auxiliary Verbs (Section-A Objective)",
+      "question": "He has broken his leg, so he ________ play football. (Choose the correct auxiliary verb)",
+      "options": [
+        "can't",
+        "should",
+        "must",
+        "needs not"
+      ],
+      "answer": 0,
+      "explanation": "A broken leg makes him unable to play, so 'can't' expresses inability.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-030",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Intilligent",
+        "Inteligent",
+        "Intelligent",
+        "Intiligint"
+      ],
+      "answer": 2,
+      "explanation": "'Intelligent' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-031",
+      "chapter": "Verb Form (Section-A Objective)",
+      "question": "Let me ________ the classroom please. (Choose the correct verb)",
+      "options": [
+        "to leave",
+        "leaving",
+        "leave",
+        "have left"
+      ],
+      "answer": 2,
+      "explanation": "'Let + object' is followed by the base form of the verb ('leave').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-032",
+      "chapter": "Correct Sentence (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I am going now.",
+        "I going now.",
+        "I gone now.",
+        "I will going now."
+      ],
+      "answer": 0,
+      "explanation": "'I am going now.' is the grammatically complete present continuous sentence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-033",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Shyam asked her if she was ill. (Choose the correct direct narration)",
+      "options": [
+        "Shyam asked her, \"You are ill.\"",
+        "Shyam told her, \"Was she ill?\"",
+        "Shyam said to her, \"Are you ill?\"",
+        "Shyam said to her, \"Is she ill?\""
+      ],
+      "answer": 2,
+      "explanation": "Indirect 'asked her if she was ill' converts back to direct question 'Shyam said to her, \"Are you ill?\"'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-034",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "'Are you coming with us?' He asked me. (Choose the correct indirect speech)",
+      "options": [
+        "He asked me if I was coming with them.",
+        "He asks if I was coming with them.",
+        "He had asked if I was coming with them.",
+        "He will ask if I am coming with them."
+      ],
+      "answer": 0,
+      "explanation": "'Are you coming with us?' shifts to 'if I was coming with them' after past 'asked me'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-035",
+      "chapter": "Articles / Nouns (Section-A Objective)",
+      "question": "Learning ________ isn't easy. (Choose the correct option)",
+      "options": [
+        "the French",
+        "French",
+        "of French",
+        "in French"
+      ],
+      "answer": 1,
+      "explanation": "Names of languages like 'French' do not take an article when referring to the language itself.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-036",
+      "chapter": "One Word Substitution (Section-A Objective)",
+      "question": "A written statement or oath is ________. (Choose the correct option)",
+      "options": [
+        "a deed",
+        "an alimony",
+        "a letter",
+        "an affidavit"
+      ],
+      "answer": 3,
+      "explanation": "An affidavit is a written statement confirmed by oath or affirmation for use as evidence in court.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-037",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "John Donne is a ________ poet. (Choose the correct option)",
+      "options": [
+        "nature",
+        "metaphysical",
+        "cavalier",
+        "romantic"
+      ],
+      "answer": 1,
+      "explanation": "John Donne is a leading metaphysical poet.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-038",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "Standard British English speech came to be known as ________. (Choose the correct option)",
+      "options": [
+        "Second language",
+        "New English",
+        "American English",
+        "Received Pronunciation"
+      ],
+      "answer": 3,
+      "explanation": "Standard British English pronunciation is known as Received Pronunciation (RP).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-039",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "\"And the nightingale is dumb\" is from ________. (Choose the correct option)",
+      "options": [
+        "Fire-Hymn",
+        "Ode to Autumn",
+        "Now the Leaves are Falling Fast",
+        "Sweetest Love I Do Not Goe"
+      ],
+      "answer": 2,
+      "explanation": "This line is from W.H. Auden's 'Now the Leaves are Falling Fast'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-040",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "Rupert Brooke praises ________. (Choose the correct option)",
+      "options": [
+        "England",
+        "Germany",
+        "Russia",
+        "America"
+      ],
+      "answer": 0,
+      "explanation": "In 'The Soldier', Rupert Brooke praises his homeland, England.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-041",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "Walter de la Mare makes us aware of the ________. (Choose the correct option)",
+      "options": [
+        "inhuman conditions of modern life",
+        "poverty",
+        "dreams",
+        "London life"
+      ],
+      "answer": 0,
+      "explanation": "Walter de la Mare's poetry makes us sensitive to the inhuman conditions of modern life.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-042",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "What, according to Zakir Hussain, is the prime instrument of national purpose? (Choose the correct option)",
+      "options": [
+        "Business",
+        "Service",
+        "Politics",
+        "Education"
+      ],
+      "answer": 3,
+      "explanation": "In 'Bharat is My Home', Dr. Zakir Hussain emphasizes education as the prime instrument of national purpose.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-043",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "\"In hearts at peace, under an English heaven\" is from ________. (Choose the correct option)",
+      "options": [
+        "Ode to Autumn",
+        "The Soldier",
+        "Song of Myself",
+        "Fire-Hymn"
+      ],
+      "answer": 1,
+      "explanation": "This line appears in Rupert Brooke's 'The Soldier'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-044",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "And the active hands must ________ lonely on the separate knees. (Choose the correct option)",
+      "options": [
+        "die",
+        "pluck",
+        "freeze",
+        "snatch"
+      ],
+      "answer": 2,
+      "explanation": "In 'Now the Leaves are Falling Fast', the line reads: 'And the active hands must freeze / Lonely on the separate knees.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-045",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "\"Ideas That Have Helped Mankind\" is written by ________. (Choose the correct option)",
+      "options": [
+        "Germaine Greer",
+        "Pearl S. Buck",
+        "Shiga Naoya",
+        "Bertrand Russell"
+      ],
+      "answer": 3,
+      "explanation": "'Ideas That Have Helped Mankind' is written by Bertrand Russell.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-046",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "Walter de la Mare was born in ________. (Choose the correct option)",
+      "options": [
+        "1853",
+        "1867",
+        "1873",
+        "1889"
+      ],
+      "answer": 2,
+      "explanation": "Walter de la Mare was born in 1873.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-047",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "Bertrand Russell was awarded Nobel Prize in literature in ________. (Choose the correct option)",
+      "options": [
+        "1956",
+        "1952",
+        "1950",
+        "1953"
+      ],
+      "answer": 2,
+      "explanation": "Bertrand Russell was awarded the Nobel Prize in Literature in 1950.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-048",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "English used from the 15th century is called ________. (Choose the correct option)",
+      "options": [
+        "Old English",
+        "Modern English",
+        "Middle English",
+        "Post-modern English"
+      ],
+      "answer": 1,
+      "explanation": "Modern English is generally dated from around AD 1500 (end of the 15th century).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-049",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "\"The Waste Land\" is written by ________. (Choose the correct option)",
+      "options": [
+        "T.S. Eliot",
+        "W.H. Auden",
+        "S.T. Coleridge",
+        "John Donne"
+      ],
+      "answer": 0,
+      "explanation": "'The Waste Land' was written by T.S. Eliot.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-050",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "English language is ________ than Sanskrit. (Choose the correct option)",
+      "options": [
+        "older",
+        "ancient",
+        "younger",
+        "classical"
+      ],
+      "answer": 2,
+      "explanation": "English is younger than Sanskrit.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-051",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "Our forefathers did not invent machinery because ________. (Choose the correct option)",
+      "options": [
+        "they knew we would become slaves",
+        "they knew we would be happy",
+        "they did not like to see us comfortable",
+        "they were jealous of us"
+      ],
+      "answer": 0,
+      "explanation": "According to Mahatma Gandhi in 'Indian Civilization and Culture', our forefathers avoided machinery knowing it would enslave us.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-052",
+      "chapter": "Poetry (Section-A Objective)",
+      "question": "\"And stooped and drank a little more\" is from ________. (Choose the correct option)",
+      "options": [
+        "Fire-Hymn",
+        "Song of Myself",
+        "Snake",
+        "Ode to Autumn"
+      ],
+      "answer": 2,
+      "explanation": "This line is from D.H. Lawrence's poem 'Snake'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-053",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "Dr. Zakir Hussain is the author of the piece '________'. (Choose the correct option)",
+      "options": [
+        "The Artist",
+        "Bharat is My Home",
+        "A Child is Born",
+        "How Free is the Press"
+      ],
+      "answer": 1,
+      "explanation": "Dr. Zakir Hussain wrote 'Bharat is My Home'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-054",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "'Macbeth' and 'Julius Caesar' are written by ________. (Choose the correct option)",
+      "options": [
+        "Goldsmith",
+        "Ben Jonson",
+        "Shakespeare",
+        "Sheridan"
+      ],
+      "answer": 2,
+      "explanation": "Both plays were written by William Shakespeare.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-055",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "'Savitri' is written by ________. (Choose the correct option)",
+      "options": [
+        "Aurobindo Ghosh",
+        "Sarojini Naidu",
+        "R.N. Tagore",
+        "Toru Dutt"
+      ],
+      "answer": 0,
+      "explanation": "'Savitri' is an epic poem by Aurobindo Ghosh (Sri Aurobindo).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-056",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "'After all, there is something in Hinduism that has kept it alive up till now' is from ________. (Choose the correct option)",
+      "options": [
+        "The Earth",
+        "Indian Civilization and Culture",
+        "Bharat is My Home",
+        "I Have a Dream"
+      ],
+      "answer": 1,
+      "explanation": "This line is from 'Indian Civilization and Culture' by Mahatma Gandhi.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-057",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "Radhakrishnan never lost his faith in the ________. (Choose the correct option)",
+      "options": [
+        "essential wealth",
+        "essential humanity of man",
+        "essential knowledge",
+        "essential experience"
+      ],
+      "answer": 1,
+      "explanation": "In 'Bharat is My Home', Dr. Radhakrishnan's faith in the essential humanity of man is highlighted.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-058",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "________ were satisfied with small villages. (Choose the correct option)",
+      "options": [
+        "Old people",
+        "Our ancestors",
+        "Youth",
+        "Adults"
+      ],
+      "answer": 1,
+      "explanation": "In 'Indian Civilization and Culture', Gandhi states our ancestors were satisfied with small villages.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-059",
+      "chapter": "Story of English (Section-A Objective)",
+      "question": "The Great Vowel Shift took place during ________. (Choose the correct option)",
+      "options": [
+        "Modern English",
+        "Middle English",
+        "Old English",
+        "British English"
+      ],
+      "answer": 1,
+      "explanation": "The Great Vowel Shift occurred during the Middle English period.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-obj-060",
+      "chapter": "Prose (Section-A Objective)",
+      "question": "\"And as we walk, we make the pledge that we shall ________.\" (Choose the correct option)",
+      "options": [
+        "always be satisfied",
+        "always fight",
+        "always hate people",
+        "always march ahead"
+      ],
+      "answer": 3,
+      "explanation": "From Martin Luther King Jr.'s 'I Have a Dream': '...we make the pledge that we shall always march ahead.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-sub-001",
+      "chapter": "Essay Writing (Section-B Subjective)",
+      "question": "Write an essay on any one of the following in about 150-200 words: (a) Village Life (b) Discipline (c) Work is worship (d) A film you have recently watched (e) Your college library.",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective essay writing question (150-200 words).",
+      "marks": 8
+    },
+    {
+      "id": "eng-2020-sub-002",
+      "chapter": "Explanation - Prose (Section-B Subjective)",
+      "question": "Explain any one of the following:\n(a) The common people lived independently and followed their agricultural occupation.\n(b) Even more important than the domestication of animals was the invention of agriculture.\n(c) Seibei is now engrossed in his pictures. He no longer feels any bitterness towards the teachers....\n(d) ...... he knew nothing about the stock-markets. But he knew everything about a hen.",
+      "options": [],
+      "answer": null,
+      "explanation": "(a) From 'Indian Civilization and Culture'. (b) From 'Ideas that Have Helped Mankind'. (c) From 'The Artist'. (d) From 'The Earth'.",
+      "marks": 4
+    },
+    {
+      "id": "eng-2020-sub-003",
+      "chapter": "Explanation - Poetry (Section-B Subjective)",
+      "question": "Explain any one of the following:\n(a) Macavity, Macavity, there's no one like Macavity For he's fiend in feline shape, a monster of depravity.\n(b) We saw embers losing their cruel redness To the grey ash that swallows all, half-cooked limbs.\n(c) He lifted his head from his drinking, as cattle do, And looked at me vaguely, as drinking cattle do,\n(d) I think she was the most beautiful lady That ever was in the West country.",
+      "options": [],
+      "answer": null,
+      "explanation": "(a) From 'Macavity: The Mystery Cat'. (b) From 'Fire-Hymn'. (c) From 'Snake'. (d) From 'An Epitaph'.",
+      "marks": 4
+    },
+    {
+      "id": "eng-2020-sub-004",
+      "chapter": "Letter Writing (Section-B Subjective)",
+      "question": "Write a letter to your cousin, asking him about the preparation of his upcoming examination. OR Write an application to your Principal, requesting him to give permission to organize a cultural event in your school.",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective letter/application writing question.",
+      "marks": 5
+    },
+    {
+      "id": "eng-2020-sub-005",
+      "chapter": "Short Answer Questions (Section-B Subjective)",
+      "question": "Answer any five of the following in about 40-50 words:\n(a) Why did the poet feel honoured?\n(b) What conditions prevail in the woods?\n(c) What is civilization in the real sense of the term?\n(d) What are the 'trials and tribulations' Martin Luther King, Jr. talks about?\n(e) What is the impact of poverty in medical field?\n(f) What is Dr. Zakir Hussain's concept of education?\n(g) Which event does the expression 'the burning ghat' refer to?\n(h) What are the features of drama?\n(i) Name the areas where English is used as a second language.\n(j) What led English to borrowings?",
+      "options": [],
+      "answer": null,
+      "explanation": "Short answer questions (40-50 words each, any 5).",
+      "marks": 10
+    },
+    {
+      "id": "eng-2020-sub-006a",
+      "chapter": "Summary Writing - Poetry (Section-B Subjective)",
+      "question": "Write a summary of any one of the following poems in about 100-120 words: (i) Snake (ii) Sweetest Love, I Do Not Goe (iii) Fire-Hymn",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective poetry summary question (100-120 words).",
+      "marks": 5
+    },
+    {
+      "id": "eng-2020-sub-006b",
+      "chapter": "Summary Writing - Prose (Section-B Subjective)",
+      "question": "Write a summary of any one of the following prose pieces in about 100-120 words: (i) How Free is the Press (ii) India Through a Traveller's Eyes (iii) The Artist",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective prose summary question (100-120 words).",
+      "marks": 5
+    },
+    {
+      "id": "eng-2020-sub-006c",
+      "chapter": "Story of English (Section-B Subjective)",
+      "question": "Write a note on English as a global language. OR Write a note on the dialects of Middle English. OR What do you understand by 'Received Pronunciation'? Discuss.",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective note/discussion question on Story of English.",
+      "marks": 5
+    },
+    {
+      "id": "eng-2020-sub-006da",
+      "chapter": "Poetry - Match the Following (Section-B Subjective)",
+      "question": "Match the poet 'John Donne' with the appropriate work:",
+      "options": [
+        "The Soldier",
+        "Sweetest Love, I Do Not Goe",
+        "Now the Leaves Are Falling Fast",
+        "Song of Myself",
+        "My Grandmother's House"
+      ],
+      "answer": 1,
+      "explanation": "John Donne wrote 'Sweetest Love, I Do Not Goe'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-sub-006db",
+      "chapter": "Poetry - Match the Following (Section-B Subjective)",
+      "question": "Match the poet 'W.H. Auden' with the appropriate work:",
+      "options": [
+        "The Soldier",
+        "Sweetest Love, I Do Not Goe",
+        "Now the Leaves Are Falling Fast",
+        "Song of Myself",
+        "My Grandmother's House"
+      ],
+      "answer": 2,
+      "explanation": "W.H. Auden wrote 'Now the Leaves Are Falling Fast'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-sub-006dc",
+      "chapter": "Poetry - Match the Following (Section-B Subjective)",
+      "question": "Match the poet 'Rupert Brooke' with the appropriate work:",
+      "options": [
+        "The Soldier",
+        "Sweetest Love, I Do Not Goe",
+        "Now the Leaves Are Falling Fast",
+        "Song of Myself",
+        "My Grandmother's House"
+      ],
+      "answer": 0,
+      "explanation": "Rupert Brooke wrote 'The Soldier'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-sub-006dd",
+      "chapter": "Poetry - Match the Following (Section-B Subjective)",
+      "question": "Match the poet 'Kamala Das' with the appropriate work:",
+      "options": [
+        "The Soldier",
+        "Sweetest Love, I Do Not Goe",
+        "Now the Leaves Are Falling Fast",
+        "Song of Myself",
+        "My Grandmother's House"
+      ],
+      "answer": 4,
+      "explanation": "Kamala Das wrote 'My Grandmother's House'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-sub-006de",
+      "chapter": "Poetry - Match the Following (Section-B Subjective)",
+      "question": "Match the poet 'Walt Whitman' with the appropriate work:",
+      "options": [
+        "The Soldier",
+        "Sweetest Love, I Do Not Goe",
+        "Now the Leaves Are Falling Fast",
+        "Song of Myself",
+        "My Grandmother's House"
+      ],
+      "answer": 3,
+      "explanation": "Walt Whitman wrote 'Song of Myself'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-sub-006g",
+      "chapter": "Translation (Section-B Subjective)",
+      "question": "Translate any five into English:\n(i) आज मैं श्याम से मिलने जाऊँगा।\n(ii) वह बहुत बीमार था।\n(iii) मेरे पिताजी भागलपुर गए हैं।\n(iv) मैं चाय पी रहा हूँ।\n(v) आपकी घड़ी में कितना बजा है?\n(vi) शिक्षकों का आदर करना चाहिए।\n(vii) मेरी परीक्षा चल रही थी।\n(viii) क्या तुम्हें अंग्रेजी बोलना आता है?",
+      "options": [],
+      "answer": null,
+      "explanation": "(i) Today I will go to meet Shyam. (ii) He/She was very ill. (iii) My father has gone to Bhagalpur. (iv) I am drinking/having tea. (v) What is the time by your watch? (vi) We should respect teachers. (vii) My examination was going on. (viii) Do you know how to speak English?",
+      "marks": 5
+    },
+    {
+      "id": "eng-2020-sub-007",
+      "chapter": "Comprehension / Precis (Section-B Subjective)",
+      "question": "Read the passage and answer the questions:\nMy toothbrush is a thing that haunts me when I'm travelling, and makes my life a misery. I dream that I haven't packed it, and wake up in cold perspiration. I get out of bed and hunt for it. And, in the morning, I pack it before I have used it, and have to unpack it again. Then I forget it and have to rush upstairs at the last moment carry it to the railway station, wrapped up in my pocket handkerchief.\nQuestions: (a) How does the writer's toothbrush make his life a misery? (b) What happens in the morning? (c) What happens at the last moment? (d) Frame sentences with: Misery, Toothbrush.\nOR Write a precis of the passage on the test of a great book and give a suitable title.",
+      "options": [],
+      "answer": null,
+      "explanation": "Comprehension answers: (a) It haunts him in dreams and causes anxiety while travelling. (b) He packs it before using it and has to unpack it. (c) He forgets it and rushes upstairs at the last minute to take it wrapped in a handkerchief. Precis title: The Test of a Great Book.",
+      "marks": 6
+    }
+  ]
+}
+```[cite: 6]

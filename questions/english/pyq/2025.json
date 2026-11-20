@@ -1,0 +1,1059 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "title": "Intermediate Examination 2025 English (Set H) - Section A",
+  "time_minutes": 195,
+  "negative_marking": 0,
+  "questions": [
+    {
+      "id": "eng-2025-obj-001",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "Madhav is good ________ English. (Choose the correct option)",
+      "options": ["in", "on", "at", "with"],
+      "answer": 2,
+      "explanation": "The standard phrase is 'good at' a subject or skill ('good at English').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-002",
+      "chapter": "Adverbs / Adjectives (Section-A Objective)",
+      "question": "The ________ behaved in a ________ manner. (Choose the correct option)",
+      "options": ["friendly", "manly", "sickly", "hardly"],
+      "answer": 0,
+      "explanation": "'Friendly' is a standard manner adjective in the available options.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-003",
+      "chapter": "Sentence Correction (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Sangita is far beautiful than her friend.",
+        "Sangita is far more beautiful than her friend.",
+        "Sangita is far most beautiful than her friend.",
+        "Sangita is far the most beautiful than her friend."
+      ],
+      "answer": 1,
+      "explanation": "Comparative degree uses 'more beautiful than', and 'far' can intensify a comparative ('far more beautiful than').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-004",
+      "chapter": "Subject-Verb Agreement (Section-A Objective)",
+      "question": "A lot of energy ________ wasted on finding the dog. (Choose the correct option)",
+      "options": ["was", "were", "can", "will"],
+      "answer": 0,
+      "explanation": "'Energy' is an uncountable noun, so singular verb 'was' is used in passive past.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-005",
+      "chapter": "Prepositions / Idioms (Section-A Objective)",
+      "question": "The work was done ________ haste. (Choose the correct option)",
+      "options": ["at", "of", "by", "in"],
+      "answer": 3,
+      "explanation": "'In haste' is the fixed prepositional phrase meaning hurriedly.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-006",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correct spelling:",
+      "options": ["Harmoney", "Harmony", "Hermoney", "Hurmeny"],
+      "answer": 1,
+      "explanation": "'Harmony' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-007",
+      "chapter": "Verb Form / Imperative (Section-A Objective)",
+      "question": "________ before you leap. (Choose the correct option)",
+      "options": ["Look", "To look", "Looking", "Looked"],
+      "answer": 0,
+      "explanation": "The proverb 'Look before you leap' begins with the imperative base verb 'Look'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-008",
+      "chapter": "Adverbs (Section-A Objective)",
+      "question": "It remains a ________ open question. (Choose the correct option)",
+      "options": ["complete", "to complete", "completely", "complitely"],
+      "answer": 2,
+      "explanation": "Adverb 'completely' modifies the adjective 'open' ('completely open question').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-009",
+      "chapter": "Determiners (Section-A Objective)",
+      "question": "________ rose has a thorn. (Choose the correct option)",
+      "options": ["Every", "Either", "None", "Neither"],
+      "answer": 0,
+      "explanation": "'Every' applies universally to each member of a group ('Every rose has a thorn.').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-010",
+      "chapter": "Interrogative Pronouns (Section-A Objective)",
+      "question": "________ doesn't know you? (Choose the correct option)",
+      "options": ["What", "When", "Who", "Where"],
+      "answer": 2,
+      "explanation": "Subject pronoun 'Who' asks about a person ('Who doesn't know you?').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-011",
+      "chapter": "Phrasal Verbs (Section-A Objective)",
+      "question": "He ________ of the deal at the last moment. (Choose the correct option)",
+      "options": ["back up", "bank on", "backed out", "broke away"],
+      "answer": 2,
+      "explanation": "'Backed out' means withdrew from an agreement or commitment.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-012",
+      "chapter": "Adjectives / Quantifiers (Section-A Objective)",
+      "question": "February has ________ days than March. (Choose the correct option)",
+      "options": ["less", "little", "fewer", "any"],
+      "answer": 2,
+      "explanation": "'Fewer' is used with plural countable nouns ('days') before 'than'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-013",
+      "chapter": "Tense / Conditionals (Section-A Objective)",
+      "question": "Take an umbrella in case it ________. (Choose the correct option)",
+      "options": ["has rain", "raining", "rains", "rained"],
+      "answer": 2,
+      "explanation": "Simple present 'rains' follows 'in case' for a future possibility.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-014",
+      "chapter": "Modals (Section-A Objective)",
+      "question": "We ________ keep our colonies clean. (Choose the correct option)",
+      "options": ["may", "should", "might", "could"],
+      "answer": 1,
+      "explanation": "'Should' expresses moral duty or civic responsibility.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-015",
+      "chapter": "Sentence Combination (Section-A Objective)",
+      "question": "Rani is ill. She is working hard. (Choose the correct option)",
+      "options": [
+        "Rani is ill and working hard.",
+        "Rani is ill yet she is working hard.",
+        "Ill is Rani but working hard.",
+        "Working hard is Rani and she is ill."
+      ],
+      "answer": 1,
+      "explanation": "'Yet' contrasts her illness with her continued hard work.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-016",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Transformation",
+        "Trinsfermation",
+        "Trensfermetion",
+        "Treansformation"
+      ],
+      "answer": 0,
+      "explanation": "'Transformation' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-017",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Suraj drives the truck. (Choose the correct passive sentence)",
+      "options": [
+        "The truck is driven by Suraj.",
+        "The truck will be driven by Suraj.",
+        "The truck was driven by Suraj.",
+        "The truck may be driven by Suraj."
+      ],
+      "answer": 0,
+      "explanation": "Simple present active ('drives') becomes simple present passive ('is driven by Suraj.').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-018",
+      "chapter": "Sentence Transformation (Section-A Objective)",
+      "question": "Ram must have seen the Taj Mahal. (Choose the correct negative sentence)",
+      "options": [
+        "Ram must not have missed to see the Taj Mahal.",
+        "Ram must not have seen the Taj Mahal.",
+        "Ram did not see the Taj Mahal.",
+        "The Taj Mahal was seen by Ram."
+      ],
+      "answer": 1,
+      "explanation": "'Ram must not have seen the Taj Mahal.' negates the modal deduction directly.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-019",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "The antonym of 'Clever' is ________. (Choose the correct option)",
+      "options": ["Angry", "Cunning", "Naughty", "Stupid"],
+      "answer": 3,
+      "explanation": "'Stupid' is the opposite of 'clever' in general usage.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-020",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "The synonym of 'Worried' is ________. (Choose the correct option)",
+      "options": ["Troubled", "Unconcerned", "Ignored", "Calm"],
+      "answer": 0,
+      "explanation": "'Troubled' means anxious or worried.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-021",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "The antonym of 'Clean' is ________. (Choose the correct option)",
+      "options": ["Neat", "Wash", "Tidy", "Dirty"],
+      "answer": 3,
+      "explanation": "'Dirty' is the opposite of 'clean'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-022",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "The synonym of 'Lofty' is ________. (Choose the correct option)",
+      "options": ["High", "Shaky", "Small", "Lowly"],
+      "answer": 0,
+      "explanation": "'Lofty' means tall, elevated, or high.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-023",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "The antonym of 'Finish' is ________. (Choose the correct option)",
+      "options": ["Start", "Destroy", "Close", "Complete"],
+      "answer": 0,
+      "explanation": "'Start' is the opposite of 'finish'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-024",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "The thief was beaten ________. (Choose the correct option)",
+      "options": [
+        "cat and dog",
+        "black and white",
+        "black and blue",
+        "beside the point"
+      ],
+      "answer": 2,
+      "explanation": "'Beaten black and blue' is a standard idiom meaning severely bruised/beaten.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-025",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "They went to the beach ________ a picnic. (Choose the correct option)",
+      "options": ["for", "on", "at", "in"],
+      "answer": 0,
+      "explanation": "'For a picnic' expresses purpose.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-026",
+      "chapter": "Gerund / Verb Form (Section-A Objective)",
+      "question": "She enjoys ________ poetry in her free time. (Choose the correct option)",
+      "options": ["reading", "reads", "read", "to read"],
+      "answer": 0,
+      "explanation": "'Enjoy' is followed by a gerund ('reading').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-027",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Sonam said, \"What a beautiful park!\" (Choose the correct indirect speech)",
+      "options": [
+        "Sonam thought that it was a beautiful park.",
+        "Sonam said that it was a beautiful park.",
+        "Sonam exclaimed with joy that it was a beautiful park.",
+        "Sonam was happy to see a beautiful park."
+      ],
+      "answer": 2,
+      "explanation": "Exclamatory praise in past tense converts to 'exclaimed with joy that it was a beautiful park'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-028",
+      "chapter": "Modals (Section-A Objective)",
+      "question": "We eat so that we ________ survive. (Choose the correct option)",
+      "options": ["must", "used to", "could", "may"],
+      "answer": 3,
+      "explanation": "'So that + we may + V1' expresses purpose in present time.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-029",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "By whom has the dog been killed? (Choose the correct active voice)",
+      "options": [
+        "Who will be killing the dog?",
+        "Who has killed the dog?",
+        "Who had to kill the dog?",
+        "Who must have killed the dog?"
+      ],
+      "answer": 1,
+      "explanation": "Present perfect passive 'By whom has ... been killed?' converts to active 'Who has killed the dog?'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-030",
+      "chapter": "Sentence Combination (Section-A Objective)",
+      "question": "The train went by. It did not stop. (Choose the correct combination)",
+      "options": [
+        "The train will go by and will not stop.",
+        "The train went by because it will not stop.",
+        "The train goes by therefore it did not stop.",
+        "The train went by without stopping."
+      ],
+      "answer": 3,
+      "explanation": "'The train went by without stopping.' concisely combines both past actions.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-031",
+      "chapter": "Adverbs (Section-A Objective)",
+      "question": "My children told me that they would love me ________. (Choose the correct option)",
+      "options": ["moreover", "none", "never", "forever"],
+      "answer": 3,
+      "explanation": "'Forever' fits the meaning of lasting affection.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-032",
+      "chapter": "Adjectives (Section-A Objective)",
+      "question": "We can't expect any ________ help from them. (Choose the correct option)",
+      "options": ["further", "either", "farther", "neither"],
+      "answer": 0,
+      "explanation": "'Further' means additional or more help.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-033",
+      "chapter": "Adjectives / Degrees (Section-A Objective)",
+      "question": "He looks ________ than he is. (Choose the correct option)",
+      "options": ["old", "much old", "oldest", "older"],
+      "answer": 3,
+      "explanation": "Comparative adjective 'older' is required before 'than'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-034",
+      "chapter": "Determiners / Quantifiers (Section-A Objective)",
+      "question": "Mix the powder with ________ water. (Choose the correct option)",
+      "options": ["a little", "a few", "little", "few"],
+      "answer": 0,
+      "explanation": "'A little' means a small amount of uncountable noun 'water'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-035",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Let everyone be given a chance. (Choose the correct active voice)",
+      "options": [
+        "Give everyone a chance.",
+        "Let a chance be given to everyone.",
+        "Give a chance for everyone.",
+        "I will give up a chance."
+      ],
+      "answer": 0,
+      "explanation": "Passive 'Let everyone be given a chance.' converts to imperative active 'Give everyone a chance.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-036",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "She said, \"How ugly I look in this dress!\" (Choose the correct indirect narration)",
+      "options": [
+        "She said that how ugly she was looking in that dress.",
+        "She exclaimed how ugly she looked in that dress.",
+        "She expressed how ugly she looked in that dress.",
+        "She exclaimed that she looked very ugly in that dress."
+      ],
+      "answer": 3,
+      "explanation": "'She exclaimed that she looked very ugly in that dress.' properly shifts tense ('look' to 'looked'), pronoun ('I' to 'she'), and demonstrative ('this' to 'that').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-037",
+      "chapter": "Question Tag (Section-A Objective)",
+      "question": "They can speak English, ________? (Choose the correct option)",
+      "options": ["can't they", "mustn't they", "won't they", "aren't they"],
+      "answer": 0,
+      "explanation": "Positive statement with modal 'can' takes negative tag 'can't they'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-038",
+      "chapter": "Subject-Verb Agreement (Section-A Objective)",
+      "question": "Neither of them ________ going to attend the party. (Choose the correct option)",
+      "options": ["is", "are", "were", "have"],
+      "answer": 0,
+      "explanation": "'Neither of them' takes a singular verb ('is') in formal/standard grammar.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-039",
+      "chapter": "Demonstratives (Section-A Objective)",
+      "question": "I bought ________ flowers for my mother. (Choose the correct option)",
+      "options": ["them", "these", "him", "their"],
+      "answer": 1,
+      "explanation": "Plural demonstrative determiner 'these' modifies plural noun 'flowers'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-040",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "The synonym of 'Dormant' is ________. (Choose the correct option)",
+      "options": ["Sleeping", "Quick", "Humble", "Active"],
+      "answer": 0,
+      "explanation": "'Dormant' means inactive or sleeping/resting.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-041",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "The antonym of 'Guilty' is ________. (Choose the correct option)",
+      "options": ["Irrelevant", "Innocent", "Immature", "Ignorant"],
+      "answer": 1,
+      "explanation": "'Innocent' is the opposite of 'guilty'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-042",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "\"To shed crocodile tears\" means ________. (Choose the correct option)",
+      "options": [
+        "to weep profusely",
+        "to grieve seriously",
+        "to pretend grief",
+        "to mock something"
+      ],
+      "answer": 2,
+      "explanation": "'To shed crocodile tears' means to show insincere or pretended sorrow.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-043",
+      "chapter": "Articles (Section-A Objective)",
+      "question": "Eggs are sold by ________ dozen. (Choose the correct option)",
+      "options": ["a", "the", "an", "no article"],
+      "answer": 1,
+      "explanation": "'By the dozen' is the standard idiomatic expression for selling by unit/measure.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-044",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "The child ran ________ the road. (Choose the correct option)",
+      "options": ["across", "in", "against", "at"],
+      "answer": 0,
+      "explanation": "'Ran across the road' means moved from one side of the road to the other.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-045",
+      "chapter": "Modals (Section-A Objective)",
+      "question": "We ________ qualify this year. (Choose the correct option)",
+      "options": ["may", "might", "can", "could"],
+      "answer": 0,
+      "explanation": "'May' expresses possibility for the current year.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-046",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correct spelling:",
+      "options": ["Disuede", "Dissaded", "Dissuade", "Dessouded"],
+      "answer": 2,
+      "explanation": "'Dissuade' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-047",
+      "chapter": "Conjunctions (Section-A Objective)",
+      "question": "I can't meet you tomorrow, ________ I have an appointment. (Choose the correct option)",
+      "options": ["for", "hence", "so", "whether"],
+      "answer": 0,
+      "explanation": "'For' here acts as a coordinating conjunction meaning 'because'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-048",
+      "chapter": "Tense / Verb Form (Section-A Objective)",
+      "question": "Virat Kohli ________ for India. (Choose the correct option)",
+      "options": ["playing", "has play", "plays", "had to playing"],
+      "answer": 2,
+      "explanation": "Simple present 'plays' fits singular subject 'Virat Kohli'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-049",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "He died ________ his society. (Choose the correct option)",
+      "options": ["at", "of", "for", "from"],
+      "answer": 2,
+      "explanation": "'Died for' means gave one's life for a cause, people, or society.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-050",
+      "chapter": "Articles (Section-A Objective)",
+      "question": "She is ________ most beautiful girl. (Choose the correct option)",
+      "options": ["a", "the", "an", "any"],
+      "answer": 1,
+      "explanation": "Definite article 'the' precedes superlative 'most beautiful'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-051",
+      "chapter": "Subject-Verb Agreement (Section-A Objective)",
+      "question": "Milk and vegetables ________ good for health. (Choose the correct option)",
+      "options": ["is", "has", "are", "have"],
+      "answer": 2,
+      "explanation": "Compound plural subject ('Milk and vegetables') takes plural verb 'are'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-052",
+      "chapter": "Conjunctions (Section-A Objective)",
+      "question": "I'll call you ________ I arrive at the airport. (Choose the correct option)",
+      "options": ["while", "since", "when", "during"],
+      "answer": 2,
+      "explanation": "Time conjunction 'when' introduces the arrival event.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-053",
+      "chapter": "Word Form / Adjectives (Section-A Objective)",
+      "question": "The sun is shining, it's a ________ day. (Choose the correct option)",
+      "options": ["beauty", "beautify", "beautiful", "beautification"],
+      "answer": 2,
+      "explanation": "Adjective 'beautiful' modifies the noun 'day'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-054",
+      "chapter": "Conjunctions (Section-A Objective)",
+      "question": "________ he studied hard, he failed. (Choose the correct option)",
+      "options": ["Although", "So", "Because", "Since"],
+      "answer": 0,
+      "explanation": "'Although' introduces a contrast between studying hard and failing.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-055",
+      "chapter": "Modals / Passive (Section-A Objective)",
+      "question": "The stars ________ counted. (Choose the correct option)",
+      "options": ["can", "cannot be", "could", "must"],
+      "answer": 1,
+      "explanation": "'Cannot be counted' expresses impossibility in passive form.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-056",
+      "chapter": "Question Tag (Section-A Objective)",
+      "question": "Dogs bark at night, ________? (Choose the correct option)",
+      "options": ["wouldn't they", "don't they", "couldn't they", "mustn't they"],
+      "answer": 1,
+      "explanation": "Positive simple present statement with plural 'Dogs' takes negative tag 'don't they'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-057",
+      "chapter": "Phrases / Vocabulary (Section-A Objective)",
+      "question": "Are you ________? (Choose the correct option)",
+      "options": [
+        "alone or married",
+        "married and single",
+        "married and alone",
+        "married or single"
+      ],
+      "answer": 3,
+      "explanation": "'Married or single' is the standard marital status pair.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-058",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correct spelling:",
+      "options": ["Laburius", "Lebourius", "Laborious", "Labourious"],
+      "answer": 2,
+      "explanation": "'Laborious' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-059",
+      "chapter": "Gerund / Verb Form (Section-A Objective)",
+      "question": "Please excuse me for ________. (Choose the correct answer)",
+      "options": [
+        "not be late",
+        "late very much",
+        "being late",
+        "very much late"
+      ],
+      "answer": 2,
+      "explanation": "Preposition 'for' is followed by the gerund phrase 'being late'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-060",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "The synonym of 'Division' is ________. (Choose the correct option)",
+      "options": ["Unification", "Partition", "Combination", "Conflict"],
+      "answer": 1,
+      "explanation": "'Partition' is a synonym of 'division'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-061",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"The past is not dead and static, it is alive and dynamic\" is said by:",
+      "options": [
+        "Shiga Naoya",
+        "M. Gandhi",
+        "Dr. Zakir Hussain",
+        "H. E. Bates"
+      ],
+      "answer": 2,
+      "explanation": "In 'Bharat is My Home', Dr. Zakir Hussain states that the past is alive and dynamic.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-062",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Martin Luther King, Jr. dislikes ________ discrimination.",
+      "options": ["caste", "sex", "religious", "racial"],
+      "answer": 3,
+      "explanation": "In 'I Have a Dream', Martin Luther King, Jr. opposes racial discrimination.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-063",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "A ________ woman visits her mother's house for the last few months of her pregnancy.",
+      "options": ["Tamil", "Sylheti", "Punjabi", "Bihari"],
+      "answer": 1,
+      "explanation": "In Germaine Greer's 'A Child is Born', a Sylheti woman goes to her mother's house for the last months of pregnancy.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-064",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Benjy's parents are known as the ________.",
+      "options": ["Johnsons", "Jacksons", "Smiths", "Leohorns"],
+      "answer": 0,
+      "explanation": "In H. E. Bates's 'The Earth', Benjy's parents are the Johnsons.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-065",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Nanukaka had tied a huge ________ round the narrator's head.",
+      "options": [
+        "orange turban",
+        "green turban",
+        "red turban",
+        "yellow turban"
+      ],
+      "answer": 0,
+      "explanation": "In 'A Pinch of Snuff', Nanukaka tied a huge orange turban around the narrator's head.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-066",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "What did Seibei apply to get rid of the unpleasant gourd smell?",
+      "options": ["tea-leaves", "neem-leaves", "banana-leaves", "tulsi-leaves"],
+      "answer": 0,
+      "explanation": "In Shiga Naoya's 'The Artist', Seibei used tea-leaves to remove the unpleasant smell from gourds.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-067",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Natalya and ________ are quarrelling for Ox Meadows.",
+      "options": ["Choobookov", "Romov", "Lomov", "Nomov"],
+      "answer": 2,
+      "explanation": "In Anton Chekhov's 'A Marriage Proposal', Natalya and Lomov argue over Ox Meadows.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-068",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "According to Pearl S. Buck, the main quality of a leader should be ________.",
+      "options": ["selfishness", "selflessness", "dishonesty", "communalism"],
+      "answer": 1,
+      "explanation": "Pearl S. Buck emphasizes selflessness as a vital quality of leadership.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-069",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "'And the nightingale is dumb' is from:",
+      "options": [
+        "To Autumn",
+        "Fire-Hymn",
+        "Now the Leaves are Falling Fast",
+        "Snake"
+      ],
+      "answer": 2,
+      "explanation": "This line appears in W. H. Auden's 'Now the Leaves are Falling Fast'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-070",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "John Keats is from ________.",
+      "options": ["Britain", "Germany", "America", "Ireland"],
+      "answer": 0,
+      "explanation": "John Keats was an English Romantic poet from Britain.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-071",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Walter de la Mare knew a ________ who is dead now.",
+      "options": ["lord", "boy", "lady", "girl"],
+      "answer": 2,
+      "explanation": "In 'An Epitaph', the poet recalls a lady who was most beautiful and is now dead.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-072",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Rupert Brooke's reputation as a poet rests on ________ sonnets.",
+      "options": ["five", "eight", "seven", "six"],
+      "answer": 0,
+      "explanation": "Rupert Brooke became famous especially for his five '1914' war sonnets.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-073",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "About ________ years ago, Latin was a world language.",
+      "options": ["600", "800", "700", "900"],
+      "answer": 1,
+      "explanation": "In the Bihar Board History of English textbook, Latin is noted as a world language around 800 years ago.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-074",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who wrote \"Leaves of Grass\"?",
+      "options": ["Shakespeare", "T. S. Eliot", "Milton", "Walt Whitman"],
+      "answer": 3,
+      "explanation": "'Leaves of Grass' is Walt Whitman's famous poetry collection.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-075",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ is dead against blind imitation of western civilization.",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": 0,
+      "explanation": "In 'Indian Civilization and Culture', Mahatma Gandhi strongly opposes blind imitation of Western civilization.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-076",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who refuses to believe that the bank of justice is bankrupt?",
+      "options": ["Negroes", "Indians", "Americans", "Australians"],
+      "answer": 0,
+      "explanation": "In 'I Have a Dream', Martin Luther King, Jr. speaks of the Negroes refusing to believe the bank of justice is bankrupt.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-077",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "Who was the great dramatist of the Elizabethan Age?",
+      "options": [
+        "Charles Dickens",
+        "Daniel Defoe",
+        "William Shakespeare",
+        "Thomas Henry"
+      ],
+      "answer": 2,
+      "explanation": "William Shakespeare is the foremost dramatist of the Elizabethan Age.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-078",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "In UK, Australia and New Zealand, English is spoken as a ________.",
+      "options": [
+        "foreign language",
+        "colonial language",
+        "second language",
+        "native language"
+      ],
+      "answer": 3,
+      "explanation": "English is a native/first language in the UK, Australia, and New Zealand.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-079",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "English developed from the speech of ________.",
+      "options": [
+        "Anglo-Indian",
+        "Anglo-American",
+        "Anglo-Saxon",
+        "Anglo-African"
+      ],
+      "answer": 2,
+      "explanation": "English evolved from the Germanic speech of the Anglo-Saxons.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-080",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who wrote \"The Cherry Orchard\"?",
+      "options": [
+        "G. B. Shaw",
+        "Anton Chekhov",
+        "Shakespeare",
+        "Leo Tolstoy"
+      ],
+      "answer": 1,
+      "explanation": "'The Cherry Orchard' is a well-known play by Anton Chekhov.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-081",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "'The Artist' is ________.",
+      "options": [
+        "an essay",
+        "a poem",
+        "a short story",
+        "a one-act play"
+      ],
+      "answer": 2,
+      "explanation": "'The Artist' by Shiga Naoya is a short story.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-082",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Anton Chekhov began his career by writing ________.",
+      "options": ["novels", "drama", "poetry", "comic sketches"],
+      "answer": 3,
+      "explanation": "Anton Chekhov began his writing career with humorous/comic sketches.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-083",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "John Donne is a ________ poet.",
+      "options": ["war", "metaphysical", "modern", "satirical"],
+      "answer": 1,
+      "explanation": "John Donne is celebrated as a leading metaphysical poet.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-084",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Walt Whitman was a ________ during the Civil War.",
+      "options": ["soldier", "driver", "volunteer nurse", "constable"],
+      "answer": 2,
+      "explanation": "Walt Whitman served as a volunteer nurse tending wounded soldiers during the American Civil War.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-085",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Benjy left school at the age of ________.",
+      "options": ["twelve", "thirteen", "fourteen", "fifteen"],
+      "answer": 2,
+      "explanation": "In H. E. Bates's 'The Earth', Benjy left school at fourteen.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-086",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The line \"O how feeble is man's power\" occurs in the poem:",
+      "options": [
+        "An Epitaph",
+        "Fire-Hymn",
+        "Song of Myself",
+        "Sweetest Love I Do Not Goe"
+      ],
+      "answer": 3,
+      "explanation": "This line is from John Donne's poem 'Sweetest Love, I Do Not Goe'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-087",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The line \"And gathering swallows twitter in the skies\" is from:",
+      "options": [
+        "An Epitaph",
+        "Macavity: The Mystery Cat",
+        "The Soldier",
+        "Ode to Autumn"
+      ],
+      "answer": 3,
+      "explanation": "This closing imagery appears in John Keats's 'Ode to Autumn'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-088",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "It was said that the sun never sets in the ________ Empire.",
+      "options": ["French", "Russian", "British", "Indian"],
+      "answer": 2,
+      "explanation": "The phrase 'the empire on which the sun never sets' was used for the British Empire.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-089",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Dorothy L. Sayers was one of the first women to graduate from Oxford University in ________.",
+      "options": ["AD 1885", "AD 1905", "AD 1895", "AD 1915"],
+      "answer": 3,
+      "explanation": "Dorothy L. Sayers was among the early women graduates at Oxford (1915).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-090",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "________ is a 'window to the world'.",
+      "options": ["Hindi", "English", "Urdu", "Chinese"],
+      "answer": 1,
+      "explanation": "English is widely described as a 'window to the world' for global knowledge and communication.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-091",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "Who wrote 'Piers the Plowman'?",
+      "options": ["Spenser", "Milton", "Langland", "Congreve"],
+      "answer": 2,
+      "explanation": "'Piers Plowman' is a Middle English allegorical poem attributed to William Langland.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-092",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "________ has the largest number of native speakers.",
+      "options": ["English", "Hindi", "Urdu", "Chinese"],
+      "answer": 3,
+      "explanation": "Chinese (Mandarin) has the largest number of native speakers.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-093",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ prefers spiritualism to materialism.",
+      "options": [
+        "Rajiv Gandhi",
+        "Dr. Zakir Hussain",
+        "Dr. Rajendra Prasad",
+        "Mahatma Gandhi"
+      ],
+      "answer": 3,
+      "explanation": "Mahatma Gandhi emphasizes spiritualism over mere materialism in 'Indian Civilization and Culture'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-094",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Nanukaka still wore ________.",
+      "options": [
+        "a knee length black coat",
+        "Aligarhi pajamas",
+        "a Jodhpur coat",
+        "an Aligarhi kurta"
+      ],
+      "answer": 0,
+      "explanation": "In 'A Pinch of Snuff', Nanukaka wore a knee-length black coat and turban.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-095",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The English government give elderly people a/an ________.",
+      "options": ["intalment payment", "pension", "loan", "salary"],
+      "answer": 1,
+      "explanation": "In 'How Free is the Press', a pension for elderly people is mentioned.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-096",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Dorothy L. Sayers published an authentic verse translation of ________.",
+      "options": [
+        "Inferno",
+        "The Bhagavad Geeta",
+        "Clouds of Witness",
+        "Unnatural Death"
+      ],
+      "answer": 0,
+      "explanation": "Dorothy L. Sayers translated Dante's 'Inferno' into verse.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-097",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"He's broken every human law\" is from:",
+      "options": [
+        "Snake",
+        "Song of Myself",
+        "Ode to Autumn",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 3,
+      "explanation": "This line describes Macavity in T. S. Eliot's 'Macavity: The Mystery Cat'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-098",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ swears to save fire from the sin of forgiving.",
+      "options": [
+        "Kamala Das",
+        "Keki N. Daruwalla",
+        "Nissim Ezekiel",
+        "W. B. Yeats"
+      ],
+      "answer": 1,
+      "explanation": "In 'Fire-Hymn', Keki N. Daruwalla vows/swears to save fire from the sin of forgetfulness/forgiving.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-099",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The snake drank enough and lifted his head, '________'.",
+      "options": ["aggressively", "slowly", "dreamily", "poisoning"],
+      "answer": 2,
+      "explanation": "In D. H. Lawrence's 'Snake', after drinking enough, the snake lifted his head dreamily.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-obj-100",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Kamala Das remembers the happy days spent in the sweet company of her ________.",
+      "options": ["mother", "brother", "father", "grandmother"],
+      "answer": 3,
+      "explanation": "In 'My Grandmother's House', Kamala Das fondly remembers happy days spent with her grandmother.",
+      "marks": 1
+    }
+  ]
+}

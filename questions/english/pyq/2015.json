@@ -1,0 +1,294 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "title": "Bihar Board Class-XII English 2015",
+  "time_minutes": 195,
+  "negative_marking": 0,
+  "questions": [
+    {
+      "id": "eng-2015-005",
+      "chapter": "Composition (Group-A)",
+      "question": "Write an essay in about 100-150 words on any one of the following: (a) Friendship (b) Rising prices (c) Unity is strength (d) Failures are the pillars of success (e) Might is right",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective essay writing question (100-150 words).",
+      "marks": 10
+    },
+    {
+      "id": "eng-2015-009",
+      "chapter": "Translation (Group-A)",
+      "question": "Translate the following sentences into English:\n(a) हमेशा सच बोलो।\n(b) मैं उसे जानता हूँ।\n(c) रमेश मेरा भाई है।\n(d) वह एक अच्छा तैराक है।\n(e) क्या तुम्हें अंग्रेजी बोलना आता है?",
+      "options": [],
+      "answer": null,
+      "explanation": "(a) Always speak the truth. (b) I know him/her. (c) Ramesh is my brother. (d) He is a good swimmer. (e) Do you know how to speak English?",
+      "marks": 5
+    },
+    {
+      "id": "eng-2015-010",
+      "chapter": "Precis Writing (Group-A)",
+      "question": "Make a precis of the following passage and suggest a suitable title:\nI do not, I repeat, enjoy seeing animals, forced to perform unnatural movements which they cannot possibly enjoy. I am prepared to believe that animals are treated by their trainers with real blindness and affection. But that is not the point. The Nazis enjoyed forcing their human victims to crawl about naked and on all fours. Ought we really to enjoy seeing animals dressed in crinolines and straining with trembling limbs to maintain an erect position? The thoughtless laughter, even of adults, which greets and encourages these performances fill one with sadness.",
+      "options": [],
+      "answer": null,
+      "explanation": "Title: Cruelty to Performing Animals. Summary should be around one-third of the original passage (~33 words).",
+      "marks": 7
+    },
+    {
+      "id": "eng-2015-011",
+      "chapter": "Comprehension (Group-A)",
+      "question": "Read the passage and answer:\nHappiness, after all, is an inner state of mind. It is little dependent on outside environment. Happiness has very little to do, for instance, with whether you are rich or not rich. Some of the most miserable persons I have come across in my life are the rich people. It is true that poverty makes one miserable in a very acute way. But my point is that it is not wealth but coordination of one's thought and action which removes inner conflict. It is in that way integration of personality is achieved.\n(a) What does the writer say about happiness?\n(b) What has happiness to do with wealth?\n(c) What are inner conflicts?\n(d) How is integration of personality achieved?",
+      "options": [],
+      "answer": null,
+      "explanation": "(a) Happiness is an inner state of mind, largely independent of the outside environment. (b) It has very little to do with wealth; even rich people can be miserable. (c) Inner conflicts arise from a lack of coordination between thought and action. (d) By coordinating one's thoughts and actions to remove inner conflict.",
+      "marks": 8
+    },
+    {
+      "id": "eng-2015-012a",
+      "chapter": "Poetry - Match the Following",
+      "question": "Match the poet 'Walt Whitman' with the appropriate title:",
+      "options": [
+        "An Epitaph",
+        "Sweetest Love I do not Goe",
+        "Fire Hymn",
+        "Song of Myself",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 3,
+      "explanation": "Walt Whitman wrote 'Song of Myself'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-012b",
+      "chapter": "Poetry - Match the Following",
+      "question": "Match the poet 'K.N. Daruwala' with the appropriate title:",
+      "options": [
+        "An Epitaph",
+        "Sweetest Love I do not Goe",
+        "Fire Hymn",
+        "Song of Myself",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 2,
+      "explanation": "Keki N. Daruwala wrote 'Fire Hymn'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-012c",
+      "chapter": "Poetry - Match the Following",
+      "question": "Match the poet 'T.S. Eliot' with the appropriate title:",
+      "options": [
+        "An Epitaph",
+        "Sweetest Love I do not Goe",
+        "Fire Hymn",
+        "Song of Myself",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 4,
+      "explanation": "T.S. Eliot wrote 'Macavity: The Mystery Cat'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-012d",
+      "chapter": "Poetry - Match the Following",
+      "question": "Match the poet 'John Donne' with the appropriate title:",
+      "options": [
+        "An Epitaph",
+        "Sweetest Love I do not Goe",
+        "Fire Hymn",
+        "Song of Myself",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 1,
+      "explanation": "John Donne wrote 'Sweetest Love I Do Not Goe'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-012e",
+      "chapter": "Poetry - Match the Following",
+      "question": "Match the poet 'Walter de la Mare' with the appropriate title:",
+      "options": [
+        "An Epitaph",
+        "Sweetest Love I do not Goe",
+        "Fire Hymn",
+        "Song of Myself",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 0,
+      "explanation": "Walter de la Mare wrote 'An Epitaph'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-013a",
+      "chapter": "Poetry",
+      "question": "Name the poet who wrote the following lines: 'If I should die; think only this of me; That there's some corner of a foreign field That is for ever England.'",
+      "options": ["Rupert Brooke", "John Donne", "John Keats", "W.H. Auden"],
+      "answer": 0,
+      "explanation": "These lines are from 'The Soldier' by Rupert Brooke.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-013b",
+      "chapter": "Poetry",
+      "question": "Name the poet who wrote the following lines: 'He hath no desire, nor sense Nor halfe so short a way Then fears not mee..'",
+      "options": ["Walt Whitman", "John Donne", "D.H. Lawrence", "Kamala Das"],
+      "answer": 1,
+      "explanation": "These lines are from 'Sweetest Love I Do Not Goe' by John Donne.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-013c",
+      "chapter": "Poetry",
+      "question": "Name the poet who wrote the following lines: 'Where are the songs of spring? Ay, where are they? Think not of them, thou has thy music too-'",
+      "options": ["John Keats", "T.S. Eliot", "Walter de la Mare", "Rupert Brooke"],
+      "answer": 0,
+      "explanation": "These lines are from 'To Autumn' by John Keats.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-013d",
+      "chapter": "Poetry",
+      "question": "Name the poet who wrote the following lines: 'Macavity's a ginger cat! He's very tall and thin; You should know him if you saw him, for his eyes are sunken in.'",
+      "options": ["K.N. Daruwala", "D.H. Lawrence", "T.S. Eliot", "W.H. Auden"],
+      "answer": 2,
+      "explanation": "These lines are from 'Macavity: The Mystery Cat' by T.S. Eliot.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-013e",
+      "chapter": "Poetry",
+      "question": "Name the poet who wrote the following lines: 'I swore to save fire From the sin of forgetfulness.'",
+      "options": ["Kamala Das", "K.N. Daruwala", "Walt Whitman", "John Keats"],
+      "answer": 1,
+      "explanation": "These lines are from 'Fire Hymn' by Keki N. Daruwala.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-014",
+      "chapter": "Poetry - Summary",
+      "question": "Write the summary of any one of the following poems: (a) My Grandmother's House (b) Snake (c) The Soldier (d) To Autumn",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective poetry summary question.",
+      "marks": 5
+    },
+    {
+      "id": "eng-2015-015a",
+      "chapter": "Prose (Group-C)",
+      "question": "Name the author of the prose piece 'A Marriage Proposal':",
+      "options": ["Anton Chekhov", "Manohar Malgonkar", "Dorothy L. Sayers", "H.E. Bates"],
+      "answer": 0,
+      "explanation": "'A Marriage Proposal' is a one-act play written by Anton Chekhov.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-015b",
+      "chapter": "Prose (Group-C)",
+      "question": "Name the author of the prose piece 'A Pinch of Snuff':",
+      "options": ["Germaine Greer", "Manohar Malgonkar", "Bertrand Russell", "Shiga Naoya"],
+      "answer": 1,
+      "explanation": "'A Pinch of Snuff' is written by Manohar Malgonkar.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-015c",
+      "chapter": "Prose (Group-C)",
+      "question": "Name the author of the prose piece 'How Free is the Press?':",
+      "options": ["Pearl S. Buck", "Mahatma Gandhi", "Dorothy L. Sayers", "Dr. Zakir Hussain"],
+      "answer": 2,
+      "explanation": "'How Free is the Press?' is an essay written by Dorothy L. Sayers.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-016a",
+      "chapter": "Prose (Group-C)",
+      "question": "Complete the sentence on the basis of your textual reading: 'This means that cheap daily paper which goes everywhere and has the most ________'",
+      "options": ["advertising", "circulation", "influence", "readers"],
+      "answer": 0,
+      "explanation": "From 'How Free is the Press?' by Dorothy L. Sayers: '...has the most advertising.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-016b",
+      "chapter": "Prose (Group-C)",
+      "question": "Complete the sentence on the basis of your textual reading: 'India has always been part of my _________ in my life.'",
+      "options": ["background", "memories", "journey", "dreams"],
+      "answer": 0,
+      "explanation": "From 'India Through a Traveller's Eyes' by Pearl S. Buck: 'India has always been part of my background in my life.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-017",
+      "chapter": "Prose - Summary (Group-C)",
+      "question": "Summarise any one of the following pieces: (a) A Child is Born (b) Ideas that Have Helped Mankind (c) The Earth",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective prose summary question.",
+      "marks": 5
+    },
+    {
+      "id": "eng-2015-018a",
+      "chapter": "Story of English (Group-D)",
+      "question": "Name the author of the book 'Tom Jones':",
+      "options": ["Henry Fielding", "Charles Dickens", "Jane Austen", "Thomas Hardy"],
+      "answer": 0,
+      "explanation": "'Tom Jones' is a famous novel by Henry Fielding.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-018b",
+      "chapter": "Story of English (Group-D)",
+      "question": "Name the author of the book 'In Memoriam':",
+      "options": ["Robert Browning", "Alfred Lord Tennyson", "Matthew Arnold", "William Wordsworth"],
+      "answer": 1,
+      "explanation": "'In Memoriam A.H.H.' is a poem by Alfred, Lord Tennyson.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-018c",
+      "chapter": "Story of English (Group-D)",
+      "question": "Name the author of the book 'The Waste Land':",
+      "options": ["W.B. Yeats", "T.S. Eliot", "Ezra Pound", "W.H. Auden"],
+      "answer": 1,
+      "explanation": "'The Waste Land' is a modernist poem by T.S. Eliot.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-018d",
+      "chapter": "Story of English (Group-D)",
+      "question": "Name the author of the book 'Arms and the Man':",
+      "options": ["G.B. Shaw", "Oscar Wilde", "John Galsworthy", "William Shakespeare"],
+      "answer": 0,
+      "explanation": "'Arms and the Man' is a play by George Bernard Shaw.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-018e",
+      "chapter": "Story of English (Group-D)",
+      "question": "Name the author of the book 'Macbeth':",
+      "options": ["Christopher Marlowe", "Ben Jonson", "William Shakespeare", "John Milton"],
+      "answer": 2,
+      "explanation": "'Macbeth' is a tragedy by William Shakespeare.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2015-019",
+      "chapter": "Story of English (Group-D)",
+      "question": "Write a short note on Modern English. OR Write a short note on the Future of English.",
+      "options": [],
+      "answer": null,
+      "explanation": "Subjective short note question.",
+      "marks": 5
+    },
+    {
+      "id": "eng-2015-020",
+      "chapter": "Story of English (Group-D)",
+      "question": "Name any five English poets. OR Name any five English dramatists.",
+      "options": [],
+      "answer": null,
+      "explanation": "Poets: William Wordsworth, John Keats, P.B. Shelley, T.S. Eliot, John Donne. Dramatists: William Shakespeare, G.B. Shaw, Christopher Marlowe, Ben Jonson, Oscar Wilde.",
+      "marks": 5
+    }
+  ]
+}
+```[cite: 1]
+
+Kya aapko ye JSON ek downloadable `.json` file mein chahiye, ya sirf MCQ-converted questions hi rakhne hain (subjective wale hata kar)?

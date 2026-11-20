@@ -1,0 +1,1024 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "title": "Intermediate Examination 2026 English (Set A) - Section A",
+  "time_minutes": 195,
+  "negative_marking": 0,
+  "questions": [
+    {
+      "id": "eng-2026-obj-001",
+      "chapter": "Tense / Verb Form (Section-A Objective)",
+      "question": "Ankita ________ come yet; the whole class is waiting for her. (Choose the correct option)",
+      "options": ["hadn't", "haven't", "hasn't", "didn't"],
+      "answer": 2,
+      "explanation": "'Yet' with a singular subject ('Ankita') and present waiting context takes present perfect negative 'hasn't'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-002",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Let us organise a get-together party. (Choose the correct passive voice)",
+      "options": [
+        "We should be organising a get-together party.",
+        "Get-together party must be surely organised.",
+        "A get-together party should be organised.",
+        "A get-together party would be organised by us."
+      ],
+      "answer": 2,
+      "explanation": "Proposals starting with 'Let us + V1' commonly convert to passive using 'should be + V3' ('A get-together party should be organised.').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-003",
+      "chapter": "Articles (Section-A Objective)",
+      "question": "Milan is ________ Italian city. (Choose the correct option)",
+      "options": ["a", "an", "the", "no article"],
+      "answer": 1,
+      "explanation": "'Italian' starts with a vowel sound (/ɪ/), so indefinite article 'an' is used.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-004",
+      "chapter": "Vocabulary / Adjectives (Section-A Objective)",
+      "question": "Rolls-Royce cars are ________. (Choose the correct option)",
+      "options": ["cheap", "expensive", "blue", "tall"],
+      "answer": 1,
+      "explanation": "Rolls-Royce is well known for luxury, expensive cars.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-005",
+      "chapter": "Interrogatives (Section-A Objective)",
+      "question": "________ languages does Aryan speak? (Choose the correct option)",
+      "options": ["How", "How many", "How much", "Where"],
+      "answer": 1,
+      "explanation": "'How many' is used before plural countable nouns ('languages').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-006",
+      "chapter": "Pronouns (Section-A Objective)",
+      "question": "That's my book. Can I have ________ back please? (Choose the correct option)",
+      "options": ["it", "them", "you", "my"],
+      "answer": 0,
+      "explanation": "Singular object pronoun 'it' refers back to 'my book'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-007",
+      "chapter": "Verb Form / Infinitive (Section-A Objective)",
+      "question": "Sunaina loves ________ to music. (Choose the correct option)",
+      "options": ["listening", "listens", "to listen", "listen"],
+      "answer": 2,
+      "explanation": "'Loves to listen to music' is grammatically complete with the preposition 'to' before 'music'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-008",
+      "chapter": "Subject-Verb Agreement (Section-A Objective)",
+      "question": "There ________ an armchair in my bedroom. (Choose the correct option)",
+      "options": ["any", "are", "is", "some"],
+      "answer": 2,
+      "explanation": "Singular noun phrase 'an armchair' takes singular verb 'is'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-009",
+      "chapter": "Tense / Subject-Verb Agreement (Section-A Objective)",
+      "question": "The boys ________ very tired today because they were at a party last night. (Choose the correct option)",
+      "options": ["is", "were", "was", "are"],
+      "answer": 3,
+      "explanation": "'Today' with plural subject 'The boys' requires present plural 'are'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-010",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Rohini said, \"I have a stomach-ache.\" (Choose the correct option)",
+      "options": [
+        "Rohini says that she have a stomach-ache.",
+        "Rohini said that she had got a stomach-ache.",
+        "Rohini said that she has a stomach-ache.",
+        "Rohini said that she got a stomach-ache."
+      ],
+      "answer": 1,
+      "explanation": "In past narration, 'have' shifts back to past/past perfect ('had got' in the given choices).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-011",
+      "chapter": "Tense / Verb Form (Section-A Objective)",
+      "question": "The meeting ________ at half-past eight. (Choose the correct option)",
+      "options": ["starts", "starting", "start", "will be started"],
+      "answer": 0,
+      "explanation": "Singular subject 'The meeting' takes 'starts' for scheduled/timetabled events.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-012",
+      "chapter": "Vocabulary / Synonyms (Section-A Objective)",
+      "question": "Choose the correct meaning of 'Docile':",
+      "options": ["Very bad", "Obedient", "Respect", "Disfigure"],
+      "answer": 1,
+      "explanation": "'Docile' means ready to accept control or instruction; obedient.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-013",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "It is impossible to do this. (Choose the correct passive voice)",
+      "options": [
+        "This is impossible to be done.",
+        "To do this by it is impossible.",
+        "It is impossible to have done this.",
+        "It can't be done."
+      ],
+      "answer": 0,
+      "explanation": "Infinitive passive 'to be done' expresses passive capability/feasibility after 'impossible'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-014",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "\"Call the witness,\" said the judge. (Choose the correct indirect speech)",
+      "options": [
+        "The judge commanded to call the witness.",
+        "The judge commanded them to call the witness.",
+        "The judge commanded that the witness be called.",
+        "The judge commanded the witness to be called."
+      ],
+      "answer": 2,
+      "explanation": "Mandative subjunctive 'commanded that the witness be called' is a standard formal indirect form for an official command.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-015",
+      "chapter": "Determiners / Quantifiers (Section-A Objective)",
+      "question": "The doctor advised him to rest for ________ days. (Choose the correct option)",
+      "options": ["few", "a few", "a little", "little"],
+      "answer": 1,
+      "explanation": "'A few' means a small number of plural countable days.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-016",
+      "chapter": "Phrasal Verbs (Section-A Objective)",
+      "question": "A thorough search of the aircraft was carried ________ in the airport. (Choose the correct option)",
+      "options": ["out", "on", "off", "along"],
+      "answer": 0,
+      "explanation": "'Carry out' means conduct or execute a search/inspection.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-017",
+      "chapter": "Prepositions / Phrasal Verbs (Section-A Objective)",
+      "question": "As she became tired, error began to creep ________ her work. (Choose the correct option)",
+      "options": ["with", "off", "into", "up"],
+      "answer": 2,
+      "explanation": "'Creep into' means to gradually enter or appear unnoticed.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-018",
+      "chapter": "One-Word Substitution (Section-A Objective)",
+      "question": "Choose a one-word substitution for 'The absence of government in a country':",
+      "options": ["Ascetic", "Amnesia", "Aphasia", "Anarchy"],
+      "answer": 3,
+      "explanation": "'Anarchy' is a state of disorder due to absence of government or authority.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-019",
+      "chapter": "One-Word Substitution (Section-A Objective)",
+      "question": "Choose a one-word substitution for 'Ceremony of crowning a king':",
+      "options": ["Contagious", "Coronation", "Dexterous", "Denizen"],
+      "answer": 1,
+      "explanation": "'Coronation' is the ceremony of crowning a sovereign.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-020",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "Choose the correct meaning of \"Blow one's own trumpet\":",
+      "options": [
+        "Entirely",
+        "Ready to obey order",
+        "To praise oneself",
+        "With all belongings"
+      ],
+      "answer": 2,
+      "explanation": "'Blow one's own trumpet' means to boast about or praise oneself.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-021",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "The two friends had a ________ talk after a long time. (Choose the correct option)",
+      "options": ["hold good", "heart to heart", "in no time", "in the air"],
+      "answer": 1,
+      "explanation": "'Heart-to-heart talk' means a sincere, candid, and intimate conversation.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-022",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "Choose the correct antonym of 'Humility':",
+      "options": ["Dignity", "Anger", "Cruelty", "Pride"],
+      "answer": 3,
+      "explanation": "'Pride' (arrogance/self-importance) is the opposite of 'humility' (modesty).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-023",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "Choose the correct synonym of 'Relish':",
+      "options": ["Realize", "Enjoy", "Taste", "Reveal"],
+      "answer": 1,
+      "explanation": "'Relish' means to enjoy greatly.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-024",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "Choose the correct antonym of 'Scorn':",
+      "options": ["Joy", "Admiration", "Contempt", "Pity"],
+      "answer": 1,
+      "explanation": "'Admiration' is the opposite of 'scorn' (disdain/contempt).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-025",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "Choose the correct synonym of 'Jealous':",
+      "options": ["Remorse", "Envious", "Regretful", "Unhappy"],
+      "answer": 1,
+      "explanation": "'Envious' is a direct synonym of 'jealous'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-026",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "The ________ duty of every citizen is to respect the country. (Choose the correct option)",
+      "options": [
+        "each and every",
+        "first and foremost",
+        "over and above",
+        "unless and until"
+      ],
+      "answer": 1,
+      "explanation": "'First and foremost' means primary or most important.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-027",
+      "chapter": "Phrasal Verbs (Section-A Objective)",
+      "question": "Make sure you ________ at least two hours before your flight. (Choose the correct option)",
+      "options": ["check off", "check up", "check out", "check in"],
+      "answer": 3,
+      "explanation": "'Check in' is the standard aviation/hotel term for registering arrival.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-028",
+      "chapter": "Sentence Combination (Section-A Objective)",
+      "question": "Sheetal ran fast. She wanted to win the race. (Choose the correct combination)",
+      "options": [
+        "Sheetal running fast for winning the race.",
+        "Sheetal is running fast to win the race.",
+        "Running fast is Sheetal for winning the race.",
+        "Sheetal ran fast to win the race."
+      ],
+      "answer": 3,
+      "explanation": "'Sheetal ran fast to win the race.' preserves past tense ('ran') and expresses purpose with 'to win'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-029",
+      "chapter": "Phrases / Prepositions (Section-A Objective)",
+      "question": "He broke the lock ________ a hammer. (Choose the correct option)",
+      "options": [
+        "without hail",
+        "with the help of",
+        "with a vengeance",
+        "with an eye to"
+      ],
+      "answer": 1,
+      "explanation": "'With the help of' indicates using a tool/instrument ('a hammer').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-030",
+      "chapter": "Infinitive / Verb Form (Section-A Objective)",
+      "question": "Abriti has decided ________ more. (Choose the correct option)",
+      "options": ["to earned", "will earn", "to earning", "to earn"],
+      "answer": 3,
+      "explanation": "'Decided + to + base verb (earn)' is the standard infinitive structure.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-031",
+      "chapter": "Articles (Section-A Objective)",
+      "question": "You need to buy ________ refrigerator. (Choose the correct option)",
+      "options": ["a", "the", "an", "no article"],
+      "answer": 0,
+      "explanation": "'Refrigerator' begins with a consonant sound (/r/), so 'a' is used.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-032",
+      "chapter": "Collective Nouns (Section-A Objective)",
+      "question": "We saw a ________ of lions at the sanctuary. (Choose the correct option)",
+      "options": ["herd", "flock", "pride", "bunch"],
+      "answer": 2,
+      "explanation": "The collective noun for a group of lions is a 'pride'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-033",
+      "chapter": "Odd One Out (Section-A Objective)",
+      "question": "Choose the odd one out:",
+      "options": ["Wheat", "Paddy", "Barley", "Mustard"],
+      "answer": 3,
+      "explanation": "'Mustard' is an oilseed crop, whereas wheat, paddy, and barley are cereal grains.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-034",
+      "chapter": "Relative Pronouns (Section-A Objective)",
+      "question": "I like the books ________ have interesting stories. (Choose the correct option)",
+      "options": ["who", "that", "whom", "what"],
+      "answer": 1,
+      "explanation": "Relative pronoun 'that' refers to non-human objects ('the books') as the subject of 'have'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-035",
+      "chapter": "Word Form / Nouns (Section-A Objective)",
+      "question": "I have no ________ to you going for a movie. (Choose the correct option)",
+      "options": ["object", "objecting", "objection", "objective"],
+      "answer": 2,
+      "explanation": "Noun 'objection' fits naturally after 'no' before 'to'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-036",
+      "chapter": "Modals (Section-A Objective)",
+      "question": "You ________ cross the road when the traffic light is red. (Choose the correct option)",
+      "options": ["have to", "must", "musn't", "had to"],
+      "answer": 2,
+      "explanation": "'Musn't' (mustn't) expresses prohibition against crossing on a red signal.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-037",
+      "chapter": "Auxiliary Verbs / Questions (Section-A Objective)",
+      "question": "________ have that dress specially made? (Choose the correct option)",
+      "options": ["Has you", "Could you", "Should you", "Did you have"],
+      "answer": 3,
+      "explanation": "'Did you have that dress specially made?' forms a grammatical past question.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-038",
+      "chapter": "Articles (Section-A Objective)",
+      "question": "Learning ________ is not easy. (Choose the correct option)",
+      "options": ["for Sanskrit", "Sanskrit", "the Sanskrit", "of Sanskrit"],
+      "answer": 1,
+      "explanation": "Names of languages like 'Sanskrit' take no article in general reference.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-039",
+      "chapter": "Participles / Verb Form (Section-A Objective)",
+      "question": "I saw two crows ________ poking their heads at the flowerpot. (Choose the correct option)",
+      "options": ["play", "played", "playing", "playfully"],
+      "answer": 2,
+      "explanation": "Present participle 'playing' describes the ongoing action observed.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-040",
+      "chapter": "Determiners / Quantifiers (Section-A Objective)",
+      "question": "Please have ________ more rice, you haven't taken much. (Choose the correct option)",
+      "options": ["some", "any", "no", "several"],
+      "answer": 0,
+      "explanation": "'Some' is used in positive offers/requests for uncountable 'rice'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-041",
+      "chapter": "Adverbs (Section-A Objective)",
+      "question": "Work ________ to score good marks. (Choose the correct option)",
+      "options": ["so hard", "hard", "much hard", "hardly"],
+      "answer": 1,
+      "explanation": "'Work hard' means put in diligent effort ('hardly' means scarcely/almost not).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-042",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "Someone was knocking ________ the door. (Choose the correct option)",
+      "options": ["by", "to", "since", "at"],
+      "answer": 3,
+      "explanation": "'Knock at the door' is the standard preposition usage.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-043",
+      "chapter": "Question Tag (Section-A Objective)",
+      "question": "She needs some new clothes, ________? (Choose the correct option)",
+      "options": ["need she", "does she", "needn't she", "doesn't she"],
+      "answer": 3,
+      "explanation": "Positive simple present statement with singular 'She' takes negative tag 'doesn't she'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-044",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "The synonym of 'Marvellous' is ________. (Choose the correct option)",
+      "options": ["Wonderful", "Simple", "Ordinary", "Attractive"],
+      "answer": 0,
+      "explanation": "'Wonderful' is a synonym of 'marvellous'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-045",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "The antonym of 'Fixed' is ________. (Choose the correct option)",
+      "options": ["Established", "Confirmed", "Undecided", "Immobile"],
+      "answer": 2,
+      "explanation": "'Undecided' contrasts with 'fixed' (settled/decided).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-046",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "The synonym of 'Hoard' is ________. (Choose the correct option)",
+      "options": ["Destroy", "Hide", "Store", "Divide"],
+      "answer": 2,
+      "explanation": "'Hoard' means to accumulate and store away.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-047",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "The antonym of 'Moisture' is ________. (Choose the correct option)",
+      "options": ["Wetness", "Dryness", "Dampness", "Roughness"],
+      "answer": 1,
+      "explanation": "'Dryness' is the opposite of 'moisture'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-048",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Sumit asked her if she was ill. (Choose the correct direct narration)",
+      "options": [
+        "Sumit asked her, \"You are ill.\"",
+        "Sumit told her, \"Was she ill.\"",
+        "Sumit said to her, \"Are you ill?\"",
+        "Sumit said to her, \"Is she ill?\""
+      ],
+      "answer": 2,
+      "explanation": "'Asked her if she was ill' converts back to direct yes/no question 'Sumit said to her, \"Are you ill?\"'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-049",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "He requested me to keep the door open. (Choose the correct direct narration)",
+      "options": [
+        "He said to me, \"Please keep the door open.\"",
+        "He says, \"Keep the door open.\"",
+        "He will say, \"Keep the door open.\"",
+        "He said, \"Never keep the door open.\""
+      ],
+      "answer": 0,
+      "explanation": "'Requested me to keep...' corresponds to 'He said to me, \"Please keep the door open.\"'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-050",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Jandice", "Jandece", "Jaundice", "Jaundece"],
+      "answer": 2,
+      "explanation": "'Jaundice' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-051",
+      "chapter": "Sentence Combination (Section-A Objective)",
+      "question": "India will win the world cup. That is certain. (Choose the correct combination)",
+      "options": [
+        "It is certain that India will win the world cup.",
+        "India will certainly win the world cup.",
+        "Certainly, India will win the world cup.",
+        "India will win the world cup certainly."
+      ],
+      "answer": 0,
+      "explanation": "'It is certain that India will win the world cup.' combines the two sentences cleanly into a complex sentence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-052",
+      "chapter": "Sentence Correction (Section-A Objective)",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "The boys runs fast in the race.",
+        "The boys run fast in the race.",
+        "The boy run fast in the race.",
+        "The boy running fast in the race."
+      ],
+      "answer": 1,
+      "explanation": "Plural subject 'The boys' takes base plural verb 'run'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-053",
+      "chapter": "Conjunctions (Section-A Objective)",
+      "question": "I got late for the flight ________ there was so much traffic on the road. (Choose the correct option)",
+      "options": ["because", "until", "more", "after"],
+      "answer": 0,
+      "explanation": "'Because' gives the reason for getting late.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-054",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "We located the key ________ the lock. (Choose the correct option)",
+      "options": ["during", "since", "unless", "for"],
+      "answer": 3,
+      "explanation": "'The key for the lock' is the natural prepositional phrase.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-055",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "Choose the correct meaning of \"To keep one's temper\":",
+      "options": [
+        "To become hungry",
+        "To be aloof",
+        "To remain calm",
+        "To preserve one's energy"
+      ],
+      "answer": 2,
+      "explanation": "'To keep one's temper' means to stay calm and composed.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-056",
+      "chapter": "Idioms & Phrases (Section-A Objective)",
+      "question": "Choose the correct meaning of \"To cry wolf\":",
+      "options": [
+        "To listen eagerly",
+        "To turn pale",
+        "To be hungry",
+        "To give a false alarm"
+      ],
+      "answer": 3,
+      "explanation": "'To cry wolf' means to raise a false alarm.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-057",
+      "chapter": "Phrasal Verbs (Section-A Objective)",
+      "question": "They decided to ________ his number in the yellow pages. (Choose the correct option)",
+      "options": ["look into", "look up", "look at", "look onto"],
+      "answer": 1,
+      "explanation": "'Look up' means to search for information in a directory, book, or list.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-058",
+      "chapter": "Phrasal Verbs / Vocabulary (Section-A Objective)",
+      "question": "After a prolonged suffering he 'passed away'. (Choose the correct option of the underlined phrase)",
+      "options": ["went away", "expired", "left", "yielded"],
+      "answer": 1,
+      "explanation": "'Passed away' is a polite euphemism for died/expired.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-059",
+      "chapter": "Phrasal Verbs (Section-A Objective)",
+      "question": "We have no alternative plan to ________ on. (Choose the correct option)",
+      "options": ["fall back", "fall for", "fall out", "fall off"],
+      "answer": 0,
+      "explanation": "'Fall back on' means to turn to as a backup plan or resource.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-060",
+      "chapter": "Phrasal Verbs / Vocabulary (Section-A Objective)",
+      "question": "She came across some papers she was looking for. (Choose the correct option of the underlined words)",
+      "options": [
+        "saw from a distance",
+        "touched",
+        "found unexpectedly",
+        "read quickly"
+      ],
+      "answer": 2,
+      "explanation": "'Came across' means found or met by chance.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-061",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "What figure of speech has been used in \"My Grandmother's House\"?",
+      "options": ["Simile", "Personification", "Metaphor", "Alliteration"],
+      "answer": 0,
+      "explanation": "Kamala Das uses similes such as 'my blood turned cold like the moon' in 'My Grandmother's House'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-062",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ is the prime instrument of nation building.",
+      "options": ["Education", "Agriculture", "Trade", "Industry"],
+      "answer": 0,
+      "explanation": "In 'Bharat is My Home', Dr. Zakir Hussain emphasizes education as the prime instrument of nation building.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-063",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"I Have a Dream\" is part of a ________.",
+      "options": ["drama", "poem", "novel", "speech"],
+      "answer": 3,
+      "explanation": "'I Have a Dream' is Martin Luther King, Jr.'s famous 1963 speech delivered at the Lincoln Memorial.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-064",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"We saw embers losing their cruel redness\" is taken from:",
+      "options": ["Song of Myself", "The Soldier", "Fire-Hymn", "Snake"],
+      "answer": 2,
+      "explanation": "This line appears in Keki N. Daruwala's poem 'Fire-Hymn'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-065",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Indian peasants are poorer than their ________ counterparts.",
+      "options": ["Sri Lankan", "Pakistani", "Chinese", "Russian"],
+      "answer": 2,
+      "explanation": "In 'India Through a Traveller's Eyes', Pearl S. Buck compares Indian peasants with their Chinese counterparts.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-066",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "John Donne feels that ________ is very hopeless.",
+      "options": ["animal", "plants", "bird", "man"],
+      "answer": 3,
+      "explanation": "In 'Sweetest Love, I Do Not Goe', John Donne remarks on how feeble and impatient man's power/hope can be.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-067",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ says that he is having a heart failure.",
+      "options": ["Choobookov", "Lomov", "Natalia", "Leap"],
+      "answer": 1,
+      "explanation": "In Anton Chekhov's 'A Marriage Proposal', hypochondriac Lomov repeatedly complains of heart palpitations/failure.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-068",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "In traditional birth infant and mother mortality is ________.",
+      "options": ["lesser", "negligible", "greater", "recognizable"],
+      "answer": 2,
+      "explanation": "In 'A Child is Born', Germaine Greer notes greater infant and maternal mortality in traditional/unassisted birth settings.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-069",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"But believe that I shall make speedier journeys\" is taken from:",
+      "options": [
+        "To Autumn",
+        "Macavity: The Mystery Cat",
+        "Fire-Hymn",
+        "Sweetest Love I Do Not Goe"
+      ],
+      "answer": 3,
+      "explanation": "This line is from John Donne's 'Sweetest Love, I Do Not Goe'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-070",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Lomov is a man conscious of ________.",
+      "options": ["social class", "caste", "religion", "race"],
+      "answer": 0,
+      "explanation": "In 'A Marriage Proposal', Lomov is deeply concerned about property and social class standing.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-071",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The ________ has become dumb to see the leafless trees.",
+      "options": ["hen", "sparrow", "nightingale", "peacock"],
+      "answer": 2,
+      "explanation": "In 'Now the Leaves are Falling Fast', the nightingale becomes dumb and will not come to help.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-072",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The press enjoys the ________ of the public.",
+      "options": ["boldness", "idleness", "helplessness", "secrecy"],
+      "answer": 2,
+      "explanation": "In 'How Free is the Press', Dorothy L. Sayers discusses how the press exploits public helplessness/apathy.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-073",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "For all the ills in India, the writer blames ________.",
+      "options": ["the Indians", "the British rule", "illiteracy", "superstitions"],
+      "answer": 1,
+      "explanation": "In 'India Through a Traveller's Eyes', Pearl S. Buck attributes much of India's poverty and ills to British rule.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-074",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Benjy owned a ________.",
+      "options": ["Hyundai Car", "Contessa Car", "Honda Car", "Ford Van"],
+      "answer": 3,
+      "explanation": "In H. E. Bates's 'The Earth', Benjy buys a Ford van.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-075",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Seibei's parents knew that Seibei often went out to buy ________.",
+      "options": ["vegetables", "gourds", "fruits", "snacks"],
+      "answer": 1,
+      "explanation": "In 'The Artist', Seibei's parents knew he went out to look for and buy gourds.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-076",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Advertisers contribute to the ________ of the newspaper.",
+      "options": ["material", "news", "revenue", "gossip"],
+      "answer": 2,
+      "explanation": "In 'How Free is the Press', advertising revenue is a major financial pillar of newspapers.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-077",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The poet is ________ the snake.",
+      "options": ["in awe of", "ashamed of", "afraid of", "disgusted by"],
+      "answer": 0,
+      "explanation": "In D. H. Lawrence's 'Snake', the poet feels a sense of honour and awe toward the royal snake.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-078",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"Tower of silence\" is related to ________ religion.",
+      "options": ["Hindu", "Parsi", "Sikh", "Christian"],
+      "answer": 1,
+      "explanation": "A Tower of Silence (Dakhma) is associated with Zoroastrian/Parsi funeral practice.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-079",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ is sweltering with the heat of injustice and oppression.",
+      "options": ["New York", "Texas", "Chicago", "Mississippi"],
+      "answer": 3,
+      "explanation": "In 'I Have a Dream', Martin Luther King, Jr. refers to Mississippi as sweltering with injustice and oppression.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-080",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Every human death by starvation is preceded by a long period of ________.",
+      "options": ["sorrow", "anxiety", "happiness", "ignorance"],
+      "answer": 1,
+      "explanation": "In 'India Through a Traveller's Eyes', Pearl S. Buck writes that death by starvation follows a long period of anxiety.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-081",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Nanukaka has a unique quality of telling ________.",
+      "options": ["truths", "stories", "incidents", "lies"],
+      "answer": 3,
+      "explanation": "In 'A Pinch of Snuff', Nanukaka is adept at spinning clever, plausible lies/fabrications to get things done.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-082",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ discrimination was disapproved by Martin Luther King, Jr.",
+      "options": ["Sex", "Caste", "Religious", "Racial"],
+      "answer": 3,
+      "explanation": "Martin Luther King, Jr. campaigned against racial discrimination.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-083",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Natalia and ________ are quarrelling for the Ox-Meadows.",
+      "options": ["Romov", "Lomov", "Choobookov", "Tomov"],
+      "answer": 1,
+      "explanation": "In 'A Marriage Proposal', Natalia and Lomov argue over ownership of Ox Meadows.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-084",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "English is a ________.",
+      "options": [
+        "hindrance in progress",
+        "disgrace to the world",
+        "blessing in disguise",
+        "window to the world"
+      ],
+      "answer": 3,
+      "explanation": "English is commonly described as a 'window to the world'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-085",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "The Norman Conquest made England into little more than a colony of ________.",
+      "options": ["Italy", "France", "Germany", "Russia"],
+      "answer": 1,
+      "explanation": "The Norman Conquest of 1066 brought strong French/Norman influence over England.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-086",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "Langland is a well known writer of ________ English literature.",
+      "options": ["Old", "Modern", "Middle", "Post-modern"],
+      "answer": 2,
+      "explanation": "William Langland is a major poet of the Middle English period.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-087",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "The Anglo-Saxons invaded England in the ________ century.",
+      "options": ["fifth", "sixth", "seventh", "eighth"],
+      "answer": 0,
+      "explanation": "Anglo-Saxon settlement/invasion of Britain is dated to the fifth century AD.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-088",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "In the poem 'Snake', Lawrence denounces the artificialities of ________ life.",
+      "options": ["ancient", "medieval", "modern", "industrial"],
+      "answer": 2,
+      "explanation": "D. H. Lawrence contrasts natural instinct with the artificialities of modern life.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-089",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "Indian English came into existence in ________ century.",
+      "options": ["18th", "20th", "19th", "21st"],
+      "answer": 2,
+      "explanation": "In the Bihar Board curriculum, Indian English literature/usage is traced to the 19th century.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-090",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Seibei took to ________ after giving up collecting gourds.",
+      "options": [
+        "playing games",
+        "painting pictures",
+        "watching movies",
+        "reading books"
+      ],
+      "answer": 1,
+      "explanation": "In 'The Artist', after his gourd was confiscated, Seibei turned passionately to painting pictures.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-091",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"Nothing can equal the seeds sown by our ancestors\" is from:",
+      "options": [
+        "A Child is Born",
+        "Indian Civilization and Culture",
+        "Bharat is My Home",
+        "I Have a Dream"
+      ],
+      "answer": 1,
+      "explanation": "This sentiment reflects Mahatma Gandhi's view of ancestral heritage in 'Indian Civilization and Culture'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-092",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ is known as the Nightingale of India.",
+      "options": [
+        "Mamta Kalia",
+        "Eunice De Souza",
+        "Kamala Das",
+        "Sarojini Naidu"
+      ],
+      "answer": 3,
+      "explanation": "Sarojini Naidu is famously known as the Nightingale of India.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-093",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"His footprints are not found in any file of ________ yard.\"",
+      "options": ["Ireland", "Scotland", "Iceland", "Netherland"],
+      "answer": 1,
+      "explanation": "In 'Macavity: The Mystery Cat', Macavity's footprints are not found in any file of Scotland Yard.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-094",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "Different varieties of English will together form a ________.",
+      "options": [
+        "Standard Spoken English",
+        "Grammar Rules Forum",
+        "World Pronunciation Rules",
+        "English Grammar"
+      ],
+      "answer": 0,
+      "explanation": "In the Bihar Board History of English textbook, global varieties of English relate to Standard Spoken English.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-095",
+      "chapter": "History of English (Section-A Objective)",
+      "question": "________ does not have the largest number of native speakers.",
+      "options": ["Chinese", "English", "Japanese", "Hindi"],
+      "answer": 1,
+      "explanation": "Chinese (Mandarin) has the largest number of native speakers, not English.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-096",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who were the rulers of ancient Egypt?",
+      "options": ["Pharoahs", "Porus", "Gods", "Alfred"],
+      "answer": 0,
+      "explanation": "Pharaohs (spelt 'Pharoahs' in the option) were the rulers of ancient Egypt.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-097",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ was more important than any other invention.",
+      "options": ["Machinery", "Vehicles", "Fire", "Agriculture"],
+      "answer": 3,
+      "explanation": "In 'Ideas That Have Helped Mankind', Bertrand Russell highlights the invention of agriculture as crucial to human settlement and progress.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-098",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ was Nanukaka's favourite dress.",
+      "options": [
+        "Silk Coat",
+        "Pathani Coat",
+        "Kashmiri Coat",
+        "Jodhpuri Coat"
+      ],
+      "answer": 3,
+      "explanation": "In 'A Pinch of Snuff', Nanukaka favoured a Jodhpuri coat and turban.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-099",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "________ was influenced by Mahatma Gandhi.",
+      "options": [
+        "Martin Luther King, Jr.",
+        "Shiga Naoya",
+        "Dorothy L. Sayers",
+        "Pearl S. Buck"
+      ],
+      "answer": 0,
+      "explanation": "Martin Luther King, Jr. was deeply influenced by Mahatma Gandhi's philosophy of non-violence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2026-obj-100",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Every newspaper lives in a precarious ________.",
+      "options": ["battle", "imbalance", "balance", "struggle"],
+      "answer": 2,
+      "explanation": "In 'How Free is the Press', newspapers operate in a precarious financial/editorial balance.",
+      "marks": 1
+    }
+  ]
+}

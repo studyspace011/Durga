@@ -1,0 +1,987 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "title": "Bihar Board Class-XII English 2023 (Set H)",
+  "time_minutes": 195,
+  "negative_marking": 0,
+  "questions": [
+    {
+      "id": "eng-2023-obj-001",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The ________ invaders were followed by the Sakas and Huns.",
+      "options": ["Roman", "English", "French", "Greek"],
+      "answer": 3,
+      "explanation": "Greek invaders were followed by the Sakas and Huns.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-002",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who is the writer of 'Little Girls Wiser Than Men'?",
+      "options": ["Toni Morrison", "Alexander Pope", "William Cowper", "Leo Tolstoy"],
+      "answer": 3,
+      "explanation": "'Little Girls Wiser Than Men' is a short story by Leo Tolstoy.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-003",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Akoulya started to make a channel with the help of a ________.",
+      "options": ["shovel", "rod", "stone", "pebble"],
+      "answer": 1,
+      "explanation": "In Leo Tolstoy's 'Little Girls Wiser Than Men', Akoulya dug a channel with a stick/rod.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-004",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "All the invaders appeared on the scene as ________ but were absorbed in the ranks of the vanquished.",
+      "options": ["foreigners", "friends", "enemies", "victors"],
+      "answer": 3,
+      "explanation": "Invaders arrived as victors yet were absorbed into the culture/ranks of the vanquished.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-005",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The young people were unable to hold their ________.",
+      "options": ["laughter", "anger", "tears", "wealth"],
+      "answer": 2,
+      "explanation": "The young people could not hold back their tears.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-006",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Aris says that genuine ________ and peace is more precious than diamond or silver or gold.",
+      "options": ["friendship", "love", "brotherhood", "respect"],
+      "answer": 2,
+      "explanation": "In 'The Acceptance Speech', Alexander Aris emphasizes genuine brotherhood and peace.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-007",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The parents did not ________ the feelings of Sun and Moon.",
+      "options": ["understand", "appreciate", "like", "accept"],
+      "answer": 0,
+      "explanation": "In 'Sun and Moon', the parents failed to understand the children's feelings.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-008",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The author ordered ________ pairs of shoes, though he wanted only two.",
+      "options": ["four", "six", "five", "three"],
+      "answer": 0,
+      "explanation": "In 'Quality', the narrator felt compelled to order more pairs than he actually needed.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-009",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "In the fifth year of imprisonment, the lawyer asked for ________.",
+      "options": ["books", "water", "food", "wine"],
+      "answer": 3,
+      "explanation": "In Anton Chekhov's 'The Bet', during the fifth year the prisoner asked for wine and played music.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-010",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Munni advised Halku to pay the landlord after the ________ season was over.",
+      "options": ["harvesting", "monsoon", "winter", "summer"],
+      "answer": 0,
+      "explanation": "In 'January Night' ('Poos Ki Raat'), Munni suggested paying after the harvesting season.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-011",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Immunoglobulin is a protein acting as an ________.",
+      "options": ["allergy", "infection", "antibody", "obstacle"],
+      "answer": 2,
+      "explanation": "Immunoglobulins are proteins that function as antibodies.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-012",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "There are ________ general approaches to the treatment of allergy diseases.",
+      "options": ["two", "three", "four", "five"],
+      "answer": 1,
+      "explanation": "There are three general approaches to treating allergic diseases.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-013",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "When Gillu was happy, he made a sound of ________.",
+      "options": ["cluck-cluck", "chik-chik", "kaw-kaw", "kai-kai"],
+      "answer": 1,
+      "explanation": "In 'Gillu', the squirrel made a soft 'chik-chik' sound when happy.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-014",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "People nowadays think ________ than ancient times.",
+      "options": ["deeper", "faster", "longer", "slower"],
+      "answer": 1,
+      "explanation": "In 'The Pace for Living', modern life makes people think faster.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-015",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The poet says that life is ________ because it is full of troubles.",
+      "options": ["joyous", "sweet", "bitter", "uncertain"],
+      "answer": 2,
+      "explanation": "Surrounded by troubles and sorrows, life feels bitter.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-016",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who composed 'Ode on Solitude'?",
+      "options": ["William Cowper", "Tony Morrison", "Walter de la Mare", "Alexander Pope"],
+      "answer": 3,
+      "explanation": "'Ode on Solitude' was written by Alexander Pope.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-017",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "'Hurt' is such a ________ polythene bag.",
+      "options": ["good", "strong", "strange", "thin"],
+      "answer": 2,
+      "explanation": "In 'Polythene Bag', hurt is compared to a strange polythene bag.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-018",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Vidyapati's poems are about Radha and ________.",
+      "options": ["Ram", "Sita", "Krishna", "Vishnu"],
+      "answer": 2,
+      "explanation": "Vidyapati's devotional lyrics centre on Radha and Krishna.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-019",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Mr. Gessler was a ________ shoemaker settled in London.",
+      "options": ["Spanish", "Serbian", "German", "French"],
+      "answer": 2,
+      "explanation": "In 'Quality', Mr. Gessler was a German-born master shoemaker in London.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-020",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The chairs for the party came in the ________.",
+      "options": ["night", "afternoon", "evening", "morning"],
+      "answer": 1,
+      "explanation": "In 'Sun and Moon', the party chairs arrived in the afternoon.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-021",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "In 'Two Horizons', letters were exchanged between ________.",
+      "options": ["mother and daughter", "son and father", "wife and husband", "brother and cousin"],
+      "answer": 0,
+      "explanation": "'Two Horizons' consists of letters between a mother and her daughter.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-022",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The narrator lived with his girlfriend for ________ years.",
+      "options": ["five", "six", "two", "eight"],
+      "answer": 3,
+      "explanation": "In 'Love Defiled', the narrator lived with his girlfriend for eight years.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-023",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The mother tells her daughter that her ________ will disappear slowly on its own.",
+      "options": ["dreams", "troubles", "problems", "discontent"],
+      "answer": 3,
+      "explanation": "In 'Two Horizons', the mother reassures her daughter that her discontent will gradually fade.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-024",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The narrator's girlfriend was wearing a dress of his favourite colour ________ during their last meeting before separation.",
+      "options": ["Green", "Blue", "Yellow", "Pink"],
+      "answer": 2,
+      "explanation": "She wore a yellow dress during their final meeting.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-025",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The poet calls things like health and virtue ________.",
+      "options": ["gifts", "prizes", "curse", "defects"],
+      "answer": 0,
+      "explanation": "Health and virtue are regarded as precious gifts of life.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-026",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Vidyapati is a ________ poet.",
+      "options": ["Oriya", "English", "Maithili", "Bhojpuri"],
+      "answer": 2,
+      "explanation": "Vidyapati (Mahakavi Vidyapati) is a renowned Maithili and Sanskrit poet.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-027",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The happy man is content to get his food from his ________.",
+      "options": ["cattle", "parents", "fields", "relatives"],
+      "answer": 2,
+      "explanation": "In 'Ode on Solitude', the contented man gets food from his own fields.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-028",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "\"The Empty Heart\" highlights man's insatiable ________.",
+      "options": ["food", "hunger", "sleep", "greed"],
+      "answer": 3,
+      "explanation": "'The Empty Heart' critiques insatiable greed.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-029",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Munni was Halku's ________.",
+      "options": ["wife", "sister", "daughter", "maid"],
+      "answer": 0,
+      "explanation": "In Premchand's 'January Night', Munni is Halku's wife.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-030",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The banker had given a party ________ years ago.",
+      "options": ["20", "15", "17", "18"],
+      "answer": 1,
+      "explanation": "In 'The Bet', the banker had hosted the party fifteen years earlier.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-031",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Hope for the Indian cinema lies in the simplification of ________ and content.",
+      "options": ["music", "style", "songs", "production"],
+      "answer": 1,
+      "explanation": "Satyajit Ray emphasizes simplifying style and content in Indian cinema.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-032",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Gillu refused to eat ________ when the author was in the hospital.",
+      "options": ["kaju", "leaves", "fruits", "rice"],
+      "answer": 0,
+      "explanation": "In 'Gillu', the squirrel refused his favourite kaju (cashew) while the narrator was hospitalized.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-033",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Burning the leaves is not good for the ________.",
+      "options": ["ecology", "school", "home", "garden"],
+      "answer": 0,
+      "explanation": "Burning dry leaves pollutes the air and harms the ecology.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-034",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "It is hard to get people to work for ________.",
+      "options": ["school", "play", "ecology", "money"],
+      "answer": 2,
+      "explanation": "In 'Me and the Ecology Bit', the narrator finds it hard to get people to act for ecology.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-035",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Slow thinkers are handicapped in the business of getting ________.",
+      "options": ["car", "living", "meal", "house"],
+      "answer": 1,
+      "explanation": "In 'The Pace for Living', slow thinkers are at a disadvantage in earning a living in modern fast-paced society.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-036",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "An Indian film should steer clear of ________.",
+      "options": ["ambiguity", "controversies", "inconsistencies", "music"],
+      "answer": 2,
+      "explanation": "Satyajit Ray notes films should avoid inconsistencies.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-037",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Sun and Moon are the names of ________.",
+      "options": ["guests", "children", "adults", "servants"],
+      "answer": 1,
+      "explanation": "In Katherine Mansfield's 'Sun and Moon', Sun and Moon are the children.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-038",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The daughter in 'Two Horizons' does not wish to ________ any more.",
+      "options": ["dream", "cry", "fight", "laugh"],
+      "answer": 0,
+      "explanation": "In 'Two Horizons', the daughter says she no longer wishes to dream.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-039",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The narrator's girlfriend in 'Love Defiled' was very ________.",
+      "options": ["cunning", "irritating", "stupid", "intelligent"],
+      "answer": 3,
+      "explanation": "The narrator describes his girlfriend as intelligent.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-040",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Gillu had stopped ________ the day he died.",
+      "options": ["sleeping", "running", "drinking", "eating"],
+      "answer": 3,
+      "explanation": "In 'Gillu', the squirrel stopped eating on the day he passed away.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-041",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "'The Acceptance Speech' was delivered by Alexander Aris in ________.",
+      "options": ["London", "Oslo", "Paris", "Rangoon"],
+      "answer": 1,
+      "explanation": "The Nobel Peace Prize ceremony/acceptance speech took place in Oslo.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-042",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "No Indian cinema can be ________ on all counts.",
+      "options": ["acclaimed", "applauded", "demeaned", "criticised"],
+      "answer": 2,
+      "explanation": "Satyajit Ray states no Indian cinema can be demeaned on all counts.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-043",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "In the poem 'The Sleeping Porter', the ________ are snow-clad.",
+      "options": ["cliffs", "mountains", "peaks", "hills"],
+      "answer": 2,
+      "explanation": "In 'The Sleeping Porter', snow-clad peaks rise above the exhausting climb.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-044",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The Koel is restless for her ________.",
+      "options": ["beloved", "friend", "branches", "fruits"],
+      "answer": 0,
+      "explanation": "In Puran Singh's 'The Koel', the bird pines restlessly for her beloved.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-045",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "To gather gold, the rich man tried all ________.",
+      "options": ["avenues", "methods", "tricks", "games"],
+      "answer": 0,
+      "explanation": "In 'The Empty Heart', he explored all avenues to amass gold.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-046",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Radha is hurt and ________.",
+      "options": ["weeping", "confused", "angry", "sad"],
+      "answer": 3,
+      "explanation": "In 'Radha', she is hurt and sad.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-047",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The polythene bag cannot be ________.",
+      "options": ["destroyed", "killed", "loved", "sown"],
+      "answer": 0,
+      "explanation": "In 'Polythene Bag', it cannot be easily destroyed.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-048",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "A happy man spends his leisure in ________.",
+      "options": ["eating", "recreation", "sleeping", "praying"],
+      "answer": 1,
+      "explanation": "In 'Ode on Solitude', leisure is spent in peaceful recreation.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-049",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Jim has a ________ route.",
+      "options": ["variable", "bus", "paper", "school"],
+      "answer": 2,
+      "explanation": "In 'Me and the Ecology Bit', Jim has a paper route.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-050",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The author tried to feed Gillu some ________.",
+      "options": ["biscuit", "fruit juice", "milk", "glucose"],
+      "answer": 1,
+      "explanation": "In 'Gillu', the author tried feeding him fruit juice.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-051",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "How many blocks away was the post office from Mr. Johnson's house?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 1,
+      "explanation": "In 'Me and the Ecology Bit', the post office was two blocks away.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-052",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "One of the most significant phenomena of our time has been the development of ________.",
+      "options": ["cinema", "painting", "rockets", "agriculture"],
+      "answer": 0,
+      "explanation": "Satyajit Ray highlights the rise of cinema as a major phenomenon of our time.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-053",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who delivered the speech while accepting the Nobel Peace Prize on behalf of Aung San Suu Kyi?",
+      "options": ["Her husband", "Her brother", "Her friend", "Her son"],
+      "answer": 3,
+      "explanation": "Her son Alexander Aris delivered the speech in Oslo.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-054",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The old woman in the piece 'Once Upon a Time' is a daughter of ________.",
+      "options": ["slaves", "tribals", "Toni Morrison", "the blind woman"],
+      "answer": 0,
+      "explanation": "In Toni Morrison's 'Once Upon a Time', the old woman is a daughter of slaves.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-055",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The man was rich, but not ________.",
+      "options": ["happy", "content", "sad", "satisfied"],
+      "answer": 1,
+      "explanation": "In 'The Empty Heart', despite his wealth, the man was not content.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-056",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Who wrote the poem 'Koel'?",
+      "options": ["Puran Singh", "Alexander Pope", "William Cowper", "Laxmi Prasad Devkota"],
+      "answer": 0,
+      "explanation": "'The Koel' ('Koel') was written by Puran Singh.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-057",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The poet asks the Koel what keeps it ________, yet charred.",
+      "options": ["sad", "happy", "fresh", "angry"],
+      "answer": 2,
+      "explanation": "The poet asks what keeps the koel fresh despite its dark/charred plumage.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-058",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The porter carries a load of 25 kilos on his ________.",
+      "options": ["back", "head", "shoulder", "box"],
+      "answer": 0,
+      "explanation": "In 'The Sleeping Porter', the porter carries a heavy load on his back.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-059",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "Martha's eyes were as tranquil as ________.",
+      "options": ["thoughts", "dreams", "silence", "forests"],
+      "answer": 2,
+      "explanation": "In Walter de la Mare's 'Martha', her eyes were as tranquil as silence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-060",
+      "chapter": "Prescribed Texts (Section-A Objective)",
+      "question": "The ________ of the children stood still in the hush of age gone by.",
+      "options": ["minds", "eyes", "attention", "hearts"],
+      "answer": 3,
+      "explanation": "In 'Martha', the hearts of the children stood still as she narrated.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-061",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Statament", "Stitmant", "Statement", "Steatment"],
+      "answer": 2,
+      "explanation": "'Statement' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-062",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Idelness", "Idolness", "Idleness", "Idalnes"],
+      "answer": 2,
+      "explanation": "'Idleness' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-063",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Siege", "Seige", "Saige", "Seiage"],
+      "answer": 0,
+      "explanation": "'Siege' follows 'i before e' spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-064",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Voilent", "Violent", "Veolent", "Vealant"],
+      "answer": 1,
+      "explanation": "'Violent' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-065",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Handsum", "Handsome", "Hindsome", "Hundsame"],
+      "answer": 1,
+      "explanation": "'Handsome' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-066",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Pillow", "Pellow", "Paelow", "Pilow"],
+      "answer": 0,
+      "explanation": "'Pillow' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-067",
+      "chapter": "Spelling (Section-A Objective)",
+      "question": "Choose the correctly spelt word:",
+      "options": ["Banis", "Banish", "Benash", "Binesh"],
+      "answer": 1,
+      "explanation": "'Banish' is the correct spelling.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-068",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Direct speech of: I asked her why she was sad is:",
+      "options": [
+        "I told her, \"Why you sad are?\"",
+        "I said to her, \"Why sad you are?\"",
+        "I said to her, \"Why are you sad?\"",
+        "I telling her, \"Why you sad are?\""
+      ],
+      "answer": 2,
+      "explanation": "'Why she was sad' converts back to direct question '\"Why are you sad?\"'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-069",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Direct speech of: Ramesh asked me where I was going is:",
+      "options": [
+        "Ramesh said to her, \"Where is she going?\"",
+        "Ramesh said to me, \"Where are you going?\"",
+        "Ramesh says, \"Where is you go?\"",
+        "Ramesh will say, \"Where do you go?\""
+      ],
+      "answer": 1,
+      "explanation": "'Asked me where I was going' converts back to 'Ramesh said to me, \"Where are you going?\"'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-070",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Direct speech of: She wished that I might be happy is:",
+      "options": [
+        "She said to me, \"May you be happy!\"",
+        "She says, \"May happy you be.\"",
+        "She will say, \"Happy you may be.\"",
+        "She may say, \"You may be happy.\""
+      ],
+      "answer": 0,
+      "explanation": "Optative wish 'wished that I might be happy' corresponds to 'She said to me, \"May you be happy!\"'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-071",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Indirect speech of: Rohan said to me, \"Please give me a book.\" is:",
+      "options": [
+        "Rohan requests me to give a book him.",
+        "Rohan asked me to give a book to him.",
+        "Rohan requested me to give him a book.",
+        "Rohan may request me for a book."
+      ],
+      "answer": 2,
+      "explanation": "'Please' indicates a polite request: 'Rohan requested me to give him a book.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-072",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Indirect speech of: He said, \"Alas! I am ruined.\" is:",
+      "options": [
+        "He said with sorrow that he is ruined.",
+        "He will say that he was ruined.",
+        "He says that he can be ruined.",
+        "He exclaimed with sorrow that he was ruined."
+      ],
+      "answer": 3,
+      "explanation": "'Alas!' becomes 'exclaimed with sorrow' and 'am ruined' shifts to 'was ruined'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-073",
+      "chapter": "Narration (Section-A Objective)",
+      "question": "Indirect speech of: He said to the boy: Do not play in the sun is:",
+      "options": [
+        "He forbade the boy to play in the sun.",
+        "He requested the boy to not play in the sun.",
+        "He says to the boy to not play in the sun.",
+        "He ordered the boy not to play in the sun."
+      ],
+      "answer": 3,
+      "explanation": "'He ordered the boy not to play in the sun.' is the grammatically complete indirect command.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-074",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "Always beware ________ dubious people.",
+      "options": ["from", "of", "to", "for"],
+      "answer": 1,
+      "explanation": "'Beware of' is the standard preposition used with 'beware'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-075",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "Do not hanker ________ wealth.",
+      "options": ["for", "after", "in", "by"],
+      "answer": 1,
+      "explanation": "'Hanker after' is the standard idiom meaning to strongly crave or pursue.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-076",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "He deals ________ his friends decently.",
+      "options": ["in", "with", "to", "at"],
+      "answer": 1,
+      "explanation": "'Deal with' means to behave or interact with someone.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-077",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "We should abstain ________ drinking.",
+      "options": ["of", "from", "in", "by"],
+      "answer": 1,
+      "explanation": "'Abstain from' is the standard preposition used with abstaining from a habit.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-078",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "It has been raining ________ Monday.",
+      "options": ["on", "for", "since", "from"],
+      "answer": 2,
+      "explanation": "'Since' is used before a specific point in time like 'Monday'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-079",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "We should not laugh ________ the poor.",
+      "options": ["on", "in", "at", "upon"],
+      "answer": 2,
+      "explanation": "'Laugh at' is the standard preposition when mocking or ridiculing.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-080",
+      "chapter": "Prepositions (Section-A Objective)",
+      "question": "What is wrong ________ you?",
+      "options": ["by", "at", "with", "in"],
+      "answer": 2,
+      "explanation": "'Wrong with' is standard in 'What is wrong with you?'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-081",
+      "chapter": "Modals / Verb Form (Section-A Objective)",
+      "question": "You ________ do it.",
+      "options": ["would", "should", "need", "ought"],
+      "answer": 1,
+      "explanation": "'Should' is followed directly by the base verb 'do'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-082",
+      "chapter": "Gerund / Verb Form (Section-A Objective)",
+      "question": "________ has ruined him.",
+      "options": ["Drink", "Drinkness", "Drinking", "Drinker"],
+      "answer": 2,
+      "explanation": "Gerund 'Drinking' acts as the subject of the sentence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-083",
+      "chapter": "Verb Form (Section-A Objective)",
+      "question": "He has ________ hard.",
+      "options": ["to work", "work", "been worked", "working"],
+      "answer": 0,
+      "explanation": "'Has to work' expresses obligation/necessity.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-084",
+      "chapter": "Infinitive / Verb Form (Section-A Objective)",
+      "question": "I will learn ________.",
+      "options": ["ride", "riding", "rode", "to rode"],
+      "answer": 1,
+      "explanation": "'Learn + gerund' ('riding') is natural and grammatically acceptable here.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-085",
+      "chapter": "Verb Form (Section-A Objective)",
+      "question": "________ my anger.",
+      "options": ["controlling", "controlled", "has controlling", "has controlled"],
+      "answer": 1,
+      "explanation": "'Controlled' works as the past participle/verb form in the given options.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-086",
+      "chapter": "Gerund / Verb Form (Section-A Objective)",
+      "question": "________ is a good exercise.",
+      "options": ["Walk", "Walked", "Walking", "Having walked"],
+      "answer": 2,
+      "explanation": "Gerund 'Walking' serves as the subject before 'is a good exercise'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-087",
+      "chapter": "Infinitive / Verb Form (Section-A Objective)",
+      "question": "He would like to ________ you.",
+      "options": ["see", "seeing", "saw", "seen"],
+      "answer": 0,
+      "explanation": "After 'to', the base form of the verb 'see' is used.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-088",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "Synonym of 'Virtue' is:",
+      "options": ["Goodness", "Futility", "Sympathy", "Respect"],
+      "answer": 0,
+      "explanation": "'Goodness' is a synonym of 'virtue'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-089",
+      "chapter": "Synonyms (Section-A Objective)",
+      "question": "Synonym of 'Blame' is:",
+      "options": ["Accuse", "Account", "Purpose", "Real"],
+      "answer": 0,
+      "explanation": "'Accuse' means to charge or blame someone.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-090",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "Antonym of 'Bold' is:",
+      "options": ["Timid", "Never", "Sweat", "Small"],
+      "answer": 0,
+      "explanation": "'Timid' (shy/fearful) is the opposite of 'bold'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-091",
+      "chapter": "Antonyms (Section-A Objective)",
+      "question": "Antonym of 'Foe' is:",
+      "options": ["Friend", "Rise", "Tragedy", "Hastes"],
+      "answer": 0,
+      "explanation": "'Friend' is the antonym of 'foe' (enemy).",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-092",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Active voice of: By whom has the snake been killed? is:",
+      "options": [
+        "Who kills the snake?",
+        "Who will kill the snake?",
+        "Who has killed the snake?",
+        "Who may kill the snake?"
+      ],
+      "answer": 2,
+      "explanation": "Present perfect passive 'By whom has ... been killed?' converts to 'Who has killed the snake?'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-093",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Active voice of: The prize can be won by him. is:",
+      "options": [
+        "He can win the prize.",
+        "He won the prize.",
+        "He has to win the prize.",
+        "He may try to win the prize."
+      ],
+      "answer": 0,
+      "explanation": "'Can be won by him' converts to active 'He can win the prize.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-094",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Active voice of: Is a story being written by him? is:",
+      "options": [
+        "Will he be able to write a story?",
+        "Is he wrote the story?",
+        "Is he write a story?",
+        "Is he writing a story?"
+      ],
+      "answer": 3,
+      "explanation": "Present continuous passive 'Is a story being written by him?' converts to 'Is he writing a story?'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-095",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Passive voice of: He helped the old man. is:",
+      "options": [
+        "The old man is helping by him.",
+        "The man is too old to be helped.",
+        "The old man was helped by him.",
+        "The old man has been helped by him."
+      ],
+      "answer": 2,
+      "explanation": "Simple past active 'helped' becomes simple past passive 'was helped by him'.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-096",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Active voice of: Let the poor be not insulted. is:",
+      "options": [
+        "Do not insult the poor.",
+        "Insult the poor not.",
+        "The poor is not insulted.",
+        "Insult should not the poor."
+      ],
+      "answer": 0,
+      "explanation": "Negative imperative passive 'Let the poor be not insulted.' converts to 'Do not insult the poor.'",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-097",
+      "chapter": "Voice (Section-A Objective)",
+      "question": "Passive voice of: My brother is to plant the tree. is:",
+      "options": [
+        "The tree is planted by my brother.",
+        "The tree is to be planted by my brother.",
+        "Planted is the tree by my brother.",
+        "By my brother is the tree planted."
+      ],
+      "answer": 1,
+      "explanation": "'Is to + V1' converts to passive 'is to be + V3' ('The tree is to be planted by my brother.').",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-098",
+      "chapter": "Translation (Section-A Objective)",
+      "question": "Translate into English: रोज अखबार पढ़ो।",
+      "options": [
+        "Read the newspaper daily.",
+        "Daily the newspaper read.",
+        "The newspaper read daily.",
+        "Daily reading the newspaper."
+      ],
+      "answer": 0,
+      "explanation": "'Read the newspaper daily.' is the natural imperative sentence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-099",
+      "chapter": "Translation (Section-A Objective)",
+      "question": "Translate into English: जो वह कहता है, सही है।",
+      "options": [
+        "Right is what he says.",
+        "What he says is right.",
+        "He says right is what.",
+        "Says he what is right."
+      ],
+      "answer": 1,
+      "explanation": "'What he says is right.' accurately translates the sentence.",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-obj-100",
+      "chapter": "Translation (Section-A Objective)",
+      "question": "Translate into English: गलती करना मनुष्य का स्वभाव है।",
+      "options": [
+        "Human is to err.",
+        "To err is human.",
+        "Is to human err.",
+        "Err is to human."
+      ],
+      "answer": 1,
+      "explanation": "'To err is human.' is the well-known proverb/translation.",
+      "marks": 1
+    }
+  ]
+}
+```[cite: 9]
+
+Note: Is PDF (`2023_ENGLISH.pdf`) mein sirf Section-A (Q.No. 1–100) ke pages maujood hain; Section-B ke pages last page par missing hain[cite: 9].
