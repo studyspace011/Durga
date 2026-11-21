@@ -1,0 +1,1409 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "year": 2025,
+  "exam": "Bihar Board Intermediate Examination",
+  "questions": [
+    {
+      "id": "eng-2025-001",
+      "chapter": "Prepositions",
+      "question": "Madhav is good ............ English. (Choose the correct option)",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "with"
+      ],
+      "answer": 2,
+      "explanation": "किसी विषय या कौशल में निपुण होने के अर्थ में 'good' के साथ हमेशा 'at' Preposition का प्रयोग होता है ('good at English')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-002",
+      "chapter": "Adjectives & Word Formation",
+      "question": "He behaved in a ............ manner. (Choose the correct option)",
+      "options": [
+        "friendly",
+        "manly",
+        "sickly",
+        "hardly"
+      ],
+      "answer": 0,
+      "explanation": "संज्ञा 'manner' की विशेषता बताने के लिए सकारात्मक विशेषण (Adjective) 'friendly' का प्रयोग सबसे उपयुक्त है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-003",
+      "chapter": "Degrees of Comparison",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Sangita is far beautiful than her friend",
+        "Sangita is far more beautiful than her friend",
+        "Sangita is far most beautiful than her friend",
+        "Sangita is far the most beautiful than her friend"
+      ],
+      "answer": 1,
+      "explanation": "'Than' के साथ Comparative degree ('more beautiful') का प्रयोग होता है तथा इसकी तीव्रता बढ़ाने के लिए 'far' लगाया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-004",
+      "chapter": "Subject-Verb Agreement",
+      "question": "A lot of energy ............ wasted on finding the dog. (Choose the correct option)",
+      "options": [
+        "was",
+        "were",
+        "can",
+        "will"
+      ],
+      "answer": 0,
+      "explanation": "'Energy' एक Uncountable Noun है, इसलिए 'A lot of energy' के साथ एकवचन क्रिया 'was' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-005",
+      "chapter": "Prepositions",
+      "question": "The work was done ............ haste. (Choose the correct option)",
+      "options": [
+        "at",
+        "of",
+        "by",
+        "in"
+      ],
+      "answer": 3,
+      "explanation": "जल्दबाजी में कोई कार्य करने के लिए मानक Prepositional वाक्यांश 'in haste' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-006",
+      "chapter": "Spelling Test",
+      "question": "Choose the correct spelling:",
+      "options": [
+        "Harmoney",
+        "Harmony",
+        "Hermoney",
+        "Hurmeny"
+      ],
+      "answer": 1,
+      "explanation": "सही अंग्रेजी वर्तनी 'Harmony' (सामंजस्य/सद्भाव) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-007",
+      "chapter": "Verb Forms (Imperative)",
+      "question": "............ before you leap. (Choose the correct option)",
+      "options": [
+        "Look",
+        "To look",
+        "Looking",
+        "Looked"
+      ],
+      "answer": 0,
+      "explanation": "'Look before you leap' (बिना विचारे जो करे सो पाछे पछताय) एक प्रसिद्ध कहावत है जो Imperative verb 'Look' से शुरू होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-008",
+      "chapter": "Adverbs",
+      "question": "It remains a ............ open question. (Choose the correct option)",
+      "options": [
+        "complete",
+        "to complete",
+        "completely",
+        "complitely"
+      ],
+      "answer": 2,
+      "explanation": "विशेषण 'open' की विशेषता बताने के लिए क्रियाविशेषण (Adverb) 'completely' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-009",
+      "chapter": "Determiners",
+      "question": "............ rose has a thorn. (Choose the correct option)",
+      "options": [
+        "Every",
+        "Either",
+        "None",
+        "Neither"
+      ],
+      "answer": 0,
+      "explanation": "प्रत्येक गुलाब में काँटा होने के सार्वभौमिक कथन को व्यक्त करने के लिए एकवचन संज्ञा 'rose' से पहले 'Every' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-010",
+      "chapter": "Interrogative Pronouns",
+      "question": "............ doesn't know you ? (Choose the correct option)",
+      "options": [
+        "What",
+        "When",
+        "Who",
+        "Where"
+      ],
+      "answer": 2,
+      "explanation": "किसी व्यक्ति के बारे में प्रश्न पूछने के लिए कर्ता के स्थान पर Interrogative Pronoun 'Who' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-011",
+      "chapter": "Phrasal Verbs",
+      "question": "He ............ of the deal at the last moment. (Choose the correct option)",
+      "options": [
+        "back up",
+        "bank on",
+        "backed out",
+        "broke away"
+      ],
+      "answer": 2,
+      "explanation": "किसी समझौते या वादे से पीछे हटने के अर्थ में 'back out' (Past Tense: 'backed out') Phrasal verb का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-012",
+      "chapter": "Determiners & Degrees of Comparison",
+      "question": "February has ............ days than March. (Choose the correct option)",
+      "options": [
+        "less",
+        "little",
+        "fewer",
+        "any"
+      ],
+      "answer": 2,
+      "explanation": "'Days' एक बहुवचन गणनीय संज्ञा (Plural Countable Noun) है, इसलिए तुलना करने के लिए 'less' के स्थान पर 'fewer' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-013",
+      "chapter": "Conditional Sentences / Tense",
+      "question": "Take an umbrella in case it ............ (Choose the correct option)",
+      "options": [
+        "has rain",
+        "raining",
+        "rains",
+        "rained"
+      ],
+      "answer": 2,
+      "explanation": "भविष्य की संभावना के लिए 'in case' के बाद एकवचन कर्ता 'it' के साथ Simple Present Tense ('rains') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-014",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "We ............ keep our colonies clean. (Choose the correct option)",
+      "options": [
+        "may",
+        "should",
+        "might",
+        "could"
+      ],
+      "answer": 1,
+      "explanation": "नैतिक कर्तव्य या सामाजिक जिम्मेदारी का बोध कराने के लिए 'should' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-015",
+      "chapter": "Combination of Sentences",
+      "question": "Rani is ill. She is working hard. (Choose the correct option)",
+      "options": [
+        "Rani is ill and working hard",
+        "Rani is ill yet she is working hard",
+        "Ill is Rani but working hard",
+        "Working hard is Rani and she is ill"
+      ],
+      "answer": 1,
+      "explanation": "दो विपरीत परिस्थितियों (बीमार होने के बावजूद कठिन परिश्रम करना) को जोड़ने के लिए विरोधाभासी संयोजक 'yet' का प्रयोग शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-016",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word :",
+      "options": [
+        "Transformation",
+        "Trinsfermation",
+        "Trensfermetion",
+        "Treansformation"
+      ],
+      "answer": 0,
+      "explanation": "सही अंग्रेजी वर्तनी 'Transformation' (रूपांतरण) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-017",
+      "chapter": "Voice (Active & Passive)",
+      "question": "Suraj drives the truck. (Choose the correct passive sentence)",
+      "options": [
+        "The truck is driven by Suraj",
+        "The truck will be driven by Suraj",
+        "The truck was driven by Suraj",
+        "The truck may be driven by Suraj"
+      ],
+      "answer": 0,
+      "explanation": "Simple Present Tense के वाक्य का Passive Voice 'Object + is/am/are + V3 + by + Subject' के नियम से बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-018",
+      "chapter": "Transformation of Sentences",
+      "question": "Ram must have seen the Taj Mahal. (Choose the correct negative sentence)",
+      "options": [
+        "Ram must not have missed to see the Taj Mahal",
+        "Ram must not have seen the Taj Mahal",
+        "Ram did not see the Taj Mahal",
+        "The Taj Mahal was seen by Ram"
+      ],
+      "answer": 1,
+      "explanation": "सहायक क्रिया 'must' के तुरंत बाद 'not' लगाने से वाक्य का नकारात्मक रूप ('Ram must not have seen the Taj Mahal') बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-019",
+      "chapter": "Antonyms",
+      "question": "The antonym of 'Clever' is (Choose the correct option)",
+      "options": [
+        "Angry",
+        "Cunning",
+        "Naughty",
+        "Stupid"
+      ],
+      "answer": 3,
+      "explanation": "'Clever' (चतुर/बुद्धिमान) का विलोम शब्द 'Stupid' (मूर्ख/बेवकूफ) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-020",
+      "chapter": "Synonyms",
+      "question": "The synonym of 'Worried' is (Choose the correct option)",
+      "options": [
+        "Troubled",
+        "Unconcerned",
+        "Ignored",
+        "Calm"
+      ],
+      "answer": 0,
+      "explanation": "'Worried' (चिंतित/परेशान) का समानार्थी शब्द 'Troubled' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-021",
+      "chapter": "Antonyms",
+      "question": "The antonym of 'Clean' is (Choose the correct option)",
+      "options": [
+        "Neat",
+        "Wash",
+        "Tidy",
+        "Dirty"
+      ],
+      "answer": 3,
+      "explanation": "'Clean' (साफ/स्वच्छ) का विलोम शब्द 'Dirty' (गंदा) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-022",
+      "chapter": "Synonyms",
+      "question": "The synonym of 'Lofty' is (Choose the correct option)",
+      "options": [
+        "High",
+        "Shaky",
+        "Small",
+        "Lowly"
+      ],
+      "answer": 0,
+      "explanation": "'Lofty' (अत्यंत ऊँचा/बुलंद) का समानार्थी शब्द 'High' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-023",
+      "chapter": "Antonyms",
+      "question": "The antonym of 'Finish' is (Choose the correct option)",
+      "options": [
+        "Start",
+        "Destroy",
+        "Close",
+        "Complete"
+      ],
+      "answer": 0,
+      "explanation": "'Finish' (समाप्त करना) का विलोम शब्द 'Start' (शुरू करना) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-024",
+      "chapter": "Idioms & Phrases",
+      "question": "The thief was beaten ............ (Choose the correct option)",
+      "options": [
+        "cat and dog",
+        "black and white",
+        "black and blue",
+        "beside the point"
+      ],
+      "answer": 2,
+      "explanation": "'Black and blue' मुहावरे का अर्थ 'बुरी तरह से पीटना कि शरीर पर नीले निशान पड़ जाएँ' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-025",
+      "chapter": "Prepositions",
+      "question": "They went to the beach ............ a picnic. (Choose the correct option)",
+      "options": [
+        "for",
+        "on",
+        "at",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "पिकनिक मनाने के उद्देश्य से जाने के लिए 'for a picnic' का प्रयोग सबसे उपयुक्त है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-026",
+      "chapter": "Non-Finite Verbs (Gerund)",
+      "question": "She enjoys ............ poetry in her free time. (Choose the correct option)",
+      "options": [
+        "reading",
+        "reads",
+        "read",
+        "to read"
+      ],
+      "answer": 0,
+      "explanation": "'Enjoy' क्रिया के बाद हमेशा Gerund (V4 - 'reading') का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-027",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "Sonam said, \"What a beautiful park !\" (Choose the correct indirect speech)",
+      "options": [
+        "Sonam thought that it was a beautiful park",
+        "Sonam said that it was a beautiful park",
+        "Sonam exclaimed with joy that it was a beautiful park",
+        "Sonam was happy to see a beautiful park"
+      ],
+      "answer": 2,
+      "explanation": "विस्मयादिबोधक वाक्य (Exclamatory sentence) होने के कारण 'said' को 'exclaimed with joy' में बदला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-028",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "We eat so that we ............ survive. (Choose the correct option)",
+      "options": [
+        "must",
+        "used to",
+        "could",
+        "may"
+      ],
+      "answer": 3,
+      "explanation": "वर्तमान काल में उद्देश्य (Purpose) दर्शाने वाले संयोजक 'so that' के बाद हमेशा 'may' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-029",
+      "chapter": "Voice (Active & Passive)",
+      "question": "By whom has the dog been killed ? (Choose the correct active voice)",
+      "options": [
+        "Who will be killing the dog ?",
+        "Who has killed the dog ?",
+        "Who had to kill the dog ?",
+        "Who must have killed the dog ?"
+      ],
+      "answer": 1,
+      "explanation": "यह वाक्य Present Perfect Passive में है; इसका Active Voice 'Who + has + V3 (killed) + Object (the dog)?' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-030",
+      "chapter": "Combination of Sentences",
+      "question": "The train went by. It did not stop. (Choose the correct combination)",
+      "options": [
+        "The train will go by and will not stop",
+        "The train went by because it will not stop",
+        "The train goes by therefore it did not stop",
+        "The train went by without stopping"
+      ],
+      "answer": 3,
+      "explanation": "बिना रुके गुजर जाने के भाव को जोड़ने के लिए Preposition 'without' + Gerund ('stopping') का प्रयोग सबसे सटीक है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-031",
+      "chapter": "Adverbs & Vocabulary",
+      "question": "My children told me that they would love me ............ (Choose the correct option)",
+      "options": [
+        "moreover",
+        "none",
+        "never",
+        "forever"
+      ],
+      "answer": 3,
+      "explanation": "'Forever' (हमेशा के लिए/सदैव) क्रियाविशेषण वाक्य के अर्थ को पूर्ण करता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-032",
+      "chapter": "Confusing Words & Determiners",
+      "question": "We can't expect any ............ help from them. (Choose the correct option)",
+      "options": [
+        "further",
+        "either",
+        "farther",
+        "neither"
+      ],
+      "answer": 0,
+      "explanation": "अतिरिक्त या आगे की सहायता के अर्थ में 'further' ('any further help') का प्रयोग होता है, जबकि 'farther' भौतिक दूरी के लिए आता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-033",
+      "chapter": "Degrees of Comparison",
+      "question": "He looks ............ than he is. (Choose the correct option)",
+      "options": [
+        "old",
+        "much old",
+        "oldest",
+        "older"
+      ],
+      "answer": 3,
+      "explanation": "वाक्य में तुलनात्मक शब्द 'than' का प्रयोग हुआ है, इसलिए Comparative degree ('older') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-034",
+      "chapter": "Determiners",
+      "question": "Mix the powder with ............ water. (Choose the correct option)",
+      "options": [
+        "a little",
+        "a few",
+        "little",
+        "few"
+      ],
+      "answer": 0,
+      "explanation": "'Water' एक अनगणनीय संज्ञा (Uncountable Noun) है; सकारात्मक अर्थ में 'थोड़ा सा पानी' दर्शाने के लिए 'a little' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-035",
+      "chapter": "Voice (Active & Passive)",
+      "question": "Let everyone be given a chance. (Choose the correct active voice)",
+      "options": [
+        "Give everyone a chance",
+        "Let a chance be given to everyone",
+        "Give a chance for everyone",
+        "I will give up a chance"
+      ],
+      "answer": 0,
+      "explanation": "'Let + Object + be + V3' संरचना वाले Passive वाक्य का Active Voice सीधे क्रिया के पहले रूप ('Give everyone a chance') से शुरू होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-036",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "She said, \"How ugly I look in this dress !\" (Choose the correct indirect narration)",
+      "options": [
+        "She said that how ugly she was looking in that dress",
+        "She exclaimed how ugly she looked in that dress",
+        "She expressed how ugly she looked in that dress",
+        "She exclaimed that she looked very ugly in that dress"
+      ],
+      "answer": 3,
+      "explanation": "Exclamatory वाक्य में 'said' को 'exclaimed' में, 'How' को 'very' में, Simple Present ('look') को Simple Past ('looked') में तथा 'this' को 'that' में बदला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-037",
+      "chapter": "Question Tags",
+      "question": "They can speak English, ............? (Choose the correct option)",
+      "options": [
+        "can't they",
+        "mustn't they",
+        "won't they",
+        "aren't they"
+      ],
+      "answer": 0,
+      "explanation": "सकारात्मक वाक्य ('They can speak') का नकारात्मक Question Tag 'can't they' बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-038",
+      "chapter": "Subject-Verb Agreement",
+      "question": "Neither of them ............ going to attend the party. (Choose the correct option)",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "'Neither of' के बाद बहुवचन सर्वनाम ('them') आने पर भी क्रिया हमेशा एकवचन ('is') में प्रयुक्त होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-039",
+      "chapter": "Demonstrative Adjectives",
+      "question": "I bought ............ flowers for my mother. (Choose the correct option)",
+      "options": [
+        "them",
+        "these",
+        "him",
+        "their"
+      ],
+      "answer": 1,
+      "explanation": "बहुवचन संज्ञा 'flowers' की ओर संकेत करने के लिए Demonstrative Adjective 'these' का प्रयोग शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-040",
+      "chapter": "Synonyms",
+      "question": "The synonym of 'Dormant' is (Choose the correct option)",
+      "options": [
+        "Sleeping",
+        "Quick",
+        "Humble",
+        "Active"
+      ],
+      "answer": 0,
+      "explanation": "'Dormant' (सुप्त/निष्क्रिय) का समानार्थी शब्द 'Sleeping' (सोया हुआ/सुप्त) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-041",
+      "chapter": "Antonyms",
+      "question": "The antonym of 'Guilty' is (Choose the correct option)",
+      "options": [
+        "Irrelevant",
+        "Innocent",
+        "Immature",
+        "Ignorant"
+      ],
+      "answer": 1,
+      "explanation": "'Guilty' (दोषी) का विलोम शब्द 'Innocent' (निर्दोष) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-042",
+      "chapter": "Idioms & Phrases",
+      "question": "\"To shed crocodile tears\" means (Choose the correct option)",
+      "options": [
+        "to weep profusely",
+        "to grieve seriously",
+        "to pretend grief",
+        "to mock something"
+      ],
+      "answer": 2,
+      "explanation": "'To shed crocodile tears' (मगरमच्छ के आँसू बहाना) मुहावरे का अर्थ 'दिखावटी दुख प्रकट करना' (to pretend grief) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-043",
+      "chapter": "Articles",
+      "question": "Eggs are sold by ............ dozen. (Choose the correct option)",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "माप या दर (Rate/Measurement) बताने वाली इकाइयों से पहले 'by + the' ('by the dozen') का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-044",
+      "chapter": "Prepositions",
+      "question": "The child ran ............ the road. (Choose the correct option)",
+      "options": [
+        "across",
+        "in",
+        "against",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "सड़क के एक ओर से दूसरी ओर दौड़कर पार करने के लिए 'across' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-045",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "We ............ qualify this year. (Choose the correct option)",
+      "options": [
+        "may",
+        "might",
+        "can",
+        "could"
+      ],
+      "answer": 0,
+      "explanation": "वर्तमान/भविष्य की प्रबल संभावना व्यक्त करने के लिए 'may' का प्रयोग सबसे उपयुक्त है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-046",
+      "chapter": "Spelling Test",
+      "question": "Choose the correct spelling:",
+      "options": [
+        "Disuede",
+        "Dissaded",
+        "Dissuade",
+        "Dessouded"
+      ],
+      "answer": 2,
+      "explanation": "सही अंग्रेजी वर्तनी 'Dissuade' (किसी को कुछ करने से रोकना/मना करना) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-047",
+      "chapter": "Conjunctions",
+      "question": "I can't meet you tomorrow, ............ I have an appointment. (Choose the correct option)",
+      "options": [
+        "for",
+        "hence",
+        "so",
+        "whether"
+      ],
+      "answer": 0,
+      "explanation": "कारण बताने वाले संयोजक (Conjunction) के रूप में 'for' का प्रयोग 'क्योंकि' के अर्थ में किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-048",
+      "chapter": "Tense",
+      "question": "Virat Kohli ............ for India. (Choose the correct option)",
+      "options": [
+        "playing",
+        "has play",
+        "plays",
+        "had to playing"
+      ],
+      "answer": 2,
+      "explanation": "वर्तमान की स्थायी स्थिति या तथ्य को दर्शाने के लिए एकवचन कर्ता 'Virat Kohli' के साथ Simple Present Tense में 'plays' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-049",
+      "chapter": "Prepositions",
+      "question": "He died ............ his society. (Choose the correct option)",
+      "options": [
+        "at",
+        "of",
+        "for",
+        "from"
+      ],
+      "answer": 2,
+      "explanation": "किसी देश, समाज या नेक उद्देश्य के लिए प्राण त्यागने के अर्थ में 'die for' का प्रयोग किया जाता है ('die of' बीमारी के लिए आता है)।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-050",
+      "chapter": "Articles",
+      "question": "She is ........ most beautiful girl. (Choose the correct option)",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "any"
+      ],
+      "answer": 1,
+      "explanation": "Superlative degree ('most beautiful') से पहले हमेशा Definite Article 'the' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-051",
+      "chapter": "Subject-Verb Agreement",
+      "question": "Milk and vegetables ............ good for health. (Choose the correct option)",
+      "options": [
+        "is",
+        "has",
+        "are",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "दो अलग-अलग वस्तुएँ ('Milk' और 'vegetables') 'and' से जुड़कर बहुवचन कर्ता बनाती हैं, अतः बहुवचन क्रिया 'are' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-052",
+      "chapter": "Conjunctions",
+      "question": "I'll call you ............ I arrive at the airport. (Choose the correct option)",
+      "options": [
+        "while",
+        "since",
+        "when",
+        "during"
+      ],
+      "answer": 2,
+      "explanation": "समय बिंदु (जब मैं हवाई अड्डे पहुँचूँगा) को दर्शाने के लिए 'when' Conjunction का प्रयोग सबसे सटीक है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-053",
+      "chapter": "Parts of Speech (Adjectives)",
+      "question": "The sun is shining, it's a ............ day. (Choose the correct option)",
+      "options": [
+        "beauty",
+        "beautify",
+        "beautiful",
+        "beautification"
+      ],
+      "answer": 2,
+      "explanation": "संज्ञा 'day' की विशेषता बताने के लिए विशेषण (Adjective) 'beautiful' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-054",
+      "chapter": "Conjunctions",
+      "question": "............ he studied hard, he failed. (Choose the correct option)",
+      "options": [
+        "Although",
+        "So",
+        "Because",
+        "Since"
+      ],
+      "answer": 0,
+      "explanation": "विरोधाभास (कठिन अध्ययन करने के बावजूद असफल होना) दर्शाने के लिए 'Although' (यद्यपि) का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-055",
+      "chapter": "Modal Auxiliary Verbs & Voice",
+      "question": "The stars ............ counted. (Choose the correct option)",
+      "options": [
+        "can",
+        "cannot be",
+        "could",
+        "must"
+      ],
+      "answer": 1,
+      "explanation": "यह वाक्य Passive Voice में है (तारों को गिना नहीं जा सकता), इसलिए 'cannot be + V3 (counted)' व्याकरणिक और अर्थपूर्ण रूप से शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-056",
+      "chapter": "Question Tags",
+      "question": "Dogs bark at night, ............? (Choose the correct option)",
+      "options": [
+        "wouldn't they",
+        "don't they",
+        "couldn't they",
+        "mustn't they"
+      ],
+      "answer": 1,
+      "explanation": "सकारात्मक Simple Present वाक्य ('Dogs bark') का नकारात्मक Question Tag 'don't they' बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-057",
+      "chapter": "Conjunctions & Vocabulary",
+      "question": "Are you ............? (Choose the correct option)",
+      "options": [
+        "alone or married",
+        "married and single",
+        "married and alone",
+        "married or single"
+      ],
+      "answer": 3,
+      "explanation": "दो परस्पर विरोधी विकल्पों (विवाहित या अविवाहित) के बीच चुनाव पूछने के लिए 'married or single' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-058",
+      "chapter": "Spelling Test",
+      "question": "Choose the correct spelling:",
+      "options": [
+        "Laburius",
+        "Lebourius",
+        "Laborious",
+        "Labourious"
+      ],
+      "answer": 2,
+      "explanation": "सही अंग्रेजी वर्तनी 'Laborious' (मेहनती/परिश्रमसाध्य) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-059",
+      "chapter": "Non-Finite Verbs (Gerund)",
+      "question": "Please excuse me for ............ (Choose the correct answer)",
+      "options": [
+        "not be late",
+        "late very much",
+        "being late",
+        "very much late"
+      ],
+      "answer": 2,
+      "explanation": "Preposition 'for' के बाद हमेशा Gerund (V4 - 'being late') का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-060",
+      "chapter": "Synonyms",
+      "question": "The synonym of 'Division' is (Choose the correct option)",
+      "options": [
+        "Unification",
+        "Partition",
+        "Combination",
+        "Conflict"
+      ],
+      "answer": 1,
+      "explanation": "'Division' (विभाजन/बँटवारा) का समानार्थी शब्द 'Partition' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-061",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "\"The past is not dead and static, it is alive and dynamic\" is said by",
+      "options": [
+        "Shiga Naoya",
+        "M. Gandhi",
+        "Dr. Zakir Hussain",
+        "H. E. Bates"
+      ],
+      "answer": 2,
+      "explanation": "यह प्रसिद्ध कथन डॉ. ज़ाकिर हुसैन (Dr. Zakir Hussain) के भाषण 'Bharat is My Home' से लिया गया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-062",
+      "chapter": "Prose - I Have a Dream",
+      "question": "Martin Luther King, Jr. dislikes ............ discrimination.",
+      "options": [
+        "caste",
+        "sex",
+        "religious",
+        "racial"
+      ],
+      "answer": 3,
+      "explanation": "मार्टिन लूथर किंग जूनियर ने नस्लीय (racial) भेदभाव का विरोध किया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-063",
+      "chapter": "Prose - A Child is Born",
+      "question": "A ............ woman visits her mother's house for the last few months of her pregnancy.",
+      "options": [
+        "Tamil",
+        "Sylheti",
+        "Punjabi",
+        "Bihari"
+      ],
+      "answer": 1,
+      "explanation": "जर्मेन ग्रीर के निबंध 'A Child is Born' के अनुसार सिल्हेटी (Sylheti) महिला गर्भावस्था के अंतिम महीनों में अपनी माँ के घर जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-064",
+      "chapter": "Prose - The Earth",
+      "question": "Benjy's parents are known as the ............",
+      "options": [
+        "Johnsons",
+        "Jacksons",
+        "Smiths",
+        "Leohorns"
+      ],
+      "answer": 0,
+      "explanation": "एच. ई. बेट्स की कहानी 'The Earth' में बेंजी के माता-पिता को जॉनसन्स (Johnsons) के नाम से जाना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-065",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Nanukaka had tied a huge ............ round the narrator's head.",
+      "options": [
+        "orange turban",
+        "green turban",
+        "red turban",
+        "yellow turban"
+      ],
+      "answer": 0,
+      "explanation": "'A Pinch of Snuff' कहानी में नानूकाका ने कथावाचक के सिर पर एक विशाल नारंगी पगड़ी (orange turban) बाँधी थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-066",
+      "chapter": "Prose - The Artist",
+      "question": "What did Seibei apply to get rid of the unpleasant gourd smell ?",
+      "options": [
+        "tea-leaves",
+        "neem-leaves",
+        "banana-leaves",
+        "tulsi-leaves"
+      ],
+      "answer": 0,
+      "explanation": "लौकी की अप्रिय गंध को दूर करने के लिए सेबेई उसमें चाय की पत्तियाँ (tea-leaves) भरता था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-067",
+      "chapter": "Prose - A Marriage Proposal",
+      "question": "Natalya and ............ are quarrelling for Ox Meadows.",
+      "options": [
+        "Choobookov",
+        "Romov",
+        "Lomov",
+        "Nomov"
+      ],
+      "answer": 2,
+      "explanation": "'A Marriage Proposal' नाटक में नतालिया और लोमोव (Lomov) 'ऑक्स मीडोज़' के स्वामित्व को लेकर झगड़ते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-068",
+      "chapter": "Prose - India Through a Traveller's Eyes",
+      "question": "According to Pearl S. Buck, the main quality of a leader should be",
+      "options": [
+        "selfishness",
+        "selflessness",
+        "dishonesty",
+        "communalism"
+      ],
+      "answer": 1,
+      "explanation": "पर्ल एस. बक के अनुसार एक सच्चे नेता का मुख्य गुण निस्वार्थता (selflessness) होना चाहिए।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-069",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "'And the nightingale is dumb' is from",
+      "options": [
+        "To Autumn",
+        "Fire-Hymn",
+        "Now the Leaves are Falling Fast",
+        "Snake"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति डब्ल्यू. एच. ऑडेन की कविता 'Now the Leaves are Falling Fast' से उद्धृत है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-070",
+      "chapter": "Poetry - Ode to Autumn",
+      "question": "John Keats is from",
+      "options": [
+        "Britain",
+        "Germany",
+        "America",
+        "Ireland"
+      ],
+      "answer": 0,
+      "explanation": "प्रसिद्ध स्वच्छंदतावादी कवि जॉन कीट्स ब्रिटेन (Britain) के निवासी थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-071",
+      "chapter": "Poetry - An Epitaph",
+      "question": "Walter de la Mare knew a ............ who is dead now.",
+      "options": [
+        "lord",
+        "boy",
+        "lady",
+        "girl"
+      ],
+      "answer": 2,
+      "explanation": "कविता 'An Epitaph' में कवि वाल्टर डे ला मेयर एक सुंदर महिला (lady) को याद करते हैं जिसकी मृत्यु हो चुकी है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-072",
+      "chapter": "Poetry - The Soldier",
+      "question": "Rupert Brooke's reputation as a poet rests on ............ war sonnets.",
+      "options": [
+        "five",
+        "eight",
+        "seven",
+        "six"
+      ],
+      "answer": 0,
+      "explanation": "एक युद्ध कवि के रूप में रुपर्ट ब्रुक की प्रतिष्ठा उनके पाँच (five) युद्ध सॉनेट्स पर टिकी है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-073",
+      "chapter": "Story of English - Global English",
+      "question": "About ............ years ago, Latin was a world language.",
+      "options": [
+        "600",
+        "800",
+        "700",
+        "900"
+      ],
+      "answer": 1,
+      "explanation": "लगभग 800 वर्ष पहले लैटिन को विश्व भाषा का दर्जा प्राप्त था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-074",
+      "chapter": "Poetry - Song of Myself",
+      "question": "Who wrote \"Leaves of Grass\" ?",
+      "options": [
+        "Shakespeare",
+        "T. S. Eliot",
+        "Milton",
+        "Walt Whitman"
+      ],
+      "answer": 3,
+      "explanation": "'Leaves of Grass' प्रसिद्ध अमेरिकी कवि वाल्ट व्हिटमैन (Walt Whitman) का विश्वविख्यात काव्य संग्रह है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-075",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "............ is dead against blind imitation of western civilization.",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Lal Bahadur Shastri"
+      ],
+      "answer": 0,
+      "explanation": "महात्मा गांधी (Mahatma Gandhi) पश्चिमी सभ्यता के अंधानुकरण के सख्त खिलाफ थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-076",
+      "chapter": "Prose - I Have a Dream",
+      "question": "Who refuses to believe that the bank of justice is bankrupt ?",
+      "options": [
+        "Negroes",
+        "Indians",
+        "Americans",
+        "Australians"
+      ],
+      "answer": 0,
+      "explanation": "मार्टिन लूथर किंग जूनियर के भाषण के अनुसार अश्वेत लोग (Negroes) यह मानने से इनकार करते हैं कि न्याय का बैंक दिवालिया हो गया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-077",
+      "chapter": "Story of English - Drama",
+      "question": "Who was the great dramatist of the Elizabethan Age ?",
+      "options": [
+        "Charles Dickens",
+        "Daniel Defoe",
+        "William Shakespeare",
+        "Thomas Henry"
+      ],
+      "answer": 2,
+      "explanation": "विलियम शेक्सपियर (William Shakespeare) एलिजाबेथन युग के महानतम नाटककार थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-078",
+      "chapter": "Story of English - Global English",
+      "question": "In UK, Australia and New Zealand, English is spoken as a ............",
+      "options": [
+        "foreign language",
+        "colonial language",
+        "second language",
+        "native language"
+      ],
+      "answer": 3,
+      "explanation": "ब्रिटेन, ऑस्ट्रेलिया और न्यूज़ीलैंड में अंग्रेजी मातृभाषा (native language) के रूप में बोली जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-079",
+      "chapter": "Story of English - Old English",
+      "question": "English developed from the speech of ............",
+      "options": [
+        "Anglo-Indian",
+        "Anglo-American",
+        "Anglo-Saxon",
+        "Anglo-African"
+      ],
+      "answer": 2,
+      "explanation": "अंग्रेजी भाषा का विकास एंग्लो-सैक्सन (Anglo-Saxon) जनजातियों की बोली से हुआ है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-080",
+      "chapter": "Prose - A Marriage Proposal",
+      "question": "Who wrote \"The Cherry Orchard\" ?",
+      "options": [
+        "G. B. Shaw",
+        "Anton Chekhov",
+        "Shakespeare",
+        "Leo Tolstoy"
+      ],
+      "answer": 1,
+      "explanation": "प्रसिद्ध नाटक 'द चेरी ऑर्चर्ड' (The Cherry Orchard) के लेखक एंटोन चेखव (Anton Chekhov) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-081",
+      "chapter": "Prose - The Artist",
+      "question": "'The Artist' is ............",
+      "options": [
+        "an essay",
+        "a poem",
+        "a short story",
+        "a one-act play"
+      ],
+      "answer": 2,
+      "explanation": "शिगा नाओया द्वारा लिखित 'The Artist' एक लघु कथा (short story) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-082",
+      "chapter": "Prose - A Marriage Proposal",
+      "question": "Anton Chekhov began his career by writing ............",
+      "options": [
+        "novels",
+        "drama",
+        "poetry",
+        "comic sketches"
+      ],
+      "answer": 3,
+      "explanation": "एंटोन चेखव ने अपने साहित्यिक जीवन की शुरुआत हास्य रेखाचित्र (comic sketches) लिखकर की थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-083",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "John Donne is a ............ poet.",
+      "options": [
+        "war",
+        "metaphysical",
+        "modern",
+        "satirical"
+      ],
+      "answer": 1,
+      "explanation": "जॉन डन एक प्रमुख आध्यात्मिक (metaphysical) कवि हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-084",
+      "chapter": "Poetry - Song of Myself",
+      "question": "Walt Whitman was a ............ during the Civil War.",
+      "options": [
+        "soldier",
+        "driver",
+        "volunteer nurse",
+        "constable"
+      ],
+      "answer": 2,
+      "explanation": "अमेरिकी गृहयुद्ध (Civil War) के दौरान वाल्ट व्हिटमैन ने एक स्वयंसेवी नर्स (volunteer nurse) के रूप में घायल सैनिकों की सेवा की थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-085",
+      "chapter": "Prose - The Earth",
+      "question": "Benjy left school at the age of ............",
+      "options": [
+        "twelve",
+        "thirteen",
+        "fourteen",
+        "fifteen"
+      ],
+      "answer": 2,
+      "explanation": "बेंजी ने चौदह (fourteen) वर्ष की आयु में स्कूल छोड़ दिया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-086",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "The line \"O how feeble is man's power\" occurs in the poem",
+      "options": [
+        "An Epitaph",
+        "Fire-Hymn",
+        "Song of Myself",
+        "Sweetest Love I Do Not Goe"
+      ],
+      "answer": 3,
+      "explanation": "यह पंक्ति जॉन डन की कविता 'Sweetest Love I Do Not Goe' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-087",
+      "chapter": "Poetry - Ode to Autumn",
+      "question": "The line \"And gathering swallows twitter in the skies\" is from",
+      "options": [
+        "An Epitaph",
+        "Macavity: The Mystery Cat",
+        "The Soldier",
+        "Ode to Autumn"
+      ],
+      "answer": 3,
+      "explanation": "यह पंक्ति जॉन कीट्स की कविता 'Ode to Autumn' की अंतिम पंक्ति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-088",
+      "chapter": "Story of English - Global English",
+      "question": "It was said that the sun never sets in the ............ Empire.",
+      "options": [
+        "French",
+        "Russian",
+        "British",
+        "Indian"
+      ],
+      "answer": 2,
+      "explanation": "विश्वव्यापी विस्तार के कारण यह कहा जाता था कि ब्रिटिश साम्राज्य (British Empire) में कभी सूर्यास्त नहीं होता।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-089",
+      "chapter": "Prose - How Free is the Press",
+      "question": "Dorothy L. Sayers was one of the first women to graduate from Oxford University in ............",
+      "options": [
+        "AD 1885",
+        "AD 1905",
+        "AD 1895",
+        "AD 1915"
+      ],
+      "answer": 3,
+      "explanation": "डोरोथी एल. सेयर्स 1915 ईस्वी (AD 1915) में ऑक्सफोर्ड विश्वविद्यालय से स्नातक होने वाली पहली महिलाओं में से एक थीं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-090",
+      "chapter": "Story of English - Global English",
+      "question": "............ is a 'window to the world'.",
+      "options": [
+        "Hindi",
+        "English",
+        "Urdu",
+        "Chinese"
+      ],
+      "answer": 1,
+      "explanation": "अंग्रेजी (English) को वैश्विक ज्ञान और संवाद के लिए 'विश्व की खिड़की' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-091",
+      "chapter": "Story of English - Middle English",
+      "question": "Who wrote 'Piers the Plowman'?",
+      "options": [
+        "Spenser",
+        "Milton",
+        "Langland",
+        "Congreve"
+      ],
+      "answer": 2,
+      "explanation": "मध्य अंग्रेजी की प्रसिद्ध रचना 'पियर्स द प्लोमैन' (Piers the Plowman) के लेखक विलियम लैंगलैंड (William Langland) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-092",
+      "chapter": "Story of English - Global English",
+      "question": "............ has the largest number of native speakers.",
+      "options": [
+        "English",
+        "Hindi",
+        "Urdu",
+        "Chinese"
+      ],
+      "answer": 3,
+      "explanation": "विश्व में मूल वक्ताओं (native speakers) की सर्वाधिक संख्या चीनी (Chinese) भाषा की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-093",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "............ prefers spiritualism to materialism.",
+      "options": [
+        "Rajiv Gandhi",
+        "Dr. Zakir Hussain",
+        "Dr. Rajendra Prasad",
+        "Mahatma Gandhi"
+      ],
+      "answer": 3,
+      "explanation": "महात्मा गांधी (Mahatma Gandhi) भौतिकवाद (materialism) की तुलना में अध्यात्मवाद (spiritualism) को प्राथमिकता देते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-094",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Nanukaka still wore ............",
+      "options": [
+        "a knee length black coat",
+        "Aligarhi pajamas",
+        "a Jodhpur coat",
+        "an Aligarhi kurta"
+      ],
+      "answer": 0,
+      "explanation": "कहानी के अनुसार नानूकाका तब भी घुटनों तक लंबा काला कोट (a knee length black coat) और लाल रेशमी पगड़ी पहनते थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-095",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "The English government gives elderly people a/an ............",
+      "options": [
+        "instalment payment",
+        "pension",
+        "loan",
+        "salary"
+      ],
+      "answer": 1,
+      "explanation": "बर्ट्रेंड रसेल के अनुसार इंग्लैंड की सरकार वृद्ध लोगों को वृद्धावस्था पेंशन (pension) देती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-096",
+      "chapter": "Prose - How Free is the Press",
+      "question": "Dorothy L. Sayers published an authentic verse translation of ............",
+      "options": [
+        "Inferno",
+        "The Bhagavad Geeta",
+        "Clouds of Witness",
+        "Unnatural Death"
+      ],
+      "answer": 0,
+      "explanation": "डोरोथी एल. सेयर्स ने दांते की कृति 'इन्फर्नो' (Inferno) का प्रामाणिक पद्यानुवाद प्रकाशित किया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-097",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "\"He's broken every human law\" is from",
+      "options": [
+        "Snake",
+        "Song of Myself",
+        "Ode to Autumn",
+        "Macavity: The Mystery Cat"
+      ],
+      "answer": 3,
+      "explanation": "यह पंक्ति टी. एस. एलियट की कविता 'Macavity: The Mystery Cat' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-098",
+      "chapter": "Poetry - Fire-Hymn",
+      "question": "............ swears to save fire from the sin of forgiving.",
+      "options": [
+        "Kamala Das",
+        "Keki N. Daruwalla",
+        "Nissim Ezekiel",
+        "W. B. Yeats"
+      ],
+      "answer": 1,
+      "explanation": "कविता 'Fire-Hymn' के कवि केकी एन. दारूवाला (Keki N. Daruwalla) अग्नि को क्षमा करने या विस्मृति के पाप से बचाने की शपथ लेते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-099",
+      "chapter": "Poetry - Snake",
+      "question": "The snake drank enough and lifted his head, '..................'",
+      "options": [
+        "aggressively",
+        "slowly",
+        "dreamily",
+        "poisoning"
+      ],
+      "answer": 2,
+      "explanation": "कविता 'Snake' की पंक्ति 'He drank enough, And lifted his head, dreamily...' के अनुसार रिक्त स्थान में 'dreamily' आएगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2025-100",
+      "chapter": "Poetry - My Grandmother's House",
+      "question": "Kamala Das remembers the happy days spent in the sweet company of her ............",
+      "options": [
+        "mother",
+        "brother",
+        "father",
+        "grandmother"
+      ],
+      "answer": 3,
+      "explanation": "कवयित्री कमला दास अपनी दादी (grandmother) के मधुर सानिध्य में बिताए गए सुखद दिनों को याद करती हैं।",
+      "marks": 1
+    }
+  ]
+}
+```[cite: 11]

@@ -1,0 +1,1408 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "year": 2021,
+  "exam": "Bihar Board Intermediate Examination",
+  "questions": [
+    {
+      "id": "eng-2021-001",
+      "chapter": "Prepositions",
+      "question": "He is attentive ........ his duty.",
+      "options": [
+        "to",
+        "by",
+        "for",
+        "of"
+      ],
+      "answer": 0,
+      "explanation": "'Attentive' (सतर्क/ध्यान देने वाला) के साथ हमेशा 'to' Preposition का प्रयोग होता है ('attentive to')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-002",
+      "chapter": "Possessive Adjectives",
+      "question": "When I finished my work, I asked ........ teacher to check it.",
+      "options": [
+        "I",
+        "her",
+        "my",
+        "their"
+      ],
+      "answer": 2,
+      "explanation": "वाक्य का कर्ता 'I' है, इसलिए संज्ञा 'teacher' से पहले इसके अनुरूप Possessive Adjective 'my' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-003",
+      "chapter": "Degrees of Comparison",
+      "question": "Those are probably the ........ furniture in the showroom.",
+      "options": [
+        "fancyest",
+        "fanciest",
+        "fancy",
+        "most fancyest"
+      ],
+      "answer": 1,
+      "explanation": "Definite Article 'the' के बाद Superlative Degree का प्रयोग होता है; 'fancy' का सही Superlative रूप 'fanciest' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-004",
+      "chapter": "Causative Verbs",
+      "question": "They made her ........ a new contract.",
+      "options": [
+        "sign",
+        "to sign",
+        "signing",
+        "signed"
+      ],
+      "answer": 0,
+      "explanation": "Active Voice में Causative verb 'made' के बाद हमेशा Bare Infinitive (बिना 'to' के क्रिया का पहला रूप - 'sign') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-005",
+      "chapter": "Vocabulary & Word Usage",
+      "question": "Catching the earlier train will give us the ........... to do some shopping.",
+      "options": [
+        "chance",
+        "luck",
+        "possibility",
+        "occasion"
+      ],
+      "answer": 0,
+      "explanation": "किसी कार्य को करने का अवसर या मौका मिलने के अर्थ में 'chance' ('give us the chance to') सबसे उपयुक्त शब्द है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-006",
+      "chapter": "Question Tags",
+      "question": "Reshma bought what she wanted, ...?",
+      "options": [
+        "won't she",
+        "can't she",
+        "can she",
+        "didn't she"
+      ],
+      "answer": 3,
+      "explanation": "मुख्य वाक्य Simple Past Tense ('bought' - V2) में सकारात्मक है, इसलिए इसका Question Tag नकारात्मक ('didn't she') बनेगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-007",
+      "chapter": "Prepositions",
+      "question": "He introduced me ......... his relatives.",
+      "options": [
+        "with",
+        "on",
+        "to",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "किसी व्यक्ति का परिचय किसी दूसरे व्यक्ति से कराने के लिए 'introduce someone to someone' संरचना का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-008",
+      "chapter": "Combination of Sentences",
+      "question": "She met her mother. She was glad.",
+      "options": [
+        "She was glad to meet her mother",
+        "She met her mother and was glad",
+        "She was glad and met her mother",
+        "She and her mother were glad"
+      ],
+      "answer": 0,
+      "explanation": "कारण और परिणाम को जोड़ने के लिए Infinitive ('to meet') का प्रयोग कर सबसे सटीक वाक्य 'She was glad to meet her mother' बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-009",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "He told me, \"Are you hungry?\"",
+      "options": [
+        "He was asking me if I am hungry",
+        "He asked me if I was hungry",
+        "He said to me if I was hungry",
+        "He questioned me about my hunger"
+      ],
+      "answer": 1,
+      "explanation": "प्रश्नवाचक वाक्य होने के कारण 'told' को 'asked' में तथा Simple Present ('Are you') को Simple Past ('if I was') में बदला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-010",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "You ............. give up smoking.",
+      "options": [
+        "must",
+        "used",
+        "had",
+        "have"
+      ],
+      "answer": 0,
+      "explanation": "दृढ़ सलाह या अनिवार्यता को व्यक्त करने के लिए Modal Auxiliary 'must' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-011",
+      "chapter": "Prepositions",
+      "question": "Success depends .......... hard labour.",
+      "options": [
+        "by",
+        "of",
+        "in",
+        "on"
+      ],
+      "answer": 3,
+      "explanation": "'Depend' क्रिया के साथ हमेशा 'on' (या upon) Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-012",
+      "chapter": "Tense",
+      "question": "He ......... a thief last night.",
+      "options": [
+        "have seen",
+        "seeing",
+        "saw",
+        "seen"
+      ],
+      "answer": 2,
+      "explanation": "'Last night' भूतकाल को दर्शाता है, इसलिए Simple Past Tense में क्रिया के दूसरे रूप (V2 - 'saw') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-013",
+      "chapter": "Synonyms",
+      "question": "The synonym of 'show' is",
+      "options": [
+        "Abrupt",
+        "Forbid",
+        "Silent",
+        "Exhibit"
+      ],
+      "answer": 3,
+      "explanation": "'Show' (दिखाना/प्रदर्शित करना) का समानार्थी शब्द 'Exhibit' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-014",
+      "chapter": "Voice (Active & Passive)",
+      "question": "By whom was the bird killed?",
+      "options": [
+        "Who killing the bird?",
+        "Who has killed the bird?",
+        "Who killed the bird?",
+        "Bird killing by whom?"
+      ],
+      "answer": 2,
+      "explanation": "यह वाक्य Simple Past Passive में है; इसका Active Voice 'Who + V2 (killed) + Object (the bird)?' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-015",
+      "chapter": "Antonyms",
+      "question": "The antonym of 'Natural' is",
+      "options": [
+        "Golden",
+        "Beautiful",
+        "Bright",
+        "Artificial"
+      ],
+      "answer": 3,
+      "explanation": "'Natural' (प्राकृतिक) का विलोम शब्द 'Artificial' (कृत्रिम/बनावटी) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-016",
+      "chapter": "Prepositions",
+      "question": "Our path is beset ......... difficulties.",
+      "options": [
+        "to",
+        "from",
+        "with",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "कठिनाइयों या समस्याओं से घिरे होने के अर्थ में 'beset with' एक निश्चित Prepositional वाक्यांश है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-017",
+      "chapter": "Vocabulary & Verbs",
+      "question": "I .......... you to read the book carefully.",
+      "options": [
+        "advise",
+        "tell",
+        "Advice",
+        "had advise"
+      ],
+      "answer": 0,
+      "explanation": "यहाँ एक क्रिया (Verb) की आवश्यकता है; 'Advise' (सलाह देना) क्रिया है, जबकि 'Advice' (सलाह) संज्ञा है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-018",
+      "chapter": "Conjunctions / Conditionals",
+      "question": "........ I could sing, I would have sung.",
+      "options": [
+        "If",
+        "Until",
+        "Because",
+        "Till"
+      ],
+      "answer": 0,
+      "explanation": "काल्पनिक शर्त (Conditional clause) को दर्शाने के लिए वाक्य के आरंभ में 'If' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-019",
+      "chapter": "Subject-Verb Agreement & Tense",
+      "question": "I would have bought a new car for her, but it ......... too expensive.",
+      "options": [
+        "were",
+        "are",
+        "was",
+        "can"
+      ],
+      "answer": 2,
+      "explanation": "वाक्य भूतकाल में है और एकवचन सर्वनाम 'it' के साथ एकवचन क्रिया 'was' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-020",
+      "chapter": "Transformation of Sentences",
+      "question": "The aeroplane flies faster than birds.",
+      "options": [
+        "The aeroplane does not fly faster than birds",
+        "The aeroplane flies not fly faster than birds",
+        "The aeroplane may not fly faster than birds",
+        "The aeroplane cannot fly faster than birds"
+      ],
+      "answer": 0,
+      "explanation": "Simple Present Tense के वाक्य ('flies') को नकारात्मक (Negative) में बदलने के लिए एकवचन कर्ता के साथ 'does not + V1 (fly)' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-021",
+      "chapter": "Phrasal Verbs",
+      "question": "He was brought .............. by his aunt after his mother's death.",
+      "options": [
+        "in",
+        "off",
+        "up",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "पालन-पोषण करने के अर्थ में Phrasal verb 'bring up' (Passive में 'brought up') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-022",
+      "chapter": "Nouns & Number",
+      "question": "Choose the incorrect sentence:",
+      "options": [
+        "Holi falls in March.",
+        "Do you like cricket?",
+        "He speaks English.",
+        "We saw deers in the zoo."
+      ],
+      "answer": 3,
+      "explanation": "'Deer' का एकवचन और बहुवचन रूप समान ('deer') रहता है, 'deers' लिखना व्याकरणिक रूप से अशुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-023",
+      "chapter": "Tense",
+      "question": "Keep quiet, we ........ to the radio.",
+      "options": [
+        "are listening",
+        "listen",
+        "will listen",
+        "listened"
+      ],
+      "answer": 0,
+      "explanation": "'Keep quiet' वर्तमान में चल रही क्रिया की ओर संकेत करता है, अतः Present Continuous Tense ('are listening') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-024",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Futher",
+        "Ferther",
+        "Further",
+        "Fruther"
+      ],
+      "answer": 2,
+      "explanation": "सही अंग्रेजी वर्तनी 'Further' (अतिरिक्त/आगे) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-025",
+      "chapter": "Voice (Active & Passive)",
+      "question": "This nonsense will not be tolerated by me.",
+      "options": [
+        "Will I never tolerate this nonsense",
+        "I will not tolerate this nonsense",
+        "I had not tolerated this nonsense",
+        "Nonsense will not be tolerated by I."
+      ],
+      "answer": 1,
+      "explanation": "यह Simple Future Passive का वाक्य है, जिसका Active रूप 'I will not tolerate this nonsense' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-026",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "We ........ keep our country free from racial prejudices.",
+      "options": [
+        "have",
+        "could",
+        "are",
+        "should"
+      ],
+      "answer": 3,
+      "explanation": "नैतिक कर्तव्य या दायित्व का बोध कराने के लिए 'should' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-027",
+      "chapter": "Tense",
+      "question": "Have you ......... him?",
+      "options": [
+        "saw",
+        "see",
+        "had seen",
+        "seen"
+      ],
+      "answer": 3,
+      "explanation": "Present Perfect Tense में 'Have' के बाद हमेशा क्रिया के तीसरे रूप (V3 - 'seen') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-028",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "He told the boy not to sit there.",
+      "options": [
+        "\"Doesn't sit there,\" he said to the boy",
+        "\"Didn't sit there,\" he said to the boy",
+        "\"Didn't sit here,\" he said to the boy",
+        "\"Don't sit here,\" he said to the boy"
+      ],
+      "answer": 3,
+      "explanation": "नकारात्मक Imperative वाक्य का Direct रूप 'Don't + V1' से शुरू होता है तथा Indirect का 'there' Direct में 'here' बन जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-029",
+      "chapter": "Tense & Auxiliary Verbs",
+      "question": "Do you ........ your first teacher?",
+      "options": [
+        "remembered",
+        "remembering",
+        "remember",
+        "will remember"
+      ],
+      "answer": 2,
+      "explanation": "सहायक क्रिया 'Do' के साथ हमेशा मुख्य क्रिया के पहले रूप (V1 - 'remember') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-030",
+      "chapter": "Synonyms",
+      "question": "After his death, the seat remained vacant. (Choose the correct meaning of the underlined word)",
+      "options": [
+        "empty",
+        "real",
+        "abusive",
+        "spirit"
+      ],
+      "answer": 0,
+      "explanation": "'Vacant' (रिक्त) का सही पर्यायवाची शब्द 'empty' (खाली) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-031",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She will return to India tomorrow",
+        "She returned to India tomorrow",
+        "She has already returned to India tomorrow",
+        "She had returned to India tomorrow"
+      ],
+      "answer": 0,
+      "explanation": "'Tomorrow' आने वाले कल को दर्शाता है, इसलिए इसके साथ केवल Future Tense ('will return') का प्रयोग ही शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-032",
+      "chapter": "Non-Finite Verbs (Gerund)",
+      "question": "......... is bad for health.",
+      "options": [
+        "Smoke",
+        "To smoking",
+        "Smoked",
+        "Smoking"
+      ],
+      "answer": 3,
+      "explanation": "वाक्य के कर्ता (Subject) के रूप में क्रिया को संज्ञा बनाने के लिए Gerund (V4 - 'Smoking') का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-033",
+      "chapter": "Articles",
+      "question": "Holi is ........ important festival.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Important' का उच्चारण स्वर (Vowel sound - 'इ') से शुरू होता है, इसलिए इससे पहले अनिश्चित आर्टिकल 'an' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-034",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Acteul",
+        "Actuel",
+        "Actual",
+        "Akchual"
+      ],
+      "answer": 2,
+      "explanation": "सही अंग्रेजी वर्तनी 'Actual' (वास्तविक) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-035",
+      "chapter": "Voice (Active & Passive)",
+      "question": "I will never forget this experience.",
+      "options": [
+        "This experience cannot be forgotten by me",
+        "This experience would never be forgotten by me",
+        "This experience will never be forgotten by me",
+        "This experience had never been forgotten by me"
+      ],
+      "answer": 2,
+      "explanation": "Simple Future Tense के वाक्य का Passive Voice 'Object + will + never + be + V3 + by + Subject' के नियम से बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-036",
+      "chapter": "One Word Substitution",
+      "question": "One who dies for a noble cause is a",
+      "options": [
+        "Martyr",
+        "Patriot",
+        "Mercenary",
+        "Robber"
+      ],
+      "answer": 0,
+      "explanation": "किसी नेक उद्देश्य या देश के लिए प्राण न्योछावर करने वाले व्यक्ति को 'Martyr' (शहीद) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-037",
+      "chapter": "Articles & Syntax",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Which came first, chicken or egg?",
+        "Which came first, a chicken or the eggs?",
+        "Which came first, the chicken or the egg?",
+        "Which came first, an chicken or an eggs?"
+      ],
+      "answer": 2,
+      "explanation": "संपूर्ण प्रजाति या प्रसिद्ध कहावत के संदर्भ में एकवचन गणनीय संज्ञाओं से पहले Definite Article 'the' का प्रयोग होता है ('the chicken or the egg')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-038",
+      "chapter": "Combination of Sentences",
+      "question": "The flat caught fire. All the things were burnt.",
+      "options": [
+        "The flat caught fire and all the things was burnt",
+        "The flat having caught fire, all the things were burnt",
+        "All the things was burnt when the flat caught fire",
+        "As all things burnt, the flat caught fire"
+      ],
+      "answer": 1,
+      "explanation": "एक कार्य के पूर्ण होने के तुरंत बाद दूसरा परिणाम घटित होने पर Perfect Participle ('having + V3') का प्रयोग कर वाक्य जोड़ा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-039",
+      "chapter": "Idioms & Phrases",
+      "question": "He is a man of ........",
+      "options": [
+        "script",
+        "letters",
+        "words",
+        "text"
+      ],
+      "answer": 1,
+      "explanation": "'A man of letters' एक प्रसिद्ध मुहावरा है जिसका अर्थ 'विद्वान या साहित्यिक व्यक्ति' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-040",
+      "chapter": "Prepositions",
+      "question": "We met a lot of people .......... our holidays.",
+      "options": [
+        "on",
+        "in",
+        "during",
+        "at"
+      ],
+      "answer": 2,
+      "explanation": "किसी अवधि या छुट्टियों के दौरान घटित होने वाले कार्य के लिए 'during' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-041",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Acquatance",
+        "Acquaintance",
+        "Acqueintence",
+        "Acquantance"
+      ],
+      "answer": 1,
+      "explanation": "सही अंग्रेजी वर्तनी 'Acquaintance' (जान-पहचान/परिचित) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-042",
+      "chapter": "Synonyms",
+      "question": "Choose the correct synonym of 'Change':",
+      "options": [
+        "Alter",
+        "Renew",
+        "Review",
+        "Repeat"
+      ],
+      "answer": 0,
+      "explanation": "'Change' (बदलना) का सटीक पर्यायवाची शब्द 'Alter' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-043",
+      "chapter": "Tense",
+      "question": "He has ......... the prize.",
+      "options": [
+        "wins",
+        "win",
+        "will win",
+        "won"
+      ],
+      "answer": 3,
+      "explanation": "Present Perfect Tense में 'has' के साथ 'win' का तीसरा रूप (V3 - 'won') प्रयुक्त होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-044",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "You can vote only when you are eighteen",
+        "You vote simply when eighteen",
+        "You can vote till you are eighteen",
+        "You vote as you are eighteen"
+      ],
+      "answer": 0,
+      "explanation": "अर्थ और व्याकरण की दृष्टि से 'You can vote only when you are eighteen' (आप तभी मतदान कर सकते हैं जब आप अठारह वर्ष के हों) बिल्कुल शुद्ध वाक्य है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-045",
+      "chapter": "Idioms & Phrases",
+      "question": "........ he went for a walk.",
+      "options": [
+        "Along with",
+        "All in all",
+        "As usual",
+        "After all"
+      ],
+      "answer": 2,
+      "explanation": "'As usual' का अर्थ 'हमेशा की तरह' होता है, जो वाक्य को सार्थक बनाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-046",
+      "chapter": "Conjunctions",
+      "question": "I cannot give you money, ........ I have none.",
+      "options": [
+        "for",
+        "and",
+        "if",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "यहाँ 'for' का प्रयोग संयोजक (Conjunction) के रूप में 'क्योंकि' (because) के अर्थ में हुआ है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-047",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "Rules ....... be observed at all costs.",
+      "options": [
+        "should",
+        "can",
+        "might",
+        "may"
+      ],
+      "answer": 0,
+      "explanation": "नियमों के पालन करने के कर्तव्य या आवश्यकता को दर्शाने के लिए 'should' का प्रयोग सबसे उपयुक्त है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-048",
+      "chapter": "Voice (Active & Passive)",
+      "question": "She has learned her lessons.",
+      "options": [
+        "Her lessons has learned by her",
+        "Her lessons has been learned by her",
+        "Her lessons learnt by her",
+        "Her lessons have been learned by her"
+      ],
+      "answer": 3,
+      "explanation": "Passive Voice में बहुवचन कर्म 'Her lessons' के साथ 'have been + V3 (learned)' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-049",
+      "chapter": "Determiners",
+      "question": "Is there ....... money in your pocket?",
+      "options": [
+        "much",
+        "more",
+        "any",
+        "many"
+      ],
+      "answer": 2,
+      "explanation": "प्रश्नवाचक वाक्यों में Uncountable Noun ('money') से पहले सामान्यतः 'any' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-050",
+      "chapter": "Vocabulary (Odd One Out)",
+      "question": "Choose the odd one:",
+      "options": [
+        "Fox",
+        "Leopard",
+        "Pigeon",
+        "Lion"
+      ],
+      "answer": 2,
+      "explanation": "Fox, Leopard और Lion जंगली स्तनधारी जानवर हैं, जबकि 'Pigeon' (कबूतर) एक पक्षी है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-051",
+      "chapter": "Articles",
+      "question": "Bring ........ inkpot for me.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Inkpot' स्वर ध्वनि ('इ') से आरंभ होने वाली एकवचन गणनीय संज्ञा है, अतः इससे पहले 'an' लगेगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-052",
+      "chapter": "Adjectives & Word Formation",
+      "question": "He lives in a two ......... house.",
+      "options": [
+        "story",
+        "building",
+        "storeyed",
+        "block"
+      ],
+      "answer": 2,
+      "explanation": "दो मंजिला घर को अंग्रेजी में 'two-storeyed house' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-053",
+      "chapter": "Subject-Verb Agreement",
+      "question": "John or Mary ............ gone to Kolkata.",
+      "options": [
+        "is",
+        "has",
+        "have",
+        "were"
+      ],
+      "answer": 1,
+      "explanation": "जब दो एकवचन कर्ता 'or' से जुड़े हों, तो क्रिया एकवचन होती है; 'gone' (V3) के साथ 'has' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-054",
+      "chapter": "Prepositions",
+      "question": "Pravin rode straight ............ the arena.",
+      "options": [
+        "into",
+        "in",
+        "with",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "बाहर से भीतर की ओर गति को दर्शाने के लिए 'into' Preposition का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-055",
+      "chapter": "One Word Substitution",
+      "question": "Give one word substitution for: 'A person who presents a radio/television programme'",
+      "options": [
+        "Astronaut",
+        "Anthropologist",
+        "Anchor",
+        "Archer"
+      ],
+      "answer": 2,
+      "explanation": "रेडियो या टेलीविजन कार्यक्रम प्रस्तुत करने वाले उद्घोषक को 'Anchor' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-056",
+      "chapter": "Subject-Verb Agreement",
+      "question": "His honesty and faithfulness ........... unquestionable.",
+      "options": [
+        "is",
+        "has",
+        "are",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "दो अलग-अलग गुण ('honesty' और 'faithfulness') 'and' से जुड़कर बहुवचन कर्ता बनाते हैं, इसलिए बहुवचन क्रिया 'are' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-057",
+      "chapter": "Antonyms",
+      "question": "He is happy of being here. (Choose the correct antonym of 'happy')",
+      "options": [
+        "First",
+        "Sad",
+        "Jolly",
+        "Excited"
+      ],
+      "answer": 1,
+      "explanation": "'Happy' (खुश) का विलोम शब्द 'Sad' (दुखी) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-058",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "Ram said to Shyam, \"What are you reading?\"",
+      "options": [
+        "Ram asked Shyam what he was reading",
+        "Ram told Shyam what he is reading",
+        "Ram is asking Shyam about his reading book",
+        "Ram said to Shyam about his reading book"
+      ],
+      "answer": 0,
+      "explanation": "Wh-question वाले Direct Speech में 'said to' को 'asked' में तथा 'are you reading' को Past Continuous ('he was reading') में बदला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-059",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word:",
+      "options": [
+        "Exhebition",
+        "Exibition",
+        "Exhibition",
+        "Exabition"
+      ],
+      "answer": 2,
+      "explanation": "सही अंग्रेजी वर्तनी 'Exhibition' (प्रदर्शनी) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-060",
+      "chapter": "Articles",
+      "question": "You need to buy ........... dictionary.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "'Dictionary' व्यंजन ध्वनि ('ड') से शुरू होने वाली एकवचन गणनीय संज्ञा है, अतः इससे पहले 'a' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-061",
+      "chapter": "Story of English - Drama",
+      "question": "Goldsmith and Sheridan made contributions to the",
+      "options": [
+        "Novel",
+        "Non-fiction writing",
+        "Poetry",
+        "English stage"
+      ],
+      "answer": 3,
+      "explanation": "ओलिवर गोल्डस्मिथ और रिचर्ड ब्रिंसले शेरिडन ने 18वीं शताब्दी में अंग्रेजी रंगमंच (English stage / Drama) में महत्वपूर्ण योगदान दिया।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-062",
+      "chapter": "Story of English - World Literature",
+      "question": "Wole Soyinka is a .......... poet.",
+      "options": [
+        "Nigerian",
+        "American",
+        "Indian",
+        "British"
+      ],
+      "answer": 0,
+      "explanation": "नोबेल पुरस्कार विजेता वोले शोयिंका (Wole Soyinka) एक प्रसिद्ध नाइजीरियाई (Nigerian) कवि और नाटककार हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-063",
+      "chapter": "Story of English - Old English",
+      "question": "The Old English Period is characterized by",
+      "options": [
+        "vocabulary",
+        "mood",
+        "inflections",
+        "gender"
+      ],
+      "answer": 2,
+      "explanation": "पुरानी अंग्रेजी काल (Old English Period) की मुख्य व्याकरणिक विशेषता 'inflections' (शब्द-रूपों में प्रत्यय परिवर्तन) थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-064",
+      "chapter": "Story of English - Middle English",
+      "question": "A major linguistic change in English is",
+      "options": [
+        "The Great Vowel Shift",
+        "Received pronunciation",
+        "Language Change",
+        "Vocabulary Shift"
+      ],
+      "answer": 0,
+      "explanation": "अंग्रेजी भाषा के इतिहास में एक प्रमुख भाषाई परिवर्तन 'The Great Vowel Shift' था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-065",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "'Now the Leaves are Falling Fast' talks about the .......... of human life.",
+      "options": [
+        "frustrations",
+        "happiness",
+        "confusions",
+        "knowledge"
+      ],
+      "answer": 0,
+      "explanation": "डब्ल्यू. एच. ऑडेन की यह कविता मानव जीवन में निहित निराशाओं और कुंठाओं (frustrations) को दर्शाती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-066",
+      "chapter": "Poetry - Ode to Autumn",
+      "question": "'Thou watchest the last oozings hours by hours.' is from",
+      "options": [
+        "Song of Myself",
+        "An Epitaph",
+        "Ode to Autumn",
+        "Snake"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति जॉन कीट्स (John Keats) द्वारा रचित कविता 'Ode to Autumn' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-067",
+      "chapter": "Poetry - An Epitaph",
+      "question": "\"And when I crumble, who will remember.\" Who is 'I' in the line?",
+      "options": [
+        "Poet",
+        "Lady",
+        "Child",
+        "Mother"
+      ],
+      "answer": 0,
+      "explanation": "कविता 'An Epitaph' की इस पंक्ति में 'I' स्वयं कवि (Walter de la Mare) के लिए प्रयुक्त हुआ है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-068",
+      "chapter": "Poetry - The Soldier",
+      "question": "'In hearts at peace, under an English heaven' is from",
+      "options": [
+        "Ode to Autumn",
+        "Snake",
+        "An Epitaph",
+        "The Soldier"
+      ],
+      "answer": 3,
+      "explanation": "यह पंक्ति रुपर्ट ब्रुक की देशभक्तिपूर्ण कविता 'The Soldier' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-069",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "'Some of the immediate and brilliant results of modern inventions are too maddening to resist' is from",
+      "options": [
+        "Bharat is My Home",
+        "A Pinch of Snuff",
+        "Indian Civilization and Culture",
+        "Ideas That Have Helped Mankind"
+      ],
+      "answer": 2,
+      "explanation": "यह वाक्य महात्मा गांधी के प्रसिद्ध निबंध 'Indian Civilization and Culture' से लिया गया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-070",
+      "chapter": "Prose - India Through a Traveller's Eyes",
+      "question": "India was a part of the background of",
+      "options": [
+        "the doctor's life",
+        "the wife's life",
+        "the Kashmiri man's life",
+        "Pearl S. Buck's life"
+      ],
+      "answer": 3,
+      "explanation": "लेखिका पर्ल एस. बक (Pearl S. Buck) के अनुसार भारत बचपन से ही उनके जीवन की पृष्ठभूमि का हिस्सा रहा था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-071",
+      "chapter": "Prose - I Have a Dream",
+      "question": "Emancipation Proclamation gave the Negro",
+      "options": [
+        "slavery",
+        "freedom from slavery",
+        "captivity",
+        "despair"
+      ],
+      "answer": 1,
+      "explanation": "मुक्ति की उद्घोषणा (Emancipation Proclamation) ने अश्वेत लोगों को गुलामी से मुक्ति (freedom from slavery) दिलाई।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-072",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "Bertrand Russell was also a",
+      "options": [
+        "painter",
+        "dramatist",
+        "mathematician",
+        "geologist"
+      ],
+      "answer": 2,
+      "explanation": "बर्ट्रेंड रसेल एक दार्शनिक होने के साथ-साथ एक महान गणितज्ञ (mathematician) भी थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-073",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "\"Civilization is that mode of conduct which points out to man the path of duty\" is from",
+      "options": [
+        "Indian Civilization and Culture",
+        "A Child is Born",
+        "A Marriage Proposal",
+        "Bharat is My Home"
+      ],
+      "answer": 0,
+      "explanation": "सभ्यता की यह परिभाषा महात्मा गांधी ने अपने निबंध 'Indian Civilization and Culture' में दी है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-074",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "\"The people have chosen to make me the head of this family for a certain time.\" Who says this?",
+      "options": [
+        "Dr. Zakir Hussain",
+        "Kamala Das",
+        "Pearl S. Buck",
+        "Manohar Malgaonkar"
+      ],
+      "answer": 0,
+      "explanation": "यह कथन डॉ. ज़ाकिर हुसैन ने 1967 में राष्ट्रपति पद ग्रहण करते समय अपने भाषण 'Bharat is My Home' में कहा था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-075",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Who travelled free with Nanukaka?",
+      "options": [
+        "Dog",
+        "Rabbit",
+        "Hen",
+        "Kitten"
+      ],
+      "answer": 3,
+      "explanation": "'A Pinch of Snuff' कहानी में नानूकाका के साथ एक बिल्ली का बच्चा (Kitten) बिना टिकट के यात्रा करता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-076",
+      "chapter": "Prose - I Have a Dream",
+      "question": "Martin Luther King, Jr. asks the black to continue working with",
+      "options": [
+        "love",
+        "hatred",
+        "faith",
+        "jealousy"
+      ],
+      "answer": 2,
+      "explanation": "मार्टिन लूथर किंग जूनियर अश्वेत लोगों से अटूट विश्वास (faith) के साथ निरंतर संघर्ष जारी रखने का आह्वान करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-077",
+      "chapter": "Story of English - History of English",
+      "question": "English language is ........ than Sanskrit and Persian.",
+      "options": [
+        "older",
+        "younger",
+        "elder",
+        "oldest"
+      ],
+      "answer": 1,
+      "explanation": "अंग्रेजी भाषा संस्कृत और फ़ारसी जैसी प्राचीन भाषाओं की तुलना में नई (younger) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-078",
+      "chapter": "Story of English - Drama",
+      "question": "The word 'drama' comes from ......... word.",
+      "options": [
+        "Latin",
+        "Greek",
+        "Scandinavian",
+        "Pali"
+      ],
+      "answer": 1,
+      "explanation": "'Drama' शब्द ग्रीक (Greek) भाषा के शब्द 'dran' से लिया गया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-079",
+      "chapter": "Story of English - Poetry",
+      "question": "Who wrote, \"The Scholar Gypsy\"?",
+      "options": [
+        "Matthew Arnold",
+        "W. B. Yeats",
+        "Robert Bridges",
+        "Thomas Hardy"
+      ],
+      "answer": 0,
+      "explanation": "'The Scholar Gypsy' कविता की रचना मैथ्यू अर्नोल्ड (Matthew Arnold) ने की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-080",
+      "chapter": "Story of English - Novel",
+      "question": "......... is called the father of modern novel.",
+      "options": [
+        "Richardson",
+        "Fielding",
+        "Johnson",
+        "Dryden"
+      ],
+      "answer": 0,
+      "explanation": "सैमुअल रिचर्डसन (Samuel Richardson) को आधुनिक उपन्यास का जनक माना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-081",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "The Gujarati equivalent for civilization means",
+      "options": [
+        "bad conduct",
+        "intelligent conduct",
+        "good conduct",
+        "delightful conduct"
+      ],
+      "answer": 2,
+      "explanation": "महात्मा गांधी के अनुसार गुजराती भाषा में सभ्यता (Civilization) का अर्थ 'सदाचार' या 'अच्छा आचरण' (good conduct) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-082",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Nanukaka was coming to Delhi to",
+      "options": [
+        "see some people",
+        "see some minister",
+        "see his sister",
+        "see some relatives"
+      ],
+      "answer": 1,
+      "explanation": "'A Pinch of Snuff' के अनुसार नानूकाका किसी मंत्री से मिलने (see some minister) के लिए दिल्ली आ रहे थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-083",
+      "chapter": "Poetry - Song of Myself",
+      "question": "......... works include 'Leaves of Grass' and 'Drum Taps.'",
+      "options": [
+        "Walt Whitman's",
+        "D. H. Lawrence's",
+        "T. S. Eliot's",
+        "Walter de la Mare's"
+      ],
+      "answer": 0,
+      "explanation": "'Leaves of Grass' और 'Drum-Taps' प्रसिद्ध अमेरिकी कवि वाल्ट व्हिटमैन (Walt Whitman) की प्रमुख काव्य कृतियाँ हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-084",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "Who 'run scolding for their food' in 'Now the Leaves are Falling Fast'?",
+      "options": [
+        "Trolls",
+        "Lions",
+        "Animals",
+        "Birds"
+      ],
+      "answer": 0,
+      "explanation": "कविता की पंक्ति 'And the trolls run scolding for their food' के अनुसार 'Trolls' भोजन की तलाश में भटकते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-085",
+      "chapter": "Prose - How Free is the Press",
+      "question": "When we speak of 'the freedom of the press', we usually mean freedom in a ......... sense.",
+      "options": [
+        "broad",
+        "legal",
+        "technical",
+        "social"
+      ],
+      "answer": 2,
+      "explanation": "डोरोथी एल. सेयर्स के निबंध के अनुसार प्रेस की स्वतंत्रता से हमारा आशय मुख्यतः तकनीकी और प्रतिबंधित अर्थ (technical sense) में सरकारी नियंत्रण से मुक्ति होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-086",
+      "chapter": "Prose - A Marriage Proposal",
+      "question": "'A Marriage Proposal' is a",
+      "options": [
+        "tragedy",
+        "satire",
+        "tragi-comedy",
+        "comedy"
+      ],
+      "answer": 3,
+      "explanation": "एंटोन चेखव द्वारा रचित 'A Marriage Proposal' एक प्रहसन/हास्य एकांकी नाटक (Comedy / Farce) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-087",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "Donne studied law and read .........",
+      "options": [
+        "theology",
+        "drama",
+        "philosophy",
+        "novels"
+      ],
+      "answer": 0,
+      "explanation": "जॉन डन ने कानून (Law) का अध्ययन किया और धर्मशास्त्र (Theology) पढ़ा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-088",
+      "chapter": "Poetry - Song of Myself",
+      "question": "'I celebrate myself, and sing myself, ...........' is from",
+      "options": [
+        "Snake",
+        "Ode to Autumn",
+        "Song of Myself",
+        "Now the Leaves are Falling Fast"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति वाल्ट व्हिटमैन की कविता 'Song of Myself' से उद्धृत है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-089",
+      "chapter": "Poetry - An Epitaph",
+      "question": "In which poem does the poet express his sad feeling for a beautiful lady?",
+      "options": [
+        "To Autumn",
+        "The Soldier",
+        "An Epitaph",
+        "Fire-Hymn"
+      ],
+      "answer": 2,
+      "explanation": "वाल्टर डे ला मेयर ने अपनी कविता 'An Epitaph' में पश्चिमी देश की एक अत्यंत सुंदर महिला के प्रति अपनी शोक संवेदना व्यक्त की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-090",
+      "chapter": "Poetry - The Soldier",
+      "question": "......... is remembered as a war poet.",
+      "options": [
+        "Rupert Brooke",
+        "D. H. Lawrence",
+        "T. S. Eliot",
+        "Walter de la Mare"
+      ],
+      "answer": 0,
+      "explanation": "रुपर्ट ब्रुक (Rupert Brooke) को प्रथम विश्व युद्ध के एक प्रसिद्ध युद्ध कवि (War poet) के रूप में याद किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-091",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "Who finds Macavity lazy and half asleep?",
+      "options": [
+        "Kamala Das",
+        "D. H. Lawrence",
+        "T. S. Eliot",
+        "William Blake"
+      ],
+      "answer": 2,
+      "explanation": "कवि टी. एस. एलियट (T. S. Eliot) मैकाविटी बिल्ली को बाहर से सुस्त और अधसोई (lazy and half asleep) अवस्था में पाते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-092",
+      "chapter": "Poetry - Snake",
+      "question": "D. H. Lawrence exalts the values of primitive life in",
+      "options": [
+        "Snake",
+        "Fire-Hymn",
+        "Song of Myself",
+        "My Grandmother's House"
+      ],
+      "answer": 0,
+      "explanation": "डी. एच. लॉरेंस अपनी कविता 'Snake' में आदिम और प्राकृतिक जीवन के मूल्यों की प्रशंसा करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-093",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "'Macavity: The Mystery Cat' has been taken from",
+      "options": [
+        "Old Alan's Book of Cats",
+        "Old Possum's Book of Practical Cats",
+        "Young Arthur's Cats",
+        "Young Mathew's Dogs and Cats"
+      ],
+      "answer": 1,
+      "explanation": "यह कविता टी. एस. एलियट के कविता संग्रह 'Old Possum's Book of Practical Cats' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-094",
+      "chapter": "Poetry - Fire-Hymn",
+      "question": "'Crossing of Rivers' is an important volume of verse written by",
+      "options": [
+        "Jayanta Mahapatra",
+        "Kamala Das",
+        "Keki N. Daruwala",
+        "Nissim Ezekiel"
+      ],
+      "answer": 2,
+      "explanation": "'Crossing of Rivers' प्रसिद्ध भारतीय अंग्रेजी कवि केकी एन. दारूवाला (Keki N. Daruwala) का एक महत्वपूर्ण काव्य संग्रह है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-095",
+      "chapter": "Poetry - Snake",
+      "question": "'He lifted his head from his drinking' is from",
+      "options": [
+        "Snake",
+        "Song of Myself",
+        "Ode to Autumn",
+        "An Epitaph"
+      ],
+      "answer": 0,
+      "explanation": "यह पंक्ति डी. एच. लॉरेंस की कविता 'Snake' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-096",
+      "chapter": "Story of English - American Literature",
+      "question": "Who wrote 'Huckleberry Finn'?",
+      "options": [
+        "Herman Melville",
+        "Henry James",
+        "Ernest Hemingway",
+        "Mark Twain"
+      ],
+      "answer": 3,
+      "explanation": "प्रसिद्ध उपन्यास 'द एडवेंचर्स ऑफ हकलबेरी फिन' (Huckleberry Finn) की रचना अमेरिकी लेखक मार्क ट्वेन (Mark Twain) ने की थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-097",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "Who wrote the piece, 'Why I am Not a Christian'?",
+      "options": [
+        "Bertrand Russell",
+        "Shiga Naoya",
+        "Dorothy L. Sayers",
+        "Pearl S. Buck"
+      ],
+      "answer": 0,
+      "explanation": "'Why I Am Not a Christian' प्रसिद्ध दार्शनिक बर्ट्रेंड रसेल (Bertrand Russell) द्वारा लिखित एक चर्चित कृति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-098",
+      "chapter": "Prose - The Artist",
+      "question": "Seibei was passionately interested in",
+      "options": [
+        "baskets",
+        "carrots",
+        "Gourds",
+        "potatoes"
+      ],
+      "answer": 2,
+      "explanation": "'The Artist' कहानी के मुख्य पात्र सेबेई को लौकी/तुम्बी (Gourds) इकट्ठा करने में गहरी रुचि थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-099",
+      "chapter": "Prose - A Child is Born",
+      "question": "All technological changes cause ............. problems.",
+      "options": [
+        "social",
+        "behavioural",
+        "industrial",
+        "personal"
+      ],
+      "answer": 0,
+      "explanation": "जर्मेन ग्रीर के निबंध 'A Child is Born' के अनुसार सभी तकनीकी परिवर्तन सामाजिक समस्याओं (social problems) को जन्म देते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2021-100",
+      "chapter": "Prose - The Earth",
+      "question": "Benjy understood about the business of",
+      "options": [
+        "education",
+        "hens",
+        "homes",
+        "fruits"
+      ],
+      "answer": 1,
+      "explanation": "एच. ई. बेट्स की कहानी 'The Earth' में बेंजी मुर्गियों (hens) के व्यवसाय के बारे में सब कुछ समझता था।",
+      "marks": 1
+    }
+  ]
+}

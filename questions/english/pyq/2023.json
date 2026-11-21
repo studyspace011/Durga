@@ -1,0 +1,1408 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "year": 2023,
+  "exam": "Bihar Board Intermediate Examination",
+  "questions": [
+    {
+      "id": "eng-2023-001",
+      "chapter": "Prepositions",
+      "question": "Which state did Mahatma Gandhi belong ........? (Choose the correct option)",
+      "options": [
+        "of",
+        "from",
+        "to",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "किसी स्थान या राज्य से संबंधित होने के अर्थ में 'belong' क्रिया के साथ हमेशा 'to' Preposition का प्रयोग होता है ('belong to')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-002",
+      "chapter": "Tense",
+      "question": "My sister ........ as a steno in the past. (Choose the correct option)",
+      "options": [
+        "works",
+        "working",
+        "worked",
+        "have worked"
+      ],
+      "answer": 2,
+      "explanation": "वाक्य में 'in the past' भूतकाल को दर्शाता है, इसलिए Simple Past Tense में क्रिया के दूसरे रूप (V2 - 'worked') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-003",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I asked her for chocolates, but she didn't had any",
+        "I asked for chocolates, but she didn't had none",
+        "I asked her for chocolates, but she didn't none",
+        "I asked her for chocolates, but she didn't have any"
+      ],
+      "answer": 3,
+      "explanation": "'didn't' के बाद हमेशा क्रिया का पहला रूप ('have') आता है तथा नकारात्मक वाक्य में 'any' का प्रयोग शुद्ध होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-004",
+      "chapter": "Subject-Verb Agreement",
+      "question": "We ........ almost ready. (Choose the correct option)",
+      "options": [
+        "am",
+        "is",
+        "was",
+        "are"
+      ],
+      "answer": 3,
+      "explanation": "बहुवचन कर्ता 'We' के साथ वर्तमान काल में सहायक क्रिया 'are' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-005",
+      "chapter": "Kinds of Sentences",
+      "question": "What type of sentence is this? We'll really miss the bus!",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Exclamatory",
+        "Imperative"
+      ],
+      "answer": 2,
+      "explanation": "वाक्य के अंत में विस्मयादिबोधक चिह्न (!) लगा है और यह तीव्र भावना व्यक्त कर रहा है, इसलिए यह Exclamatory sentence है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-006",
+      "chapter": "Adverbs",
+      "question": "The story is .......... (Choose the correct option)",
+      "options": [
+        "too good",
+        "only good",
+        "very good",
+        "already good"
+      ],
+      "answer": 2,
+      "explanation": "सकारात्मक गुण ('good') की तीव्रता बढ़ाने के लिए सामान्यतः 'very' का प्रयोग किया जाता है ('too' का प्रयोग नकारात्मक अतिशयता के लिए होता है)।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-007",
+      "chapter": "One Word Substitution",
+      "question": "A poem written on the death of loved one is known as .......... (Choose the correct option)",
+      "options": [
+        "Ode",
+        "Epic",
+        "Sonnet",
+        "Elegy"
+      ],
+      "answer": 3,
+      "explanation": "किसी प्रियजन की मृत्यु पर लिखे गए शोकगीत को अंग्रेजी साहित्य में 'Elegy' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-008",
+      "chapter": "Verb Forms",
+      "question": "I have to ........... to the finish line and back. (Choose the correct option)",
+      "options": [
+        "run away",
+        "run out of",
+        "run",
+        "run on"
+      ],
+      "answer": 2,
+      "explanation": "'have to' के बाद Infinitive के रूप में मुख्य क्रिया 'run' का प्रयोग वाक्य को पूर्ण और सार्थक बनाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-009",
+      "chapter": "Idioms & Phrases",
+      "question": "Blow his own trumpet means: (Choose the correct meaning)",
+      "options": [
+        "flatter",
+        "discuss",
+        "praise others",
+        "praise one's own self"
+      ],
+      "answer": 3,
+      "explanation": "'Blow one's own trumpet' मुहावरे का अर्थ 'अपने मुँह मियाँ मिट्ठू बनना' या अपनी प्रशंसा स्वयं करना (praise one's own self) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-010",
+      "chapter": "Spelling Test",
+      "question": "Choose the correct spelling:",
+      "options": [
+        "Animate",
+        "Anumete",
+        "Anemate",
+        "Aniumate"
+      ],
+      "answer": 0,
+      "explanation": "सही अंग्रेजी वर्तनी 'Animate' (सजीव/चेतन) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-011",
+      "chapter": "Relative Pronouns",
+      "question": "The girl ........ you saw was Sohan's sister. (Choose the correct option)",
+      "options": [
+        "whom",
+        "what",
+        "which",
+        "when"
+      ],
+      "answer": 0,
+      "explanation": "सजीव संज्ञा ('The girl') के लिए कर्म कारक (Objective case) के रूप में Relative Pronoun 'whom' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-012",
+      "chapter": "Conjunctions",
+      "question": "She is wise ........... timid. (Choose the correct option)",
+      "options": [
+        "an",
+        "yet",
+        "but",
+        "however"
+      ],
+      "answer": 2,
+      "explanation": "दो विपरीत गुणों ('wise' और 'timid') को जोड़ने के लिए विरोधाभासी संयोजक 'but' का प्रयोग सबसे उपयुक्त है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-013",
+      "chapter": "Voice (Active & Passive)",
+      "question": "A doctor should examine him. (Choose the correct passive voice)",
+      "options": [
+        "He should be examined by a doctor",
+        "A doctor must examine him",
+        "Examined he must be by a doctor",
+        "Doctor should be examining him"
+      ],
+      "answer": 0,
+      "explanation": "Modal verb ('should') वाले वाक्य का Passive Voice 'Object + should + be + V3 + by + Subject' के नियम से बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-014",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "Meeta said, \"She will sing a song\". (Choose the correct indirect narration)",
+      "options": [
+        "Meeta says that she can sing a song",
+        "Meeta said that she will be singing a song",
+        "Meeta said that she would sing a song",
+        "Meeta requested that she wanted to sing a song"
+      ],
+      "answer": 2,
+      "explanation": "Reporting verb ('said') Past Tense में होने के कारण Indirect Speech में 'will' बदलकर 'would' हो जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-015",
+      "chapter": "Antonyms",
+      "question": "The antonym of 'Occupied' is",
+      "options": [
+        "Vacant",
+        "Resurrect",
+        "Loose",
+        "Exit"
+      ],
+      "answer": 0,
+      "explanation": "'Occupied' (भरा हुआ/अधिकृत) का विलोम शब्द 'Vacant' (रिक्त/खाली) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-016",
+      "chapter": "Tense & Auxiliary Verbs",
+      "question": "Do you ........ anything? (Choose the correct option)",
+      "options": [
+        "needed",
+        "needing",
+        "need",
+        "will need"
+      ],
+      "answer": 2,
+      "explanation": "सहायक क्रिया 'Do' के बाद हमेशा मुख्य क्रिया के पहले रूप (V1 - 'need') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-017",
+      "chapter": "Adverbs & Vocabulary",
+      "question": "Sushil kept walking ...... (Choose the correct option)",
+      "options": [
+        "forward",
+        "upward",
+        "hither",
+        "thither"
+      ],
+      "answer": 0,
+      "explanation": "आगे की ओर चलते रहने के अर्थ में 'walking forward' एक स्वाभाविक और सार्थक अभिव्यक्ति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-018",
+      "chapter": "Auxiliary Verbs & Tense",
+      "question": "........ you decided yet? (Choose the correct option)",
+      "options": [
+        "Has",
+        "Do",
+        "Did",
+        "Have"
+      ],
+      "answer": 3,
+      "explanation": "'Yet' और क्रिया के तीसरे रूप ('decided') के साथ बहुवचन/मध्यम पुरुष कर्ता 'you' के लिए 'Have' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-019",
+      "chapter": "Adverbs & Determiners",
+      "question": "We're getting ...... away from the central idea. (Choose the correct option)",
+      "options": [
+        "farther",
+        "either",
+        "neither",
+        "other"
+      ],
+      "answer": 0,
+      "explanation": "दिए गए विकल्पों में मुख्य विचार से दूर जाने की तुलनात्मक स्थिति दर्शाने के लिए 'farther' ही एकमात्र उपयुक्त विकल्प है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-020",
+      "chapter": "Determiners",
+      "question": "Don't eat so ............ chocolates or you will get fat. (Choose the correct option)",
+      "options": [
+        "many",
+        "some",
+        "much",
+        "any"
+      ],
+      "answer": 0,
+      "explanation": "'Chocolates' एक बहुवचन गणनीय संज्ञा (Plural Countable Noun) है, इसलिए संख्या दर्शाने के लिए 'many' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-021",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "........ you ride your bicycle up to that hill? (Choose the correct option)",
+      "options": [
+        "Can",
+        "Should",
+        "May",
+        "Might"
+      ],
+      "answer": 0,
+      "explanation": "शारीरिक क्षमता या सामर्थ्य पूछने के लिए Modal Auxiliary 'Can' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-022",
+      "chapter": "Prepositions",
+      "question": "Everybody wanted to come here ..... time. (Choose the correct option)",
+      "options": [
+        "by",
+        "for",
+        "in",
+        "at"
+      ],
+      "answer": 2,
+      "explanation": "समय रहते या समय के भीतर पहुँचने के अर्थ में 'in time' वाक्यांश का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-023",
+      "chapter": "Subject-Verb Agreement",
+      "question": "Mike and Hero ............ from Japan. (Choose the correct option)",
+      "options": [
+        "are",
+        "is",
+        "am",
+        "was"
+      ],
+      "answer": 0,
+      "explanation": "दो अलग-अलग व्यक्ति ('Mike and Hero') 'and' से जुड़कर बहुवचन कर्ता बनाते हैं, अतः बहुवचन क्रिया 'are' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-024",
+      "chapter": "Combination of Sentences",
+      "question": "I tried my best. I couldn't pass the test. (Choose the best combination)",
+      "options": [
+        "I tried my best; still I wasn't pass the test",
+        "I tried my best; still I couldn't pass the test",
+        "I tried my best; still I won't pass the test",
+        "I tried my best; still I wouldn't pass the test"
+      ],
+      "answer": 1,
+      "explanation": "दोनों वाक्यों का काल (Past Tense) समान रखते हुए विरोधाभासी संयोजक 'still' से जोड़ने पर 'I tried my best; still I couldn't pass the test' सही बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-025",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word",
+      "options": [
+        "Bouquete",
+        "Bouquet",
+        "Beuquete",
+        "Bouquette"
+      ],
+      "answer": 1,
+      "explanation": "सही अंग्रेजी वर्तनी 'Bouquet' (फूलों का गुलदस्ता) होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-026",
+      "chapter": "Idioms & Phrases",
+      "question": "Your result is not ............ (Choose the correct option)",
+      "options": [
+        "up to the mark",
+        "tooth and nail",
+        "easy to crack",
+        "up to date"
+      ],
+      "answer": 0,
+      "explanation": "'Up to the mark' एक मुहावरा है जिसका अर्थ 'अपेक्षित स्तर या मानक के अनुरूप' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-027",
+      "chapter": "Articles",
+      "question": ".......... Alps are the longest mountain range in Europe. (Choose the correct option)",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "answer": 2,
+      "explanation": "पर्वत श्रृंखलाओं (Mountain ranges) के नाम से पहले हमेशा Definite Article 'The' का प्रयोग किया जाता है ('The Alps')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-028",
+      "chapter": "Question Tags",
+      "question": "They will wash the car ............? (Choose the correct option)",
+      "options": [
+        "will it",
+        "won't they",
+        "wouldn't they",
+        "couldn't they"
+      ],
+      "answer": 1,
+      "explanation": "सकारात्मक वाक्य ('They will wash') का नकारात्मक Question Tag 'won't they' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-029",
+      "chapter": "Prepositions",
+      "question": "The train leaves .......... 3 p.m. (Choose the correct option)",
+      "options": [
+        "over",
+        "to",
+        "at",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "घड़ी के निश्चित समय (3 p.m.) से पहले हमेशा 'at' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-030",
+      "chapter": "Homophones & Vocabulary",
+      "question": "They tried to ............. the painting. (Choose the correct option)",
+      "options": [
+        "steel",
+        "steale",
+        "still",
+        "steal"
+      ],
+      "answer": 3,
+      "explanation": "'Steal' का अर्थ 'चोरी करना' होता है, जबकि 'steel' एक धातु (इस्पात) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-031",
+      "chapter": "Homophones & Vocabulary",
+      "question": "I had an apple and a ............ for lunch. (Choose the correct option)",
+      "options": [
+        "pear",
+        "pair",
+        "pearce",
+        "pierce"
+      ],
+      "answer": 0,
+      "explanation": "'Pear' एक फल (नाशपाती) का नाम है, जबकि 'pair' का अर्थ जोड़ा होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-032",
+      "chapter": "Synonyms",
+      "question": "Choose the correct synonym of 'Ancestors'",
+      "options": [
+        "Extinct tribes",
+        "Relatives",
+        "Forefathers",
+        "Old people"
+      ],
+      "answer": 2,
+      "explanation": "'Ancestors' (पूर्वज) का सटीक समानार्थी शब्द 'Forefathers' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-033",
+      "chapter": "Antonyms",
+      "question": "Choose the correct antonym of 'Inferior'",
+      "options": [
+        "Excellent",
+        "Superior",
+        "Supportive",
+        "Exterior"
+      ],
+      "answer": 1,
+      "explanation": "'Inferior' (निम्न/घटिया) का विलोम शब्द 'Superior' (श्रेष्ठ/उच्च) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-034",
+      "chapter": "Tense",
+      "question": "The moon has not yet .......... (Choose the correct option)",
+      "options": [
+        "appears",
+        "will have appeared",
+        "appearing",
+        "appeared"
+      ],
+      "answer": 3,
+      "explanation": "Present Perfect Tense में 'has' के बाद हमेशा क्रिया के तीसरे रूप (V3 - 'appeared') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-035",
+      "chapter": "Subject-Verb Agreement",
+      "question": "You and I ........... the obligations. (Choose the correct option)",
+      "options": [
+        "am fulfilled",
+        "has been fulfilling",
+        "have fulfilled",
+        "has fulfilled"
+      ],
+      "answer": 2,
+      "explanation": "'You and I' मिलकर बहुवचन कर्ता बनाते हैं, इसलिए Active Voice में बहुवचन सहायक क्रिया 'have fulfilled' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-036",
+      "chapter": "Prepositions",
+      "question": "He killed a tiger .......... a rifle. (Choose the correct option)",
+      "options": [
+        "by",
+        "with",
+        "from",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "किसी हथियार या औजार (rifle) के माध्यम से कार्य करने पर 'with' Preposition का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-037",
+      "chapter": "Articles",
+      "question": "I haven't seen him in ............ five years. (Choose the correct option)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 3,
+      "explanation": "संख्यात्मक विशेषण ('five') से युक्त सामान्य समय अवधि ('five years') से पहले किसी आर्टिकल की आवश्यकता नहीं होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-038",
+      "chapter": "Prepositions",
+      "question": "The thief had been hiding ......... the table. (Choose the correct option)",
+      "options": [
+        "below",
+        "under",
+        "down",
+        "inside"
+      ],
+      "answer": 1,
+      "explanation": "किसी वस्तु (जैसे मेज) के ठीक नीचे छिपने या स्थित होने के लिए 'under' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-039",
+      "chapter": "One Word Substitution",
+      "question": "The government by the representatives of the people is called ....... (Choose the correct option)",
+      "options": [
+        "Autocracy",
+        "Democracy",
+        "Socialism",
+        "Anarchy"
+      ],
+      "answer": 1,
+      "explanation": "जनता के प्रतिनिधियों द्वारा संचालित शासन व्यवस्था को 'Democracy' (लोकतंत्र) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-040",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "Bicyclists ....... remember to signal when they turn. (Choose the correct option)",
+      "options": [
+        "mustn't",
+        "has to",
+        "had to do",
+        "must"
+      ],
+      "answer": 3,
+      "explanation": "सड़क सुरक्षा नियमों के अनिवार्य पालन पर जोर देने के लिए 'must' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-041",
+      "chapter": "Tense & Auxiliary Verbs",
+      "question": "Did you ........... this colour? (Choose the correct option)",
+      "options": [
+        "choosing",
+        "choose",
+        "chooses",
+        "chose"
+      ],
+      "answer": 1,
+      "explanation": "सहायक क्रिया 'Did' के साथ हमेशा मुख्य क्रिया के पहले रूप (V1 - 'choose') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-042",
+      "chapter": "Combination of Sentences",
+      "question": "He hurt his foot. He stopped. (Choose the correct combination)",
+      "options": [
+        "He hurt his foot and stopped",
+        "Stopped because he had hurt his foot",
+        "Hurting his foot, he stopped",
+        "Stopped as he hurt his foot"
+      ],
+      "answer": 0,
+      "explanation": "दो क्रमिक घटनाओं को संयोजक 'and' से जोड़ने पर 'He hurt his foot and stopped' सबसे सरल और शुद्ध वाक्य बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-043",
+      "chapter": "Parts of Speech (Adjectives)",
+      "question": "The young man has grey hair. (Choose the correct adjective in the sentence)",
+      "options": [
+        "Has",
+        "Man",
+        "Grey",
+        "Hair"
+      ],
+      "answer": 2,
+      "explanation": "इस वाक्य में 'Grey' शब्द संज्ञा 'hair' का रंग (विशेषता) बता रहा है, इसलिए यह एक Adjective है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-044",
+      "chapter": "Transformation of Sentences",
+      "question": "Has anyone seen the wind? (Choose the correct Assertive sentence)",
+      "options": [
+        "No one has seen the wind",
+        "Wind has no one seen",
+        "Seen no one wind",
+        "Has seen no one wind"
+      ],
+      "answer": 0,
+      "explanation": "सकारात्मक प्रश्नवाचक वाक्य (Rhetorical question) को साधारण वाक्य (Assertive) में बदलते समय नकारात्मक रूप ('No one has seen the wind') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-045",
+      "chapter": "Phrasal Verbs",
+      "question": "Turn the ............. before starting the meeting. (Choose the correct option)",
+      "options": [
+        "lights on",
+        "lights up",
+        "lights by",
+        "lights off"
+      ],
+      "answer": 0,
+      "explanation": "बैठक शुरू करने से पहले बत्ती जलाने (चालू करने) के लिए 'turn the lights on' वाक्यांश का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-046",
+      "chapter": "Articles",
+      "question": "How much weight can ............... ant carry? (Choose the correct option)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 1,
+      "explanation": "'Ant' स्वर ध्वनि ('ऐ') से शुरू होने वाली एकवचन गणनीय संज्ञा है, अतः इससे पहले अनिश्चित आर्टिकल 'an' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-047",
+      "chapter": "Prepositions",
+      "question": "The storehouse was infested .......... rats. (Choose the correct option)",
+      "options": [
+        "of",
+        "with",
+        "about",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "कीड़ों या चूहों आदि से भरे होने के अर्थ में 'infested with' एक निश्चित Prepositional अभिव्यक्ति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-048",
+      "chapter": "Verb Forms (Past Participle)",
+      "question": "I don't know how the money I kept in my wallet got ........ (Choose the correct option)",
+      "options": [
+        "stolen",
+        "steal",
+        "stole",
+        "stealed"
+      ],
+      "answer": 0,
+      "explanation": "Passive अर्थ में 'got' के बाद मुख्य क्रिया के तीसरे रूप (Past Participle - 'stolen') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-049",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "Choose the correct sentence",
+      "options": [
+        "What might have happened to the boy?",
+        "What might has happened to the boy?",
+        "What might has happening to the boy?",
+        "What may has happened to the boy?"
+      ],
+      "answer": 0,
+      "explanation": "Modal verb ('might') के बाद हमेशा मूल रूप 'have + V3' ('might have happened') का प्रयोग होता है, 'has' का नहीं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-050",
+      "chapter": "Tense",
+      "question": "Shah Jahan ........... the Taj Mahal. (Choose the correct option)",
+      "options": [
+        "builded",
+        "will build",
+        "building",
+        "built"
+      ],
+      "answer": 3,
+      "explanation": "ऐतिहासिक भूतकाल की घटना को व्यक्त करने के लिए 'build' का दूसरा रूप (V2 - 'built') प्रयुक्त होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-051",
+      "chapter": "Prepositions",
+      "question": "There were several policemen .......... duty. (Choose the correct preposition)",
+      "options": [
+        "to",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "कार्यरत या ड्यूटी पर होने के संदर्भ में मानक वाक्यांश 'on duty' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-052",
+      "chapter": "Pronouns",
+      "question": "Can ............ talk for a minute? (Choose the correct option)",
+      "options": [
+        "him",
+        "her",
+        "we",
+        "them"
+      ],
+      "answer": 2,
+      "explanation": "सहायक क्रिया 'Can' के बाद कर्ता कारक (Subjective case) के सर्वनाम 'we' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-053",
+      "chapter": "Non-Finite Verbs (Gerund)",
+      "question": "Why don't you try ......... it with a hammer? (Choose the correct option)",
+      "options": [
+        "hit",
+        "having hit",
+        "hitting",
+        "to be hitting"
+      ],
+      "answer": 2,
+      "explanation": "प्रयोग के तौर पर कोई उपाय आज़माने के अर्थ में 'try' के बाद Gerund (V4 - 'hitting') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-054",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "He requested me to keep the door open. (Choose the correct direct narration)",
+      "options": [
+        "He said to me, \"Please keep the door open\".",
+        "He says, \"Keep the door open.\"",
+        "He will say, \"Keep the door open.\"",
+        "He said, \"Do not keep the door open.\""
+      ],
+      "answer": 0,
+      "explanation": "Indirect वाक्य में 'requested me' होने के कारण Direct Speech में 'said to me' के साथ विनम्र शब्द 'Please' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-055",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "My mother forbade me not to go out",
+        "My mother forbade me not go out",
+        "My mother forbade do not go out",
+        "My mother forbade me to go out"
+      ],
+      "answer": 3,
+      "explanation": "'Forbade' (मना किया) स्वयं एक नकारात्मक क्रिया है, इसलिए इसके साथ पुनः 'not' का प्रयोग नहीं होता ('forbade me to go out')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-056",
+      "chapter": "Antonyms",
+      "question": "Choose the correct antonym of 'Stagnant':",
+      "options": [
+        "Progress",
+        "Static",
+        "Mobile",
+        "Affluent"
+      ],
+      "answer": 2,
+      "explanation": "'Stagnant' (स्थिर/ठहरा हुआ) का विलोम शब्द 'Mobile' (गतिशील/चलता हुआ) होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-057",
+      "chapter": "Relative Pronouns",
+      "question": "Ashish is the man ....... son won the scholarship. (Choose the correct option)",
+      "options": [
+        "who",
+        "whose",
+        "where",
+        "whom"
+      ],
+      "answer": 1,
+      "explanation": "संबंध या अधिकार (जिसका बेटा) व्यक्त करने के लिए Relative Pronoun 'whose' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-058",
+      "chapter": "Subject-Verb Agreement",
+      "question": "The new market ......... everything. (Choose the correct option)",
+      "options": [
+        "is",
+        "was",
+        "have",
+        "has"
+      ],
+      "answer": 3,
+      "explanation": "एकवचन कर्ता 'The new market' के साथ स्वामित्व या उपलब्धता दर्शाने के लिए एकवचन क्रिया 'has' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-059",
+      "chapter": "Vocabulary (Odd One Out)",
+      "question": "Choose the odd one out:",
+      "options": [
+        "Pen",
+        "Marker",
+        "Paper",
+        "Pencil"
+      ],
+      "answer": 2,
+      "explanation": "Pen, Marker और Pencil लिखने के उपकरण हैं, जबकि 'Paper' (कागज) लिखने का आधार है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-060",
+      "chapter": "Vocabulary & Word Usage",
+      "question": "When you feel exhausted, you should ........ (Choose the correct option)",
+      "options": [
+        "hurry",
+        "run",
+        "sleep",
+        "eat"
+      ],
+      "answer": 2,
+      "explanation": "'Exhausted' का अर्थ अत्यधिक थका हुआ होता है, ऐसी स्थिति में व्यक्ति को सोना या आराम करना ('sleep') चाहिए।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-061",
+      "chapter": "Poetry - The Soldier",
+      "question": "'The Soldier' is a ........... poem.",
+      "options": [
+        "nature",
+        "patriotic",
+        "love",
+        "happy"
+      ],
+      "answer": 1,
+      "explanation": "रुपर्ट ब्रुक द्वारा लिखित 'The Soldier' एक देशभक्तिपूर्ण (patriotic) कविता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-062",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "Macavity is called",
+      "options": [
+        "the Hidden Paw",
+        "the Mysterious Paw",
+        "the Exposed Paw",
+        "the Naughty Paw"
+      ],
+      "answer": 0,
+      "explanation": "टी. एस. एलियट की कविता में मैकाविटी बिल्ली को 'the Hidden Paw' (छिपा हुआ पंजा) कहा गया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-063",
+      "chapter": "Poetry - Fire-Hymn",
+      "question": "The ........ forgets its dead.",
+      "options": [
+        "man",
+        "animal",
+        "fire",
+        "wind"
+      ],
+      "answer": 2,
+      "explanation": "केकी एन. दारूवाला की कविता 'Fire-Hymn' के अनुसार अग्नि (fire) कभी-कभी अपने मृतकों को पूरी तरह भस्म करना भूल जाती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-064",
+      "chapter": "Poetry - Snake",
+      "question": "Who is the speaker in the poem 'Snake'?",
+      "options": [
+        "Donne",
+        "Whitman",
+        "Keats",
+        "Lawrence"
+      ],
+      "answer": 3,
+      "explanation": "'Snake' कविता के वक्ता स्वयं इसके कवि डी. एच. लॉरेंस (D.H. Lawrence) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-065",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "Bertrand Russell belonged to ......",
+      "options": [
+        "Italy",
+        "Germany",
+        "Britain",
+        "America"
+      ],
+      "answer": 2,
+      "explanation": "बर्ट्रेंड रसेल ब्रिटेन (Britain) के प्रसिद्ध दार्शनिक, गणितज्ञ और लेखक थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-066",
+      "chapter": "Prose - I Have a Dream",
+      "question": "\"I Have a Dream\" is part of ..............",
+      "options": [
+        "drama",
+        "novel",
+        "poem",
+        "speech"
+      ],
+      "answer": 3,
+      "explanation": "'I Have a Dream' मार्टिन लूथर किंग जूनियर द्वारा दिए गए एक ऐतिहासिक भाषण (speech) का अंश है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-067",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Manohar Malgaonkar's story is full of wit and ..........",
+      "options": [
+        "Humour",
+        "Tragedy",
+        "Adventure",
+        "Irony"
+      ],
+      "answer": 0,
+      "explanation": "मनोहर मालगांवकर की कहानी 'A Pinch of Snuff' वाक्पटुता और हास्य (wit and humour) से भरपूर है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-068",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "Who will make quicker journey than the sun?",
+      "options": [
+        "John Donne",
+        "Walt Whitman",
+        "W.H. Auden",
+        "John Keats"
+      ],
+      "answer": 0,
+      "explanation": "कविता 'Sweetest Love, I Do Not Goe' में कवि जॉन डन (John Donne) अपनी प्रेयसी से सूर्य की तुलना में अधिक तीव्र यात्रा कर लौट आने का वादा करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-069",
+      "chapter": "Poetry - My Grandmother's House",
+      "question": "\"There is a house now far away where once I received love\" is from",
+      "options": [
+        "Song of Myself",
+        "Ode to Autumn",
+        "My Grandmother's House",
+        "Snake"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति कमला दास द्वारा रचित कविता 'My Grandmother's House' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-070",
+      "chapter": "Poetry - The Soldier",
+      "question": "The term 'concealed' in \"The Soldier\" stands for",
+      "options": [
+        "hidden",
+        "disappeared",
+        "absent",
+        "mysterious"
+      ],
+      "answer": 0,
+      "explanation": "'The Soldier' कविता में 'concealed' शब्द का अर्थ 'छिपा हुआ' (hidden) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-071",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "According to Eliot, Macavity is the ... of crime.",
+      "options": [
+        "Hitler",
+        "Napoleon",
+        "Alexander",
+        "Osama"
+      ],
+      "answer": 1,
+      "explanation": "टी. एस. एलियट ने मैकाविटी बिल्ली को अपराध जगत का नेपोलियन ('Napoleon of crime') कहा है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-072",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "For Auden, poetry was a",
+      "options": [
+        "light game",
+        "interesting game",
+        "serious game",
+        "troublesome game"
+      ],
+      "answer": 2,
+      "explanation": "डब्ल्यू. एच. ऑडेन के लिए कविता एक गंभीर खेल ('serious game') थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-073",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "In no civilization have all men attained .....",
+      "options": [
+        "enmity",
+        "jealousy",
+        "perfection",
+        "education"
+      ],
+      "answer": 2,
+      "explanation": "महात्मा गांधी के निबंध 'Indian Civilization and Culture' के अनुसार किसी भी सभ्यता में सभी मनुष्यों ने पूर्णता (perfection) प्राप्त नहीं की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-074",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "Dr. Zakir Hussain was an eminent .......",
+      "options": [
+        "politician",
+        "philosopher",
+        "educationist",
+        "scientist"
+      ],
+      "answer": 2,
+      "explanation": "डॉ. ज़ाकिर हुसैन भारत के राष्ट्रपति होने के साथ-साथ एक प्रख्यात शिक्षाविद (educationist) थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-075",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Nanukaka managed to travel in 2nd class on a ticket of",
+      "options": [
+        "1st class",
+        "General class",
+        "Sleeper class",
+        "Third class"
+      ],
+      "answer": 3,
+      "explanation": "नानूकाका ने तृतीय श्रेणी (Third class) के टिकट पर द्वितीय श्रेणी (2nd class) में यात्रा करने का प्रबंध कर लिया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-076",
+      "chapter": "Prose - I Have a Dream",
+      "question": "My children will not be judged by the ............. of their skin.",
+      "options": [
+        "colour",
+        "food habits",
+        "education",
+        "culture"
+      ],
+      "answer": 0,
+      "explanation": "मार्टिन लूथर किंग जूनियर का सपना था कि उनके बच्चों का मूल्यांकन उनकी त्वचा के रंग (colour) से नहीं बल्कि उनके चरित्र से हो।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-077",
+      "chapter": "Story of English - Drama",
+      "question": "Who is considered the greatest English dramatist?",
+      "options": [
+        "Geoffrey Chaucer",
+        "Wycliff",
+        "William Langland",
+        "Shakespeare"
+      ],
+      "answer": 3,
+      "explanation": "विलियम शेक्सपियर (William Shakespeare) को अंग्रेजी साहित्य का महानतम नाटककार माना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-078",
+      "chapter": "Story of English - Indian English Literature",
+      "question": "Which is the first Indian Novel in English?",
+      "options": [
+        "Rajmohan's Wife",
+        "Raja Harischandra",
+        "Mahabharata",
+        "The English Teacher"
+      ],
+      "answer": 0,
+      "explanation": "बंकिम चंद्र चट्टोपाध्याय द्वारा लिखित 'Rajmohan's Wife' (1864) अंग्रेजी भाषा में पहला भारतीय उपन्यास है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-079",
+      "chapter": "Story of English - Middle English",
+      "question": "The Great Vowel Shift took place during ..........",
+      "options": [
+        "Modern English",
+        "Old English",
+        "Middle English",
+        "Post-modern English"
+      ],
+      "answer": 2,
+      "explanation": "Great Vowel Shift की भाषाई घटना मध्य अंग्रेजी काल (Middle English) के दौरान घटित हुई थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-080",
+      "chapter": "Story of English - Poetry",
+      "question": "\"The Romantic Revival\" is often associated with ......",
+      "options": [
+        "John Dryden",
+        "Alexander Pope",
+        "William Wordsworth",
+        "John Milton"
+      ],
+      "answer": 2,
+      "explanation": "अंग्रेजी कविता में 'Romantic Revival' (स्वच्छंदतावादी पुनरुत्थान) का संबंध विलियम वर्ड्सवर्थ से है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-081",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "John Donne thinks that ........ is certain.",
+      "options": [
+        "death",
+        "life",
+        "work",
+        "walking"
+      ],
+      "answer": 0,
+      "explanation": "जॉन डन का मानना है कि मृत्यु (death) निश्चित है, इसलिए अस्थायी वियोग से घबराना नहीं चाहिए।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-082",
+      "chapter": "Poetry - Ode to Autumn",
+      "question": "Keats was a .......... poet.",
+      "options": [
+        "Romantic",
+        "Victorian",
+        "Modern",
+        "Augustan"
+      ],
+      "answer": 0,
+      "explanation": "जॉन कीट्स (John Keats) अंग्रेजी साहित्य के एक प्रमुख स्वच्छंदतावादी (Romantic) कवि थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-083",
+      "chapter": "Story of English - Vocabulary",
+      "question": "What has enriched the vocabulary of English?",
+      "options": [
+        "Giving",
+        "Borrowing",
+        "Withdrawing",
+        "Depositing"
+      ],
+      "answer": 1,
+      "explanation": "अन्य भाषाओं से शब्दों को अपनाने या उधार लेने (Borrowing) की प्रवृत्ति ने अंग्रेजी के शब्द-भंडार को अत्यंत समृद्ध बनाया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-084",
+      "chapter": "Story of English - Poetry",
+      "question": "Who wrote 'Mac Flecknoe'?",
+      "options": [
+        "John Dryden",
+        "John Keats",
+        "Charles Dickens",
+        "Jane Austen"
+      ],
+      "answer": 0,
+      "explanation": "प्रसिद्ध व्यंग्य काव्य 'Mac Flecknoe' की रचना जॉन ड्राइडन (John Dryden) ने की थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-085",
+      "chapter": "Prose - The Earth",
+      "question": "Benjy left the school at ...............",
+      "options": [
+        "twenty",
+        "twelve",
+        "fourteen",
+        "sixteen"
+      ],
+      "answer": 2,
+      "explanation": "'The Earth' कहानी के अनुसार बेंजी ने चौदह (fourteen) वर्ष की आयु में स्कूल छोड़ दिया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-086",
+      "chapter": "Prose - India Through a Traveller's Eyes",
+      "question": "Buck had visited India ........",
+      "options": [
+        "to see the Taj Mahal",
+        "to see the Jama Masjid",
+        "to meet Gandhiji",
+        "to see and listen to two groups of Indian people"
+      ],
+      "answer": 3,
+      "explanation": "पर्ल एस. बक भारत के दो प्रमुख वर्गों (शहरी युवा बुद्धिजीवियों और ग्रामीण किसानों) को देखने और उनकी बातें सुनने के लिए भारत आई थीं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-087",
+      "chapter": "Prose - A Marriage Proposal",
+      "question": "Lomov asked for ............. hand in marriage.",
+      "options": [
+        "Matalia's",
+        "Satalia's",
+        "Natalia's",
+        "Ratalia's"
+      ],
+      "answer": 2,
+      "explanation": "लोमोव ने चुबुकोव की पुत्री नतालिया (Natalia's) का हाथ विवाह के लिए माँगा था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-088",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "India's glory is that it is ...........",
+      "options": [
+        "movable",
+        "immovable",
+        "ignorant",
+        "uncivilized"
+      ],
+      "answer": 1,
+      "explanation": "महात्मा गांधी के अनुसार भारत का गौरव यह है कि अपनी नींव पर अडिग और अटल (immovable) बना हुआ है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-089",
+      "chapter": "Story of English - Middle English",
+      "question": "........ was a dominant influence on Middle English.",
+      "options": [
+        "Latin",
+        "Sanskrit",
+        "Scandinavian",
+        "Greek"
+      ],
+      "answer": 0,
+      "explanation": "मध्य अंग्रेजी (Middle English) के विकास पर फ्रेंच और लैटिन (Latin) भाषाओं का प्रमुख प्रभाव था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-090",
+      "chapter": "Story of English - Old English",
+      "question": "The literature of the Anglo-Saxons is of ........... types.",
+      "options": [
+        "Political",
+        "Religious",
+        "Comedy",
+        "Sentimental"
+      ],
+      "answer": 1,
+      "explanation": "एंग्लो-सैक्सन (Old English) काल का अधिकांश साहित्य धार्मिक (Religious) प्रकृति का था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-091",
+      "chapter": "Story of English - Old English",
+      "question": "The history of English began with the coming of the ........ from Europe to mainland Britain.",
+      "options": [
+        "Anglo-Saxons",
+        "French tribes",
+        "Indian tribes",
+        "American tribes"
+      ],
+      "answer": 0,
+      "explanation": "अंग्रेजी भाषा का इतिहास 5वीं शताब्दी में यूरोप से ब्रिटेन की मुख्य भूमि पर एंग्लो-सैक्सन (Anglo-Saxons) जनजातियों के आगमन के साथ शुरू हुआ।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-092",
+      "chapter": "Story of English - Drama",
+      "question": "One who writes a drama is called ..",
+      "options": [
+        "Essayist",
+        "Novelist",
+        "Comedian",
+        "Playwright"
+      ],
+      "answer": 3,
+      "explanation": "नाटक लिखने वाले व्यक्ति को नाटककार या 'Playwright' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-093",
+      "chapter": "Poetry - Song of Myself",
+      "question": "\"And what I assume you shall assume\" is taken from .......",
+      "options": [
+        "Song of Myself",
+        "An Epitaph",
+        "The Soldier",
+        "Fire-Hymn"
+      ],
+      "answer": 0,
+      "explanation": "यह पंक्ति वाल्ट व्हिटमैन की कविता 'Song of Myself' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-094",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "According to Auden, human life is no better than ........",
+      "options": [
+        "dream",
+        "death",
+        "journey",
+        "sleep"
+      ],
+      "answer": 1,
+      "explanation": "डब्ल्यू. एच. ऑडेन की कविता 'Now the Leaves Are Falling Fast' के अनुसार मानवीय जीवन मृत्यु (death) से बेहतर नहीं है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-095",
+      "chapter": "Poetry - Ode to Autumn",
+      "question": "In .............. new leaves and fruits come out on trees.",
+      "options": [
+        "Spring",
+        "Autumn",
+        "Summer",
+        "Winter"
+      ],
+      "answer": 0,
+      "explanation": "वसंत ऋतु (Spring) में पेड़ों पर नई पत्तियाँ और फल निकलते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-096",
+      "chapter": "Poetry - An Epitaph",
+      "question": "\"And when I crumble, who will remember\" is written by",
+      "options": [
+        "John Keats",
+        "John Donne",
+        "Rupert Brooke",
+        "Walter de la Mare"
+      ],
+      "answer": 3,
+      "explanation": "यह पंक्ति वाल्टर डे ला मेयर (Walter de la Mare) की कविता 'An Epitaph' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-097",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "The two kinds of ideas which contributed most to the mankind were knowledge and technique and .......",
+      "options": [
+        "moral and values",
+        "morals and politics",
+        "moral and inventions",
+        "moral and wisdom"
+      ],
+      "answer": 1,
+      "explanation": "बर्ट्रेंड रसेल के अनुसार मानव जाति की प्रगति में सर्वाधिक योगदान देने वाले दो प्रकार के विचार हैं: ज्ञान एवं तकनीक (knowledge and technique) तथा नैतिकता एवं राजनीति (morals and politics)।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-098",
+      "chapter": "Prose - The Artist",
+      "question": "One day, Seibei was caught red-handed by his ............... teacher",
+      "options": [
+        "Hindi",
+        "Mathematics",
+        "Ethics",
+        "Science"
+      ],
+      "answer": 2,
+      "explanation": "कक्षा में लौकी पॉलिश करते हुए सेबेई को उसके नीतिशास्त्र (Ethics) के शिक्षक ने रंगे हाथों पकड़ लिया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-099",
+      "chapter": "Prose - A Child is Born",
+      "question": "In a traditional society, a woman is known as the mother of her first born child, but the west regards it as .....",
+      "options": [
+        "good",
+        "beneficial",
+        "outrageous",
+        "funny"
+      ],
+      "answer": 2,
+      "explanation": "जर्मेन ग्रीर के निबंध 'A Child is Born' के अनुसार पश्चिमी समाज इस परंपरा को अपमानजनक या अनुचित (outrageous) मानता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2023-100",
+      "chapter": "Prose - How Free is the Press",
+      "question": "The state is the ...........",
+      "options": [
+        "master of the people",
+        "servant of the people",
+        "exploiter of the people",
+        "promoter of the people"
+      ],
+      "answer": 1,
+      "explanation": "डोरोथी एल. सेयर्स के निबंध के अनुसार स्वतंत्र लोकतंत्र में राज्य जनता का सेवक (servant of the people) होता है, न कि स्वामी।",
+      "marks": 1
+    }
+  ]
+}

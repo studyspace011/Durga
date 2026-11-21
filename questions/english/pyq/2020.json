@@ -1,0 +1,848 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "year": 2020,
+  "exam": "Bihar Board Intermediate Examination",
+  "questions": [
+    {
+      "id": "eng-2020-001",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "She ...... be above forty. (Choose the correct verb)",
+      "options": [
+        "will",
+        "needs",
+        "used to",
+        "ought"
+      ],
+      "answer": 0,
+      "explanation": "अनुमान या संभावना (आयु के संदर्भ में) व्यक्त करने के लिए सहायक क्रिया 'will' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-002",
+      "chapter": "Prepositions",
+      "question": "Who is the person ...... this picture? (Choose the correct preposition)",
+      "options": [
+        "at",
+        "by",
+        "over",
+        "in"
+      ],
+      "answer": 3,
+      "explanation": "किसी तस्वीर या फोटो के भीतर किसी व्यक्ति की उपस्थिति दर्शाने के लिए 'in' Preposition का प्रयोग होता है ('in this picture')।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-003",
+      "chapter": "Articles",
+      "question": "Please give me .......... cake that is on the table. (Choose the correct article)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": 2,
+      "explanation": "यहाँ एक निश्चित केक (जो मेज पर रखा है) की बात हो रही है, इसलिए Definite Article 'the' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-004",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence",
+      "options": [
+        "I do not like coffee",
+        "I no like coffee",
+        "I had no like coffee",
+        "I will no like coffee"
+      ],
+      "answer": 0,
+      "explanation": "Simple Present Tense में नकारात्मक वाक्य बनाने के लिए कर्ता 'I' के साथ 'do not + V1' ('I do not like coffee') का प्रयोग शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-005",
+      "chapter": "Tense",
+      "question": "The teacher ......... the lesson yesterday. (Choose the correct option)",
+      "options": [
+        "teaches",
+        "taught",
+        "will teach",
+        "has taught"
+      ],
+      "answer": 1,
+      "explanation": "वाक्य में 'yesterday' भूतकाल का सूचक है, इसलिए Simple Past Tense में क्रिया के दूसरे रूप (V2 - 'taught') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-006",
+      "chapter": "Combination of Sentences / Conditionals",
+      "question": "It may rain. We will get wet. (Choose the correct combination)",
+      "options": [
+        "If it will rain, we get wet",
+        "Had it rained, we get wet",
+        "If it rains, we will get wet",
+        "If it may rain, we get wet"
+      ],
+      "answer": 2,
+      "explanation": "First Conditional वाक्य की मानक संरचना 'If + Simple Present (it rains), Subject + will + V1 (we will get wet)' होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-007",
+      "chapter": "Tense",
+      "question": "Please be quiet. I ......... my homework. (Choose the best option)",
+      "options": [
+        "is doing",
+        "will doing",
+        "am doing",
+        "are doing"
+      ],
+      "answer": 2,
+      "explanation": "बोलते समय जारी कार्य को दर्शाने के लिए Present Continuous Tense का प्रयोग होता है; कर्ता 'I' के साथ 'am doing' सही है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-008",
+      "chapter": "Tense",
+      "question": "Rita ......... to the radio. (Choose the correct option)",
+      "options": [
+        "is listening",
+        "has listening",
+        "am listening",
+        "had listening"
+      ],
+      "answer": 0,
+      "explanation": "एकवचन कर्ता 'Rita' के साथ Present Continuous Tense में 'is + V4' ('is listening') का प्रयोग व्याकरणिक रूप से शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-009",
+      "chapter": "Voice (Active & Passive)",
+      "question": "The cat is eating the fish. (Choose the correct Passive voice)",
+      "options": [
+        "The fish is being eaten by the cat",
+        "The fish was eat by the cat",
+        "The cat is ate by the fish",
+        "The cat had eaten the fish"
+      ],
+      "answer": 0,
+      "explanation": "Present Continuous Tense के वाक्य का Passive Voice 'Object + is/am/are + being + V3 + by + Subject' के नियम से बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-010",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word",
+      "options": [
+        "Vitamin",
+        "Vitimin",
+        "Vetamin",
+        "Vitemin"
+      ],
+      "answer": 0,
+      "explanation": "सही अंग्रेजी वर्तनी 'Vitamin' होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-011",
+      "chapter": "Tense",
+      "question": "He ......... classical music for four hours everyday. (Choose the correct option)",
+      "options": [
+        "practises",
+        "practise",
+        "is practise",
+        "was practice"
+      ],
+      "answer": 0,
+      "explanation": "'Everyday' नियमित आदत को दर्शाता है, इसलिए एकवचन कर्ता 'He' के साथ Simple Present Tense में क्रिया का पाँचवाँ रूप ('practises') लगेगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-012",
+      "chapter": "Non-Finite Verbs (Participle)",
+      "question": "The mother sat in a corner ........ her son take his baby steps. (Choose the best option)",
+      "options": [
+        "watched",
+        "watching",
+        "watch",
+        "to watch"
+      ],
+      "answer": 1,
+      "explanation": "बैठने के साथ-साथ जारी दूसरी क्रिया को दर्शाने के लिए Present Participle ('watching') का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-013",
+      "chapter": "Pronouns & Determiners",
+      "question": "Choose the correct sentence",
+      "options": [
+        "Either of three men can do it.",
+        "Any of the three men can do it.",
+        "Either of the three men can do it.",
+        "Any of three men can do it."
+      ],
+      "answer": 1,
+      "explanation": "दो से अधिक व्यक्तियों या वस्तुओं में से किसी एक के चुनाव के लिए 'Either' के स्थान पर 'Any of the' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-014",
+      "chapter": "Voice (Active & Passive)",
+      "question": "The windows have been cleaned. (Choose the correct Active voice)",
+      "options": [
+        "Someone may clean the windows",
+        "Someone had cleaned the windows",
+        "Someone has cleaned the windows",
+        "Someone will clean the windows"
+      ],
+      "answer": 2,
+      "explanation": "यह वाक्य Present Perfect Passive ('have been cleaned') में है, जिसका Active Voice 'Someone + has + V3 (cleaned) + the windows' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-015",
+      "chapter": "Tense",
+      "question": "You ......... the piano. (Choose the correct option)",
+      "options": [
+        "am playing",
+        "is playing",
+        "are playing",
+        "was playing"
+      ],
+      "answer": 2,
+      "explanation": "कर्ता 'You' के साथ वर्तमान काल में सहायक क्रिया 'are' ('are playing') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-016",
+      "chapter": "Tense",
+      "question": "We ......... him yesterday. (Choose the correct option)",
+      "options": [
+        "were visiting",
+        "visited",
+        "have visited",
+        "will be visiting"
+      ],
+      "answer": 1,
+      "explanation": "'Yesterday' के प्रयोग के कारण वाक्य Simple Past Tense में होगा, अतः क्रिया का दूसरा रूप 'visited' सही है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-017",
+      "chapter": "Sequence of Tenses",
+      "question": "We ...... that you would succeed. (Choose the correct option)",
+      "options": [
+        "hoping",
+        "hoped",
+        "had hoped",
+        "will hope"
+      ],
+      "answer": 1,
+      "explanation": "अधीनस्थ उपवाक्य (Subordinate clause) Past Tense ('would succeed') में होने के कारण मुख्य क्रिया भी Simple Past ('hoped') में होगी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-018",
+      "chapter": "Prepositions",
+      "question": "There is a bridge .......... the river. (Choose the correct preposition)",
+      "options": [
+        "across",
+        "in",
+        "at",
+        "of"
+      ],
+      "answer": 0,
+      "explanation": "नदी के एक छोर से दूसरे छोर तक फैले हुए पुल को दर्शाने के लिए 'across' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-019",
+      "chapter": "Causative Verbs",
+      "question": "Arti made me ....... my shoes before I went into her house. (Choose the correct option)",
+      "options": [
+        "to take off",
+        "took off",
+        "take off",
+        "taken off"
+      ],
+      "answer": 2,
+      "explanation": "Causative verb 'make/made' के बाद Active संरचना में हमेशा Bare Infinitive (बिना 'to' के V1 - 'take off') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-020",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "He said to me, \"Will you post this letter for me?\" (Choose the correct indirect narration)",
+      "options": [
+        "He asked me if I would post that letter for him",
+        "He asked me if I would post this letter to him",
+        "He asked me if I will post that letter to him",
+        "He said to me if I would post that letter to him"
+      ],
+      "answer": 0,
+      "explanation": "प्रश्नवाचक वाक्य होने के कारण 'said to' को 'asked' में, 'will' को 'would' में, 'this' को 'that' में तथा 'me' को 'him' में बदला जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-021",
+      "chapter": "Prepositions",
+      "question": "He is going ...... leave next week. (Choose the correct preposition)",
+      "options": [
+        "at",
+        "on",
+        "over",
+        "of"
+      ],
+      "answer": 1,
+      "explanation": "छुट्टी पर जाने के लिए मानक वाक्यांश 'on leave' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-022",
+      "chapter": "Subject-Verb Agreement",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She want three egg.",
+        "She wants three egg",
+        "She wanting three eggs",
+        "She wants three eggs"
+      ],
+      "answer": 3,
+      "explanation": "एकवचन कर्ता 'She' के साथ क्रिया 'wants' तथा संख्या 'three' के साथ बहुवचन संज्ञा 'eggs' का प्रयोग शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-023",
+      "chapter": "Auxiliary Verbs",
+      "question": "......... he drive to work? (Choose the best option)",
+      "options": [
+        "Has",
+        "Don't",
+        "Do",
+        "Does"
+      ],
+      "answer": 3,
+      "explanation": "Simple Present Tense के प्रश्नवाचक वाक्य में एकवचन कर्ता 'he' और मुख्य क्रिया 'drive' (V1) के साथ 'Does' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-024",
+      "chapter": "Tense",
+      "question": "Yesterday, I ....... to buy bread. (Choose the correct option)",
+      "options": [
+        "go",
+        "going",
+        "to go",
+        "went"
+      ],
+      "answer": 3,
+      "explanation": "'Yesterday' के कारण वाक्य भूतकाल (Simple Past Tense) में है, इसलिए 'go' का दूसरा रूप 'went' प्रयुक्त होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-025",
+      "chapter": "Vocabulary & Verbs",
+      "question": "The teacher .......... about the weather. (Choose the correct option)",
+      "options": [
+        "said",
+        "spoke",
+        "talked",
+        "told"
+      ],
+      "answer": 2,
+      "explanation": "किसी विषय पर बातचीत करने या चर्चा करने के संदर्भ में 'talked about' का प्रयोग सबसे उपयुक्त होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-026",
+      "chapter": "Syntax / Collocations",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "He will never speak lie",
+        "He will never tell lie",
+        "He will never say a lie",
+        "He will never tell a lie"
+      ],
+      "answer": 3,
+      "explanation": "झूठ बोलने के लिए सही अंग्रेजी अभिव्यक्ति 'tell a lie' होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-027",
+      "chapter": "Prepositions",
+      "question": "She is pleased .......... me. (Choose the correct option)",
+      "options": [
+        "at",
+        "on",
+        "with",
+        "from"
+      ],
+      "answer": 2,
+      "explanation": "किसी व्यक्ति से प्रसन्न होने के अर्थ में 'pleased' के साथ 'with' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-028",
+      "chapter": "Tense",
+      "question": "You ........ get a new dress tomorrow. (Choose the correct option)",
+      "options": [
+        "will",
+        "do",
+        "didn't",
+        "hadn't"
+      ],
+      "answer": 0,
+      "explanation": "'Tomorrow' भविष्य काल को दर्शाता है, इसलिए सहायक क्रिया 'will' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-029",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "He has broken his leg, so he .......... play football. (Choose the correct auxiliary verb)",
+      "options": [
+        "can't",
+        "should",
+        "must",
+        "needs not"
+      ],
+      "answer": 0,
+      "explanation": "पैर टूटने के कारण शारीरिक अक्षमता (असमर्थता) को दर्शाने के लिए 'can't' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-030",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word",
+      "options": [
+        "Intilligent",
+        "Inteligent",
+        "Intelligent",
+        "Intiligint"
+      ],
+      "answer": 2,
+      "explanation": "सही अंग्रेजी वर्तनी 'Intelligent' होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-031",
+      "chapter": "Non-Finite Verbs (Bare Infinitive)",
+      "question": "Let me ......... the classroom please. (Choose the correct verb)",
+      "options": [
+        "To leave",
+        "leaving",
+        "leave",
+        "have left"
+      ],
+      "answer": 2,
+      "explanation": "'Let' क्रिया के बाद हमेशा Bare Infinitive (बिना 'to' के क्रिया का पहला रूप - 'leave') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-032",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence",
+      "options": [
+        "I am going now",
+        "I going now",
+        "I gone now",
+        "I will going now"
+      ],
+      "answer": 0,
+      "explanation": "Present Continuous Tense में 'Subject + am + V4' ('I am going now') की संरचना व्याकरणिक रूप से पूर्ण और शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-033",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "Shyam asked her if she was ill. (Choose the correct direct narration)",
+      "options": [
+        "Shyam asked her, \"You are ill.\"",
+        "Shyam told her, \"Was she ill?\"",
+        "Shyam said to her, \"Are you ill?\"",
+        "Shyam said to her, \"Is she ill?\""
+      ],
+      "answer": 2,
+      "explanation": "Indirect वाक्य में 'asked her if she was ill' का Direct रूप प्रश्नवाचक शैली में 'Shyam said to her, \"Are you ill?\"' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-034",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "'Are you coming with us?' He asked me. (Choose the correct indirect speech)",
+      "options": [
+        "He asked me if I was coming with them",
+        "He asks if I was coming with them",
+        "He had asked if I was coming with them",
+        "He will ask if I am coming with them"
+      ],
+      "answer": 0,
+      "explanation": "Direct Speech का 'Are you coming with us?' Past Reporting Verb ('asked') के कारण बदलकर 'if I was coming with them' हो जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-035",
+      "chapter": "Articles",
+      "question": "Learning ........ isn't easy. (Choose the correct option)",
+      "options": [
+        "the French",
+        "French",
+        "of French",
+        "in French"
+      ],
+      "answer": 1,
+      "explanation": "किसी भाषा के नाम से पहले आर्टिकल का प्रयोग नहीं होता है ('the French' का अर्थ फ्रांस के लोग होता है, जबकि 'French' भाषा को दर्शाता है)।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-036",
+      "chapter": "One Word Substitution",
+      "question": "A written statement or oath is (Choose the correct option)",
+      "options": [
+        "a deed",
+        "an alimony",
+        "a letter",
+        "an affidavit"
+      ],
+      "answer": 3,
+      "explanation": "शपथ पत्र या लिखित बयान को कानूनी शब्दावली में 'an affidavit' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-037",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "John Donne is a ......... poet. (Choose the correct option)",
+      "options": [
+        "nature",
+        "metaphysical",
+        "cavalier",
+        "romantic"
+      ],
+      "answer": 1,
+      "explanation": "जॉन डन (John Donne) एक प्रसिद्ध आध्यात्मिक (Metaphysical) कवि हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-038",
+      "chapter": "Story of English - Global English",
+      "question": "Standard British English speech came to be known as (Choose the correct option)",
+      "options": [
+        "Second language",
+        "New English",
+        "American English",
+        "Received Pronunciation"
+      ],
+      "answer": 3,
+      "explanation": "मानक ब्रिटिश अंग्रेजी उच्चारण को 'Received Pronunciation' (RP) के नाम से जाना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-039",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "\"And the nightingale is dumb\" is from (Choose the correct option)",
+      "options": [
+        "Fire-Hymn",
+        "Ode to Autumn",
+        "Now the Leaves are Falling Fast",
+        "Sweetest Love I Do Not Goe"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति डब्ल्यू. एच. ऑडेन की कविता 'Now the Leaves Are Falling Fast' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-040",
+      "chapter": "Poetry - The Soldier",
+      "question": "Rupert Brooke praises (Choose the correct option)",
+      "options": [
+        "England",
+        "Germany",
+        "Russia",
+        "America"
+      ],
+      "answer": 0,
+      "explanation": "अपनी कविता 'The Soldier' में रुपर्ट ब्रुक अपनी मातृभूमि इंग्लैंड (England) की प्रशंसा करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-041",
+      "chapter": "Poetry - An Epitaph",
+      "question": "Walter de la Mare makes us aware of the (Choose the correct option)",
+      "options": [
+        "inhuman conditions of modern life",
+        "poverty",
+        "dreams",
+        "London life"
+      ],
+      "answer": 0,
+      "explanation": "वाल्टर डे ला मेयर अपनी रचनाओं के माध्यम से आधुनिक जीवन की अमानवीय परिस्थितियों (inhuman conditions of modern life) के प्रति सचेत करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-042",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "What, according to Zakir Hussain, is the prime instrument of national purpose?",
+      "options": [
+        "Business",
+        "Service",
+        "Politics",
+        "Education"
+      ],
+      "answer": 3,
+      "explanation": "डॉ. ज़ाकिर हुसैन के अनुसार शिक्षा (Education) राष्ट्रीय उद्देश्य की पूर्ति का प्रमुख साधन है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-043",
+      "chapter": "Poetry - The Soldier",
+      "question": "\"In hearts at peace, under an English heaven\" is from (Choose the correct option)",
+      "options": [
+        "Ode to Autumn",
+        "The Soldier",
+        "Song of Myself",
+        "Fire-Hymn"
+      ],
+      "answer": 1,
+      "explanation": "यह पंक्ति रुपर्ट ब्रुक द्वारा रचित सॉनेट 'The Soldier' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-044",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "And the active hands must ......... Lonely on the separate knees. (Choose the correct option)",
+      "options": [
+        "die",
+        "pluck",
+        "freeze",
+        "snatch"
+      ],
+      "answer": 2,
+      "explanation": "कविता 'Now the Leaves Are Falling Fast' की पंक्ति 'And the active hands must freeze, Lonely on the separate knees' से रिक्त स्थान में 'freeze' आएगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-045",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "\"Ideas That Have Helped Mankind\" is written by (Choose the correct option)",
+      "options": [
+        "Germaine Greer",
+        "Pearl S. Buck",
+        "Shiga Naoya",
+        "Bertrand Russell"
+      ],
+      "answer": 3,
+      "explanation": "निबंध 'Ideas That Have Helped Mankind' की रचना बर्ट्रेंड रसेल (Bertrand Russell) ने की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-046",
+      "chapter": "Poetry - An Epitaph",
+      "question": "Walter de la Mare was born in (Choose the correct option)",
+      "options": [
+        "1853",
+        "1867",
+        "1873",
+        "1889"
+      ],
+      "answer": 2,
+      "explanation": "वाल्टर डे ला मेयर का जन्म वर्ष 1873 में हुआ था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-047",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "Bertrand Russell was awarded Nobel Prize in literature in (Choose the correct option)",
+      "options": [
+        "1956",
+        "1952",
+        "1950",
+        "1953"
+      ],
+      "answer": 2,
+      "explanation": "बर्ट्रेंड रसेल को 1950 में साहित्य के लिए नोबेल पुरस्कार प्रदान किया गया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-048",
+      "chapter": "Story of English - Periods of English",
+      "question": "English used from the 15th century is called (Choose the correct option)",
+      "options": [
+        "Old English",
+        "Modern English",
+        "Middle English",
+        "Post-modern English"
+      ],
+      "answer": 1,
+      "explanation": "15वीं शताब्दी (लगभग 1500 ईस्वी) के बाद से प्रचलित अंग्रेजी को आधुनिक अंग्रेजी (Modern English) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-049",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "\"The Wasteland\" is written by (Choose the correct option)",
+      "options": [
+        "T.S. Eliot",
+        "W.H. Auden",
+        "S.T. Coleridge",
+        "John Donne"
+      ],
+      "answer": 0,
+      "explanation": "'द वेस्ट लैंड' (The Waste Land) की रचना प्रसिद्ध कवि टी. एस. एलियट (T.S. Eliot) ने की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-050",
+      "chapter": "Story of English - History of English",
+      "question": "English language is ...... than Sanskrit. (Choose the correct option)",
+      "options": [
+        "older",
+        "ancient",
+        "younger",
+        "classical"
+      ],
+      "answer": 2,
+      "explanation": "अंग्रेजी भाषा संस्कृत की तुलना में काफी नई (younger) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-051",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "Our forefathers did not invent machinery because (Choose the correct option)",
+      "options": [
+        "they knew we would become slaves",
+        "they knew we would be happy",
+        "they did not like to see us comfortable",
+        "they were jealous of us"
+      ],
+      "answer": 0,
+      "explanation": "महात्मा गांधी के अनुसार हमारे पूर्वजों ने मशीनों का आविष्कार इसलिए नहीं किया क्योंकि वे जानते थे कि हम उनके गुलाम बन जाएंगे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-052",
+      "chapter": "Poetry - Snake",
+      "question": "\"And stooped and drank a little more\" is from (Choose the correct option)",
+      "options": [
+        "Fire-Hymn",
+        "Song of Myself",
+        "Snake",
+        "Ode to Autumn"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति डी. एच. लॉरेंस (D.H. Lawrence) की कविता 'Snake' से उद्धृत है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-053",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "Dr. Zakir Hussain is the author of the piece '...........' (Choose the correct option)",
+      "options": [
+        "The Artist",
+        "Bharat is My Home",
+        "A Child is Born",
+        "How Free is the Press"
+      ],
+      "answer": 1,
+      "explanation": "डॉ. ज़ाकिर हुसैन 'Bharat is My Home' पाठ के लेखक हैं, जो 1967 में राष्ट्रपति पद की शपथ लेने के बाद दिए गए उनके भाषण का अंश है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-054",
+      "chapter": "Story of English - Drama",
+      "question": "'Macbeth' and 'Julius Caesar' are written by (Choose the correct option)",
+      "options": [
+        "Goldsmith",
+        "Ben Jonson",
+        "Shakespeare",
+        "Sheridan"
+      ],
+      "answer": 2,
+      "explanation": "'Macbeth' और 'Julius Caesar' महान नाटककार विलियम शेक्सपियर की रचनाएँ हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-055",
+      "chapter": "Story of English - Indian English Literature",
+      "question": "'Savitri' is written by (Choose the correct option)",
+      "options": [
+        "Aurobindo Ghosh",
+        "Sarojini Naidu",
+        "R.N. Tagore",
+        "Toru Dutt"
+      ],
+      "answer": 0,
+      "explanation": "'सावित्री' (Savitri) नामक प्रसिद्ध महाकाव्य की रचना श्री अरबिंदो घोष ने की थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-056",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "'After all, there is something in Hinduism that has kept it alive up till now' is from (Choose the correct option)",
+      "options": [
+        "The Earth",
+        "Indian Civilization and Culture",
+        "Bharat is My Home",
+        "I Have a Dream"
+      ],
+      "answer": 1,
+      "explanation": "यह पंक्ति महात्मा गांधी के निबंध 'Indian Civilization and Culture' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-057",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "Radhakrishnan never lost his faith in the (Choose the correct option)",
+      "options": [
+        "essential wealth",
+        "essential humanity of man",
+        "essential knowledge",
+        "essential experience"
+      ],
+      "answer": 1,
+      "explanation": "डॉ. राधाकृष्णन ने मनुष्य की मूलभूत मानवता (essential humanity of man) में अपना अटूट विश्वास कभी नहीं खोया।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-058",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "......... were satisfied with small villages. (Choose the correct option)",
+      "options": [
+        "Old people",
+        "Our ancestors",
+        "Youth",
+        "Adults"
+      ],
+      "answer": 1,
+      "explanation": "'Indian Civilization and Culture' पाठ के अनुसार हमारे पूर्वज (Our ancestors) छोटे गाँवों में ही संतुष्ट थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-059",
+      "chapter": "Story of English - Middle English",
+      "question": "The Great Vowel Shift took place during (Choose the correct option)",
+      "options": [
+        "Modern English",
+        "Middle English",
+        "Old English",
+        "British English"
+      ],
+      "answer": 1,
+      "explanation": "Great Vowel Shift की भाषाई घटना मध्य अंग्रेजी काल (Middle English) के दौरान घटित हुई थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2020-060",
+      "chapter": "Prose - I Have a Dream",
+      "question": "\"And as we walk, we make the pledge that we shall .........\" (Choose the correct option)",
+      "options": [
+        "always be satisfied",
+        "always fight",
+        "always hate people",
+        "always march ahead"
+      ],
+      "answer": 3,
+      "explanation": "मार्टिन लूथर किंग जूनियर के भाषण 'I Have a Dream' के अनुसार, हम यह प्रतिज्ञा करते हैं कि हम सदैव आगे बढ़ते रहेंगे (always march ahead)।",
+      "marks": 1
+    }
+  ]
+}

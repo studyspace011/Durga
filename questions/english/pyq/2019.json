@@ -1,0 +1,708 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "year": 2019,
+  "exam": "Bihar Board Intermediate Examination",
+  "questions": [
+    {
+      "id": "eng-2019-001",
+      "chapter": "Tense & Auxiliary Verbs",
+      "question": "That's strange, our kids ............. watch TV serials. (Choose the best option)",
+      "options": [
+        "do not",
+        "are",
+        "be",
+        "none of these"
+      ],
+      "answer": 0,
+      "explanation": "मुख्य क्रिया 'watch' (V1) के साथ Simple Present Tense के नकारात्मक वाक्य में बहुवचन कर्ता ('our kids') के साथ 'do not' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-002",
+      "chapter": "Tense",
+      "question": "They .......... here next week. (Choose the correct verb form)",
+      "options": [
+        "had come",
+        "coming",
+        "came",
+        "will come"
+      ],
+      "answer": 3,
+      "explanation": "वाक्य में 'next week' भविष्य के समय को दर्शाता है, इसलिए Simple Future Tense ('will come') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-003",
+      "chapter": "Voice (Active & Passive)",
+      "question": "Marsha is reading a novel. (Choose the best passive voice)",
+      "options": [
+        "A novel was read by Marsha.",
+        "A novel had read by Marsha.",
+        "A novel is being read by Marsha.",
+        "A novel must read by Marsha."
+      ],
+      "answer": 2,
+      "explanation": "Present Continuous Tense के वाक्य का Passive Voice 'Object + is/am/are + being + V3 + by + Subject' के नियम से बनता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-004",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "Drivers ..... drive over the speed limit. (Choose the correct option of auxiliary verb)",
+      "options": [
+        "should",
+        "can",
+        "must not",
+        "must"
+      ],
+      "answer": 2,
+      "explanation": "सख्त निषेध या यातायात नियमों के उल्लंघन को रोकने के लिए 'must not' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-005",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "\"What do you want?\" she asked him. (Choose the correct indirect narration)",
+      "options": [
+        "She asks what he wants.",
+        "She asked him what he wanted.",
+        "She will ask what he wants",
+        "She asked what he had wanted."
+      ],
+      "answer": 1,
+      "explanation": "Reporting verb ('asked') Past Tense में है, इसलिए Simple Present ('do you want') Indirect Speech में बदलकर Simple Past ('what he wanted') हो जाएगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-006",
+      "chapter": "Combination of Sentences",
+      "question": "You must start now. You will miss the bus. (Choose the correct combination of sentences)",
+      "options": [
+        "Unless you start now, you will miss the bus.",
+        "Will you start now, you will miss the bus.",
+        "Till you start now, you will miss the bus.",
+        "Until you start now, you will miss the bus."
+      ],
+      "answer": 0,
+      "explanation": "शर्त (Condition) को दर्शाने के लिए 'Unless' (यदि नहीं) का प्रयोग कर दोनों वाक्यों को सही ढंग से जोड़ा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-007",
+      "chapter": "Syntax & Subjunctive Mood",
+      "question": "The doctor suggested ............ take a vacation. (Choose the meaningful expression)",
+      "options": [
+        "the patient",
+        "the patient will",
+        "that the patient should",
+        "the patient ought"
+      ],
+      "answer": 2,
+      "explanation": "'Suggest' क्रिया के बाद सुझाव देने के लिए 'that + subject + should + V1' की संरचना का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-008",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I have a homework to do.",
+        "I have homework to do.",
+        "I will have homework to do.",
+        "I having homework to do."
+      ],
+      "answer": 1,
+      "explanation": "'Homework' एक Uncountable Noun है, इसलिए इससे पहले अनिश्चित आर्टिकल 'a' का प्रयोग नहीं होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-009",
+      "chapter": "Conditional Sentences / Tense",
+      "question": "When Sita ......... back, we will discuss the problem. (Choose the best option)",
+      "options": [
+        "will come",
+        "comes",
+        "came",
+        "has come"
+      ],
+      "answer": 1,
+      "explanation": "जब मुख्य उपवाक्य Future Tense ('will discuss') में हो, तो 'When' से शुरू होने वाला समय-सूचक उपवाक्य Simple Present Tense ('comes') में रहता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-010",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "......... he come with us? (Choose the best option)",
+      "options": [
+        "Will",
+        "Is",
+        "Do",
+        "Have"
+      ],
+      "answer": 0,
+      "explanation": "कर्ता 'he' के साथ मुख्य क्रिया के पहले रूप ('come') का प्रयोग केवल सहायक क्रिया 'Will' के साथ ही संभव है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-011",
+      "chapter": "Syntax / Subjunctive Mood",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I wish were I young again.",
+        "I wish was I young again.",
+        "I wish I were young again.",
+        "I wish I was young again."
+      ],
+      "answer": 2,
+      "explanation": "कोरी कल्पना या अपूर्ण इच्छा (Unfulfilled wish) व्यक्त करने के लिए 'I wish' के बाद सभी कर्ताओं के साथ 'were' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-012",
+      "chapter": "Articles",
+      "question": "Have you seen ......... Taj Mahal. (Choose the best option of article)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "none of these"
+      ],
+      "answer": 2,
+      "explanation": "प्रसिद्ध ऐतिहासिक इमारतों और स्मारकों के नाम से पहले हमेशा Definite Article 'the' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-013",
+      "chapter": "Subject-Verb Agreement",
+      "question": "The great scholar and poet .......... died. (Choose the best option)",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "none of these"
+      ],
+      "answer": 1,
+      "explanation": "जब दो संज्ञाएँ 'and' से जुड़ी हों और केवल पहली संज्ञा के पहले 'The' लगा हो, तो वे एक ही व्यक्ति का बोध कराती हैं, अतः एकवचन क्रिया 'has' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-014",
+      "chapter": "Tense",
+      "question": "John .............. in hospital for two weeks. (Choose the meaningful expression)",
+      "options": [
+        "has been lying",
+        "lies",
+        "is lying",
+        "lied"
+      ],
+      "answer": 0,
+      "explanation": "वाक्य में 'for two weeks' समय की अवधि को दर्शाता है, इसलिए यहाँ Present Perfect Continuous Tense ('has been lying') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-015",
+      "chapter": "Relative Pronouns",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She is the girl whose name is Raavi",
+        "She is the girl whom name is Raavi.",
+        "She is the girl who name is Raavi.",
+        "She is the girl that name is Raavi"
+      ],
+      "answer": 0,
+      "explanation": "अधिकार या संबंध (जिसका नाम) दर्शाने के लिए Relative Pronoun 'whose' का प्रयोग व्याकरणिक रूप से सही है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-016",
+      "chapter": "Voice (Active & Passive)",
+      "question": "The house was painted by Tom. (Choose the best Active voice)",
+      "options": [
+        "Tom was painting the house.",
+        "Tom is painting the house.",
+        "Tom paints the house.",
+        "Tom painted the house."
+      ],
+      "answer": 3,
+      "explanation": "यह वाक्य Simple Past Passive ('was painted') में है, जिसका Active Voice 'Subject (Tom) + V2 (painted) + Object (the house)' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-017",
+      "chapter": "Tense & Auxiliary Verbs",
+      "question": "I ............ speak Spanish. (Choose the best option)",
+      "options": [
+        "does not",
+        "have not",
+        "do not",
+        "had not"
+      ],
+      "answer": 2,
+      "explanation": "Simple Present Tense में कर्ता 'I' के साथ नकारात्मक वाक्य बनाने के लिए 'do not + V1' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-018",
+      "chapter": "Subject-Verb Agreement",
+      "question": "Either of the two ........... acceptable. (Choose the best option)",
+      "options": [
+        "is",
+        "are",
+        "have",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "'Either of' के बाद बहुवचन संज्ञा/सर्वनाम आने पर भी क्रिया हमेशा एकवचन ('is') में प्रयुक्त होती है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-019",
+      "chapter": "Subject-Verb Agreement",
+      "question": "A lot of energy ............. wasted on finding the treasure. (Choose the best option)",
+      "options": [
+        "was",
+        "were",
+        "can",
+        "will"
+      ],
+      "answer": 0,
+      "explanation": "'Energy' एक Uncountable Noun है, इसलिए 'A lot of energy' के साथ एकवचन क्रिया 'was' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-020",
+      "chapter": "One Word Substitution",
+      "question": "Those who work in the same department are ...... (Choose the best option)",
+      "options": [
+        "college",
+        "colleagues",
+        "friends",
+        "batch mates"
+      ],
+      "answer": 1,
+      "explanation": "एक ही विभाग या कार्यालय में साथ काम करने वाले सहकर्मियों को 'colleagues' कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-021",
+      "chapter": "Tense",
+      "question": "I am ...... my bed. (Choose the best option)",
+      "options": [
+        "making",
+        "make",
+        "to make",
+        "had making"
+      ],
+      "answer": 0,
+      "explanation": "Present Continuous Tense में सहायक क्रिया 'am' के साथ क्रिया के चौथे रूप (V4 - 'making') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-022",
+      "chapter": "Tense",
+      "question": "Listen! Radha ....... the sitar. (Choose the best option)",
+      "options": [
+        "will playing",
+        "had played",
+        "is playing",
+        "are playing"
+      ],
+      "answer": 2,
+      "explanation": "'Listen!' शब्द वर्तमान समय में हो रही क्रिया को इंगित करता है, अतः एकवचन कर्ता 'Radha' के साथ 'is playing' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-023",
+      "chapter": "Spelling Test",
+      "question": "Choose the correctly spelt word.",
+      "options": [
+        "Committee",
+        "Commiitee",
+        "Comittee",
+        "Cumittee"
+      ],
+      "answer": 0,
+      "explanation": "सही वर्तनी 'Committee' होती है, जिसमें m, t और e दो-दो बार आते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-024",
+      "chapter": "Voice & Verb Forms",
+      "question": "The man was ......... by a dog. (Choose the meaningful expression)",
+      "options": [
+        "bitten",
+        "bit",
+        "had bit",
+        "had bitten"
+      ],
+      "answer": 0,
+      "explanation": "यह वाक्य Passive Voice में है, इसलिए 'was' के बाद 'bite' का तीसरा रूप (V3 - 'bitten') प्रयुक्त होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-025",
+      "chapter": "Prepositions",
+      "question": "Look ............. this painting. (Choose the correct preposition)",
+      "options": [
+        "in",
+        "at",
+        "of",
+        "off"
+      ],
+      "answer": 1,
+      "explanation": "किसी वस्तु को ध्यान से देखने के अर्थ में 'Look' के साथ 'at' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-026",
+      "chapter": "Tense",
+      "question": "He .......... Video games. (Choose the best option)",
+      "options": [
+        "had playing",
+        "am playing",
+        "are playing",
+        "is playing"
+      ],
+      "answer": 3,
+      "explanation": "एकवचन कर्ता 'He' के साथ Present Continuous Tense में 'is playing' का प्रयोग व्याकरणिक रूप से सही है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-027",
+      "chapter": "Prepositions",
+      "question": "I bought these books .......... auction. (Choose the correct preposition)",
+      "options": [
+        "for",
+        "from",
+        "at",
+        "of"
+      ],
+      "answer": 2,
+      "explanation": "नीलामी में कोई वस्तु खरीदने या बेचने के लिए 'at auction' (या by auction) का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-028",
+      "chapter": "Tense",
+      "question": "When the sun is shining, we usually ...... for swimming. (Choose the best option)",
+      "options": [
+        "went",
+        "going",
+        "to go",
+        "go"
+      ],
+      "answer": 3,
+      "explanation": "'Usually' शब्द नियमित आदत को दर्शाता है, इसलिए बहुवचन कर्ता 'we' के साथ Simple Present Tense में क्रिया का पहला रूप 'go' लगेगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-029",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "Radha asked Ravi where his father was. (Choose the correct direct narration)",
+      "options": [
+        "Radha said to Ravi, \"Where is your father.\"",
+        "Radha said to Ravi, \"Where is your father?\"",
+        "Radha said to Ravi, \"Where was his father?\"",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "प्रश्नवाचक Direct Speech के अंत में प्रश्नवाचक चिह्न (?) आवश्यक है तथा Indirect का 'his father was' Direct में 'is your father?' हो जाएगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-030",
+      "chapter": "Prepositions",
+      "question": "Patna is situated ....... the bank of the Ganga. (Choose the correct preposition)",
+      "options": [
+        "at",
+        "on",
+        "of",
+        "to"
+      ],
+      "answer": 1,
+      "explanation": "नदी के किनारे स्थित होने के संदर्भ में हमेशा 'on the bank of' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-031",
+      "chapter": "Poetry - Sweetest Love, I Do Not Goe",
+      "question": "John Donne is a ....... poet. (Choose the correct option)",
+      "options": [
+        "nature",
+        "metaphysical",
+        "cavalier",
+        "romantic"
+      ],
+      "answer": 1,
+      "explanation": "जॉन डन (John Donne) को आध्यात्मिक (Metaphysical) कविता का अग्रदूत माना जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-032",
+      "chapter": "Poetry - The Soldier",
+      "question": "The line 'In hearts at peace, under an English heaven' is taken from ....... (Choose the correct option)",
+      "options": [
+        "Ode to Autumn",
+        "The Soldier",
+        "Song of Myself",
+        "Fire Hymn"
+      ],
+      "answer": 1,
+      "explanation": "यह पंक्ति रुपर्ट ब्रुक (Rupert Brooke) द्वारा रचित युद्ध कविता 'The Soldier' की अंतिम पंक्ति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-033",
+      "chapter": "Story of English - Drama",
+      "question": "'Macbeth' and 'Julius Caesar' are written by .......... (Choose the correct option)",
+      "options": [
+        "Johnson",
+        "Goldsmith",
+        "Shakespeare",
+        "Sheridan"
+      ],
+      "answer": 2,
+      "explanation": "'मैकबेथ' (Macbeth) और 'जूलियस सीज़र' (Julius Caesar) विलियम शेक्सपियर की प्रसिद्ध त्रासदियाँ (Tragedies) हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-034",
+      "chapter": "Story of English - Periods of English",
+      "question": "English used since AD 1500 is called ........... (Choose the best option)",
+      "options": [
+        "Old English",
+        "Modern English",
+        "Middle English",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "सन् 1500 ईस्वी के बाद से प्रयुक्त होने वाली अंग्रेजी भाषा को आधुनिक अंग्रेजी (Modern English) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-035",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "Our forefathers did not invent machinery because ........... (Choose the correct option)",
+      "options": [
+        "they knew we would become slaves.",
+        "They knew we would be happy.",
+        "they did not like to see us comfortable.",
+        "they were jealous of us."
+      ],
+      "answer": 0,
+      "explanation": "महात्मा गांधी के अनुसार हमारे पूर्वजों ने मशीनों का आविष्कार इसलिए नहीं किया क्योंकि वे जानते थे कि हम उनके गुलाम हो जाएंगे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-036",
+      "chapter": "Story of English - Middle English",
+      "question": "The Great Vowel Shift took place during ......... (Choose the suitable option)",
+      "options": [
+        "Modern English",
+        "Middle English",
+        "Old English",
+        "British English"
+      ],
+      "answer": 1,
+      "explanation": "अंग्रेजी के उच्चारण में बड़ा बदलाव (Great Vowel Shift) मध्य अंग्रेजी काल (Middle English period) के अंत में हुआ था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-037",
+      "chapter": "Poetry - Now the Leaves Are Falling Fast",
+      "question": "The line 'And the nightingale is dumb' is taken from .... (Choose the suitable option)",
+      "options": [
+        "Fire Hymn",
+        "Ode to Autumn",
+        "Now the leaves are Falling Fast",
+        "Sweetest Love Do not goe"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति डब्ल्यू. एच. ऑडेन (W.H. Auden) की कविता 'Now the Leaves Are Falling Fast' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-038",
+      "chapter": "Prose - I Have a Dream",
+      "question": "And as we walk, we make the pledge that we shall ........ (Choose the suitable option)",
+      "options": [
+        "always be satisfied",
+        "always fight",
+        "always hate people",
+        "always march ahead"
+      ],
+      "answer": 3,
+      "explanation": "मार्टिन लूथर किंग जूनियर अपने भाषण 'I Have a Dream' में प्रतिज्ञा करते हैं कि हम हमेशा आगे बढ़ते रहेंगे (always march ahead)।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-039",
+      "chapter": "Prose - The Artist",
+      "question": "Seibei's hobby was collecting ......... (Choose the correct option)",
+      "options": [
+        "gourds",
+        "flowers",
+        "seeds",
+        "grass"
+      ],
+      "answer": 0,
+      "explanation": "शिगा नाओया की कहानी 'The Artist' में सेबेई को लौकी/तुम्बी (gourds) इकट्ठा करने और उन्हें पॉलिश करने का शौक था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-040",
+      "chapter": "Poetry - Song of Myself",
+      "question": "The line 'Hoping to cease not till death' is taken from ......... (Choose the suitable option)",
+      "options": [
+        "Song of Myself",
+        "The Soldier",
+        "Fire Hymn",
+        "None of these"
+      ],
+      "answer": 0,
+      "explanation": "यह पंक्ति वाल्ट व्हिटमैन की कविता 'Song of Myself' से उद्धृत है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-041",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "The sentence 'After all, there is something in Hinduism that has kept it alive up till now' is taken from ............ (Choose the correct option)",
+      "options": [
+        "Artist",
+        "The Earth",
+        "Indian Civilization and culture",
+        "I Have a Dream"
+      ],
+      "answer": 2,
+      "explanation": "यह वाक्य महात्मा गांधी के निबंध 'Indian Civilization and Culture' से लिया गया है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-042",
+      "chapter": "Story of English - Indian English Literature",
+      "question": "'Savitri' is written by .......... (Choose the correct option)",
+      "options": [
+        "Aurobindo Ghosh",
+        "Sarojini Naidu",
+        "Rabindranath Tagore",
+        "Toru Dutt"
+      ],
+      "answer": 0,
+      "explanation": "महाकाव्य 'सावित्री' (Savitri) की रचना श्री अरबिंदो घोष (Aurobindo Ghosh) ने की थी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-043",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "Bertrand Russell was awarded Nobel Prize in literature in the year .......... (Choose the correct option)",
+      "options": [
+        "1956",
+        "1952",
+        "1950",
+        "1953"
+      ],
+      "answer": 2,
+      "explanation": "बर्ट्रेंड रसेल को वर्ष 1950 में साहित्य के क्षेत्र में नोबेल पुरस्कार से सम्मानित किया गया था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-044",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "'The Waste Land' has been composed by ......... (Choose the correct option)",
+      "options": [
+        "T.S. Eliot",
+        "W.H. Auden",
+        "S.T. Coleridge",
+        "John Donne"
+      ],
+      "answer": 0,
+      "explanation": "प्रसिद्ध आधुनिकतावादी कविता 'द वेस्ट लैंड' (The Waste Land) की रचना टी. एस. एलियट (T.S. Eliot) ने की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-045",
+      "chapter": "Prose - Bharat is My Home",
+      "question": "Dr. Radhakrishnan never lost his faith in the ............ (Choose the correct option)",
+      "options": [
+        "essential wealth",
+        "essential humanity of man",
+        "essential knowledge",
+        "essential experience"
+      ],
+      "answer": 1,
+      "explanation": "डॉ. ज़ाकिर हुसैन के भाषण 'Bharat is My Home' के अनुसार, डॉ. राधाकृष्णन ने मनुष्य की मूलभूत मानवता (essential humanity of man) में अपना विश्वास कभी नहीं खोया।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-046",
+      "chapter": "Story of English - Global English",
+      "question": "New varieties of English that have emerged in different parts of the world is called .......... (Choose the suitable option)",
+      "options": [
+        "Second language",
+        "New English",
+        "American English",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "विश्व के विभिन्न हिस्सों में विकसित हुई अंग्रेजी की नई किस्मों को 'New Englishes' (New English) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-047",
+      "chapter": "Story of English - History of English",
+      "question": "English language is ........ than Sanskrit and Persian. (Choose the suitable option)",
+      "options": [
+        "older",
+        "younger",
+        "classical",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "अंग्रेजी भाषा संस्कृत और फ़ारसी जैसी प्राचीन शास्त्रीय भाषाओं की तुलना में काफी नई (younger) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-048",
+      "chapter": "Poetry - An Epitaph",
+      "question": "Walter de la Mare makes us aware of the .......... (Choose the suitable option)",
+      "options": [
+        "inhuman conditions of modern life",
+        "poverty",
+        "dreams",
+        "London life"
+      ],
+      "answer": 0,
+      "explanation": "वाल्टर डे ला मेयर अपनी कविताओं के माध्यम से हमें आधुनिक जीवन की अमानवीय परिस्थितियों (inhuman conditions of modern life) के प्रति सचेत करते हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-049",
+      "chapter": "Poetry - An Epitaph",
+      "question": "Walter de la Mare was born in the year ...... (Choose the correct option)",
+      "options": [
+        "1853",
+        "1867",
+        "1873",
+        "1889"
+      ],
+      "answer": 2,
+      "explanation": "प्रसिद्ध कवि वाल्टर डे ला मेयर का जन्म वर्ष 1873 में इंग्लैंड के केंट में हुआ था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2019-050",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "'Ideas that have helped Mankind' is written by .......... (Choose the correct option)",
+      "options": [
+        "Germaine Greer",
+        "Pearl S. Buck",
+        "Shiga Naoya",
+        "B. Russell"
+      ],
+      "answer": 3,
+      "explanation": "निबंध 'Ideas That Have Helped Mankind' के लेखक ब्रिटिश दार्शनिक बर्ट्रेंड रसेल (B. Russell) हैं।",
+      "marks": 1
+    }
+  ]
+}

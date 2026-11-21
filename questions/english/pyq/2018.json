@@ -1,0 +1,708 @@
+{
+  "subject": "english",
+  "type": "pyq",
+  "year": 2018,
+  "exam": "Bihar Board Intermediate Examination",
+  "questions": [
+    {
+      "id": "eng-2018-001",
+      "chapter": "Voice (Active & Passive)",
+      "question": "Why do you tell a lie? (Choose the best passive voice)",
+      "options": [
+        "Why a lie is told by you?",
+        "Why is a lie be told by you?",
+        "Why lie told by you?",
+        "Why is a lie being told by you?"
+      ],
+      "answer": 1,
+      "explanation": "Simple Present Tense के प्रश्नवाचक वाक्य का Passive Voice 'Why + is/am/are + Object + V3 + by + Subject' के नियम से बनता है (सही रूप: Why is a lie told by you?)।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-002",
+      "chapter": "Voice (Active & Passive)",
+      "question": "We are taught grammar by Mr. Singh. (Choose the best active voice)",
+      "options": [
+        "Mr. Singh teaches us grammar.",
+        "Mr. Singh teaching us grammar.",
+        "Mr. Singh taught us grammar.",
+        "Mr. Singh will teach grammar."
+      ],
+      "answer": 0,
+      "explanation": "यह वाक्य Simple Present Passive में है, जिसका Active Voice 'Subject (Mr. Singh) + V5 (teaches) + Object (us grammar)' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-003",
+      "chapter": "Tense",
+      "question": "I .......... here since morning. (Choose the correct tense form)",
+      "options": [
+        "am waiting",
+        "have been waiting",
+        "had been waiting",
+        "will be waiting"
+      ],
+      "answer": 1,
+      "explanation": "वाक्य में 'since morning' (निश्चित समय) का प्रयोग हुआ है, इसलिए यहाँ Present Perfect Continuous Tense ('have been waiting') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-004",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "You have been riding non-stop for hours. You ........ be very tired. (Choose the correct auxiliary verb)",
+      "options": [
+        "must",
+        "can",
+        "ought",
+        "would"
+      ],
+      "answer": 0,
+      "explanation": "प्रबल संभावना या निश्चित निष्कर्ष (लगातार गाड़ी चलाने के बाद थकान होना तय है) को दर्शाने के लिए 'must' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-005",
+      "chapter": "Combination of Sentences",
+      "question": "She ran out of the room. She was screaming. (Choose the correct combination)",
+      "options": [
+        "She ran to the room screaming",
+        "She run out the room screaming",
+        "She had run to the room screaming",
+        "She ran out of the room screaming"
+      ],
+      "answer": 3,
+      "explanation": "दोनों कार्यों के एक साथ होने को दर्शाने के लिए Present Participle ('screaming') का प्रयोग कर सही वाक्य 'She ran out of the room screaming' बनेगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-006",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "........... you mind standing up for a moment? (Choose the correct auxiliary verb)",
+      "options": [
+        "Would",
+        "Could",
+        "Should",
+        "Can"
+      ],
+      "answer": 0,
+      "explanation": "विनम्र निवेदन (Polite request) करने के लिए 'Would you mind + V4' का प्रयोग एक मानक संरचना है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-007",
+      "chapter": "Tense",
+      "question": "I ......... interested in metaphysics. (Choose the correct verb form)",
+      "options": [
+        "am always",
+        "have always been",
+        "had always been",
+        "will always been"
+      ],
+      "answer": 1,
+      "explanation": "भूतकाल से लेकर वर्तमान तक निरंतर बनी हुई रुचि को व्यक्त करने के लिए 'have always been' सबसे उपयुक्त विकल्प है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-008",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "He said, \"I have got a toothache\". (Choose the correct indirect narration)",
+      "options": [
+        "He says he has got a toothache.",
+        "He said he have a toothache.",
+        "He said that he had got a toothache.",
+        "He had said that he got a toothache."
+      ],
+      "answer": 2,
+      "explanation": "Reporting verb ('said') Past Tense में होने के कारण Indirect Speech में 'have got' बदलकर 'had got' हो जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-009",
+      "chapter": "Narration (Direct & Indirect)",
+      "question": "She thanked me. (Choose the correct direct narration)",
+      "options": [
+        "She said to him, \"Thank you\".",
+        "She says to him, \"Thank you\".",
+        "She say to me, \"Thank you\".",
+        "She said to me, \"Thank you\"."
+      ],
+      "answer": 3,
+      "explanation": "Indirect वाक्य 'She thanked me' का Direct रूप Past Tense में 'She said to me, \"Thank you\".' होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-010",
+      "chapter": "Verb Forms",
+      "question": "My brother did not .......... her. (Choose the meaningful expression)",
+      "options": [
+        "Chose",
+        "Choosing",
+        "Choose",
+        "Chosen"
+      ],
+      "answer": 2,
+      "explanation": "'did not' के बाद हमेशा क्रिया के पहले रूप (V1 - Choose) का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-011",
+      "chapter": "Gerund / Verb Forms",
+      "question": "....... at a very high speed is dangerous. (Choose the meaningful expression)",
+      "options": [
+        "have written",
+        "has written",
+        "will written",
+        "be written"
+      ],
+      "answer": 0,
+      "explanation": "मूल प्रश्नपत्र में छपाई की त्रुटि के कारण इस प्रश्न के विकल्प अगले प्रश्न (Q.12) के छप गए हैं; व्याकरण की दृष्टि से यहाँ Gerund ('Driving') सही उत्तर होना चाहिए।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-012",
+      "chapter": "Subject-Verb Agreement",
+      "question": "She ........... six books on Indian Mythology. (Choose the meaningful expression)",
+      "options": [
+        "have written",
+        "has written",
+        "will written",
+        "be written"
+      ],
+      "answer": 1,
+      "explanation": "कर्ता 'She' एकवचन (Singular) है, इसलिए Present Perfect Tense में इसके साथ 'has written' का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-013",
+      "chapter": "Prepositions",
+      "question": "This material is different ............ that. (Choose the correct preposition)",
+      "options": [
+        "to",
+        "with",
+        "at",
+        "from"
+      ],
+      "answer": 3,
+      "explanation": "'Different' शब्द के साथ तुलना या अलगाव दिखाने के लिए हमेशा 'from' Preposition का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-014",
+      "chapter": "Prepositions",
+      "question": "He climbed ............ the ladder. (Choose the correct preposition)",
+      "options": [
+        "at",
+        "on",
+        "of",
+        "in"
+      ],
+      "answer": 1,
+      "explanation": "सीढ़ी पर चढ़ने की क्रिया को दर्शाने के लिए दिए गए विकल्पों में 'on' सबसे उपयुक्त है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-015",
+      "chapter": "Prepositions",
+      "question": "He has been absent .......... Monday. (Choose the correct preposition)",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "सप्ताह के दिन (Monday) जैसे निश्चित समय बिंदु (Point of time) से पहले 'since' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-016",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "Sid can play Tennis as good as his brother.",
+        "Sid will play Tennis is well as his brother.",
+        "Sid can play Tennis as well as his brother.",
+        "Sid has played Tennis as good as his brother."
+      ],
+      "answer": 2,
+      "explanation": "क्रिया (play) की विशेषता बताने के लिए Adverb 'well' का प्रयोग होता है, न कि Adjective 'good' का। अतः 'as well as' वाला वाक्य सही है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-017",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "I have a home work to do",
+        "I have home work to do.",
+        "I will have home work to do.",
+        "I having home work to do."
+      ],
+      "answer": 1,
+      "explanation": "'Homework' एक Uncountable Noun है, इसलिए इससे पहले आर्टिकल 'a' का प्रयोग नहीं होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-018",
+      "chapter": "Syntax / Sentence Correction",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "That was sure a mistake.",
+        "This was a sure mistake.",
+        "That may be sure a mistake.",
+        "That was surely a mistake."
+      ],
+      "answer": 3,
+      "explanation": "पूरे कथन की निश्चितता पर जोर देने के लिए Adverb 'surely' का प्रयोग व्याकरणिक रूप से शुद्ध है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-019",
+      "chapter": "Sequence of Tenses",
+      "question": "He ........ if we had taken our food. (Choose the best option)",
+      "options": [
+        "asked",
+        "asks",
+        "will ask",
+        "had ask"
+      ],
+      "answer": 0,
+      "explanation": "वाक्य का दूसरा भाग Past Perfect ('had taken') में है, इसलिए मुख्य क्रिया भी Past Tense ('asked') में होगी।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-020",
+      "chapter": "Gerund & Possessive Case",
+      "question": "All depends on ........ the examination. (Choose the best option)",
+      "options": [
+        "has passing",
+        "will passing",
+        "his passing",
+        "has passing"
+      ],
+      "answer": 2,
+      "explanation": "Gerund ('passing') से पहले हमेशा Possessive Adjective ('his') का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-021",
+      "chapter": "Modal Auxiliary Verbs",
+      "question": "You ........ not go to attend the meeting. (Choose the best option)",
+      "options": [
+        "can",
+        "need",
+        "may",
+        "would"
+      ],
+      "answer": 1,
+      "explanation": "आवश्यकता न होने (अभाव) का भाव व्यक्त करने के लिए 'need not' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-022",
+      "chapter": "Conditional Sentences / Tense",
+      "question": "When Radha ............. back, she will sleep. (Choose the best option)",
+      "options": [
+        "will come",
+        "comes",
+        "came",
+        "has come"
+      ],
+      "answer": 1,
+      "explanation": "यदि मुख्य वाक्य Future Tense में हो, तो 'When' से शुरू होने वाला उपवाक्य Simple Present Tense ('comes') में रहता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-023",
+      "chapter": "Non-Finite Verbs (Gerund)",
+      "question": "Would you mind ............. to my house, please? (Choose the best option)",
+      "options": [
+        "to come",
+        "have come",
+        "came",
+        "coming"
+      ],
+      "answer": 3,
+      "explanation": "'Would you mind' के बाद हमेशा क्रिया के चौथे रूप (Gerund - V4 'coming') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-024",
+      "chapter": "Articles",
+      "question": "She is ........ most beautiful girl. (Choose the best article)",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article required"
+      ],
+      "answer": 2,
+      "explanation": "Superlative degree ('most beautiful') से पहले हमेशा Definite Article 'the' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-025",
+      "chapter": "Tense",
+      "question": "My sister ........ a dress for her birthday last week. (Choose the best option)",
+      "options": [
+        "buy",
+        "buyed",
+        "will buy",
+        "bought"
+      ],
+      "answer": 3,
+      "explanation": "वाक्य में 'last week' भूतकाल को दर्शाता है, इसलिए क्रिया के दूसरे रूप (V2 - 'bought') का प्रयोग होगा।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-026",
+      "chapter": "Tense",
+      "question": "Kamlesh has been ......... his house for a few days. (Choose the best option)",
+      "options": [
+        "repaired",
+        "repairing",
+        "had repaired",
+        "will repair"
+      ],
+      "answer": 1,
+      "explanation": "Present Perfect Continuous Tense ('has been') के बाद क्रिया के चौथे रूप (V4 - 'repairing') का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-027",
+      "chapter": "Prepositions",
+      "question": "Sita fell ......... the rickshaw. (Choose the best option)",
+      "options": [
+        "from",
+        "of",
+        "down",
+        "off"
+      ],
+      "answer": 3,
+      "explanation": "किसी सतह या वाहन से अलग होकर गिरने के लिए 'off' Preposition का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-028",
+      "chapter": "Pronouns",
+      "question": "You can do it ....... (Choose the best option)",
+      "options": [
+        "yourself",
+        "himself",
+        "herself",
+        "themselves"
+      ],
+      "answer": 0,
+      "explanation": "कर्ता 'You' के लिए Reflexive/Emphatic Pronoun 'yourself' का प्रयोग होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-029",
+      "chapter": "Spelling Test",
+      "question": "Choose the correct spelling:",
+      "options": [
+        "families",
+        "families",
+        "famillies",
+        "famlies"
+      ],
+      "answer": 0,
+      "explanation": "'Family' का सही बहुवचन रूप 'families' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-030",
+      "chapter": "Phrasal Verbs & Prepositions",
+      "question": "What time does the bus ....... central London? (Choose the best option)",
+      "options": [
+        "leave to",
+        "leave for",
+        "leave at",
+        "leave in"
+      ],
+      "answer": 1,
+      "explanation": "किसी गंतव्य स्थान के लिए रवाना होने के अर्थ में 'leave for' का प्रयोग किया जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-031",
+      "chapter": "Poetry - My Grandmother's House",
+      "question": "'There is a house now far away where once I received love'-is from the poem",
+      "options": [
+        "Song of myself",
+        "Ode to Autumn",
+        "My Grandmother's House",
+        "Snake"
+      ],
+      "answer": 2,
+      "explanation": "यह पंक्ति कमला दास (Kamala Das) द्वारा रचित कविता 'My Grandmother's House' से ली गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-032",
+      "chapter": "Poetry - The Soldier",
+      "question": "The Soldier is a ......... poem. (Choose the correct option)",
+      "options": [
+        "love",
+        "happy",
+        "nature",
+        "war"
+      ],
+      "answer": 3,
+      "explanation": "रुपर्ट ब्रुक (Rupert Brooke) द्वारा लिखित 'The Soldier' एक देशभक्तिपूर्ण युद्ध कविता (War poem / Sonnet) है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-033",
+      "chapter": "Poetry - My Grandmother's House",
+      "question": "Kamala Das is ........ poetess. (Choose the correct option)",
+      "options": [
+        "American",
+        "Indian",
+        "African",
+        "Nigerian"
+      ],
+      "answer": 1,
+      "explanation": "कमला दास एक सुप्रसिद्ध भारतीय (Indian) कवयित्री और लेखिका हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-034",
+      "chapter": "Poetry - Fire-Hymn",
+      "question": "'Fire-Hymn' is composed by (Choose the correct option)",
+      "options": [
+        "D.H. Lawrence",
+        "K.N. Daruwala",
+        "T.S. Eliot",
+        "W.B. Yeats"
+      ],
+      "answer": 1,
+      "explanation": "'Fire-Hymn' कविता की रचना केकी एन. दारूवाला (K.N. Daruwala) ने की है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-035",
+      "chapter": "Poetry - Song of Myself",
+      "question": "'I celebrate myself and sing myself'-is written by (Choose the correct option)",
+      "options": [
+        "Walt Whitman",
+        "W.H. Auden",
+        "J. Keats",
+        "W.B. Yeats"
+      ],
+      "answer": 0,
+      "explanation": "यह प्रसिद्ध पंक्ति अमेरिकी कवि वाल्ट व्हिटमैन (Walt Whitman) की कविता 'Song of Myself' की शुरुआती पंक्ति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-036",
+      "chapter": "Story of English - Drama",
+      "question": "The word drama comes from a ........ word. (Choose the correct option)",
+      "options": [
+        "Latin",
+        "Scandinavian",
+        "Greek",
+        "American"
+      ],
+      "answer": 2,
+      "explanation": "'Drama' शब्द की उत्पत्ति ग्रीक (Greek) भाषा के शब्द 'dran' से हुई है, जिसका अर्थ 'कुछ करना' होता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-037",
+      "chapter": "Poetry - Snake",
+      "question": "The snake looked at the poet (Choose the correct option)",
+      "options": [
+        "happily",
+        "confusingly",
+        "sadly",
+        "vaguely"
+      ],
+      "answer": 3,
+      "explanation": "D.H. Lawrence की कविता 'Snake' में साँप पानी पीने के बाद कवि की ओर अस्पष्ट या उदासीन भाव (vaguely) से देखता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-038",
+      "chapter": "Poetry - Fire-Hymn",
+      "question": "The speaker in 'Fire-Hymn' belongs to ......... religion. (Choose the correct option)",
+      "options": [
+        "Indian",
+        "African",
+        "Zoroastrian",
+        "Nigerian"
+      ],
+      "answer": 2,
+      "explanation": "'Fire-Hymn' कविता के वक्ता (कवि केकी एन. दारूवाला) पारसी धर्म (Zoroastrian religion) से संबंधित हैं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-039",
+      "chapter": "Poetry - Macavity: The Mystery Cat",
+      "question": "Macavity is full of ........... (Choose the correct option)",
+      "options": [
+        "happiness",
+        "sadness",
+        "selfishness",
+        "deceitfulness"
+      ],
+      "answer": 3,
+      "explanation": "T.S. Eliot की कविता के अनुसार, मैकाविटी बिल्ली छल-कपट और धूर्तता (deceitfulness) से भरी हुई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-040",
+      "chapter": "Story of English - Poetry",
+      "question": "'The Scholar Gipsy' has been written by (Choose the correct option)",
+      "options": [
+        "Matthew Arnold",
+        "W.B. Yeats",
+        "Robert Bridges",
+        "J.M. Synge"
+      ],
+      "answer": 0,
+      "explanation": "प्रसिद्ध कविता 'The Scholar Gipsy' विक्टोरियन युग के कवि मैथ्यू अर्नोल्ड (Matthew Arnold) द्वारा लिखी गई है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-041",
+      "chapter": "Prose - The Artist",
+      "question": "Seibei was a twelve year old ......... boy. (Choose the correct option)",
+      "options": [
+        "Chinese",
+        "Japanese",
+        "African",
+        "Indian"
+      ],
+      "answer": 1,
+      "explanation": "शिगा नाओया की कहानी 'The Artist' का मुख्य पात्र सेबेई (Seibei) एक बारह वर्षीय जापानी (Japanese) लड़का था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-042",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "Our ancestors enjoyed ........ Rule. (Choose the correct option)",
+      "options": [
+        "Nice",
+        "Society",
+        "Home",
+        "Nation"
+      ],
+      "answer": 2,
+      "explanation": "महात्मा गांधी के निबंध 'Indian Civilization and Culture' के अनुसार, हमारे पूर्वजों ने सच्चे स्वराज (Home Rule) का आनंद लिया।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-043",
+      "chapter": "Prose - I Have a Dream",
+      "question": "Martin Luther King dislikes ............ discrimination. (Choose the correct option)",
+      "options": [
+        "caste",
+        "sex",
+        "religion",
+        "racial"
+      ],
+      "answer": 3,
+      "explanation": "मार्टिन लूथर किंग जूनियर ने अमेरिका में अश्वेतों के विरुद्ध होने वाले नस्लीय भेदभाव (racial discrimination) का विरोध किया।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-044",
+      "chapter": "Prose - A Marriage Proposal",
+      "question": "Lomov is a man of ........ temperament. (Choose the correct option)",
+      "options": [
+        "happy",
+        "Negative",
+        "sad",
+        "nervous"
+      ],
+      "answer": 3,
+      "explanation": "एंटोन चेखव के नाटक 'A Marriage Proposal' में लोमोव एक घबराए हुए और बेचैन स्वभाव (nervous temperament) का व्यक्ति है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-045",
+      "chapter": "Prose - Ideas That Have Helped Mankind",
+      "question": "Bertrand Russell was a Philosopher and a ....... (Choose the correct option)",
+      "options": [
+        "historian",
+        "scientist",
+        "mathematician",
+        "geologist"
+      ],
+      "answer": 2,
+      "explanation": "बर्ट्रेंड रसेल एक महान दार्शनिक होने के साथ-साथ एक प्रसिद्ध गणितज्ञ (mathematician) और इतिहासकार भी थे।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-046",
+      "chapter": "Story of English - Novel",
+      "question": ".......... is called the father of the modern novel. (Choose the correct option)",
+      "options": [
+        "Richardson",
+        "Fielding",
+        "Johnson",
+        "Dryden"
+      ],
+      "answer": 0,
+      "explanation": "सैमुअल रिचर्डसन (Samuel Richardson) को आधुनिक उपन्यास का जनक (Father of the modern novel) कहा जाता है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-047",
+      "chapter": "Prose - Indian Civilization and Culture",
+      "question": "........... are rulers of ancient Egypt. (Choose the correct option)",
+      "options": [
+        "Americans",
+        "Africans",
+        "Iranians",
+        "Pharaohs"
+      ],
+      "answer": 3,
+      "explanation": "प्राचीन मिस्र (Egypt) के शासकों को फ़राओ (Pharaohs) कहा जाता था।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-048",
+      "chapter": "Prose - India Through a Traveller's Eyes",
+      "question": "Pearl S. Buck is an ............. writer. (Choose the correct option)",
+      "options": [
+        "American",
+        "Indian",
+        "Iranian",
+        "African"
+      ],
+      "answer": 0,
+      "explanation": "पर्ल एस. बक (Pearl S. Buck) जन्म से एक अमेरिकी (American) लेखिका थीं।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-049",
+      "chapter": "Prose - I Have a Dream",
+      "question": "'I Have a Dream' is a speech delivered by ........... (Choose the correct option)",
+      "options": [
+        "Germaine Greer",
+        "Shiga Naoya",
+        "H.E. Bates",
+        "Martin Luther king Jr"
+      ],
+      "answer": 3,
+      "explanation": "'I Have a Dream' मार्टिन लूथर किंग जूनियर द्वारा 1963 में दिया गया एक ऐतिहासिक भाषण है।",
+      "marks": 1
+    },
+    {
+      "id": "eng-2018-050",
+      "chapter": "Prose - A Pinch of Snuff",
+      "question": "Nanukaka was the narrator's ........ (Choose the correct option)",
+      "options": [
+        "maternal uncle",
+        "father",
+        "cousin",
+        "mother"
+      ],
+      "answer": 0,
+      "explanation": "मनोहर मालगांवकर की कहानी 'A Pinch of Snuff' में नानूकाका कथावाचक (narrator) के मामा (maternal uncle) थे।",
+      "marks": 1
+    }
+  ]
+}
